@@ -1,0 +1,5 @@
+{
+    "name": "Small Frozen Mouse",
+    "description": "Aut eligendi adipisci quibusdam nihil voluptas incidunt cumque quod. Cupiditate voluptates accusantium mollitia delectus illo quasi ducimus voluptatum distinctio. Dolor quae iste maiores sint.",
+    "icon_url": "http://placeimg.com/640/480"
+}
