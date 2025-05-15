@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Frozen Car",
+    "description": "Explicabo voluptates odio quaerat. Voluptas et similique. Exercitationem et quisquam est. Illum natus fugit rem vitae. Ullam id eveniet.",
+    "icon_url": "http://placeimg.com/640/480"
+}

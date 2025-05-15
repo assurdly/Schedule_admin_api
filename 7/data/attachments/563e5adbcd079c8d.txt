@@ -1,0 +1,6 @@
+{
+    "name": "Licensed Wooden Table",
+    "description": "Fugiat accusamus eveniet ut natus ab animi sit. Ut ipsa voluptatem nemo quidem adipisci. Hic et non sint molestiae consequuntur.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
