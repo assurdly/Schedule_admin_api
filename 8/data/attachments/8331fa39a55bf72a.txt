@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Frozen Salad",
+    "description": "Consequatur consectetur quisquam cum nisi sapiente. Architecto maiores a ratione. Consequatur aut et laborum omnis eum itaque. Soluta est eos ut. Non beatae et non cum sed labore. Facere dolores voluptatibus magnam consectetur et.",
+    "icon_url": "http://placeimg.com/640/480"
+}

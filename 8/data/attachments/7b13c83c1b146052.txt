@@ -1,0 +1,6 @@
+{
+    "name": "Small Granite Chicken",
+    "description": "Est et laborum molestiae cupiditate repellendus sed quia exercitationem. Aut minima sed fuga fugiat repudiandae eveniet. Quasi deserunt aut enim quo. Laborum reprehenderit laboriosam molestiae nobis itaque temporibus quo repudiandae.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

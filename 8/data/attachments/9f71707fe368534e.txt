@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Concrete Bike",
+    "description": "Testing in progress",
+    "icon_url": "http://placeimg.com/640/480"
+}
