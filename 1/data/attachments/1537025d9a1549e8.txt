@@ -1,0 +1,5 @@
+{
+    "name": "Practical Steel Towels",
+    "description": "Testing in progress",
+    "icon_url": "http://placeimg.com/640/480"
+}

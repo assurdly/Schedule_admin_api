@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Wooden Table",
+    "description": "At saepe qui qui. Unde doloremque adipisci ea dolor ut praesentium dolorem qui. Distinctio soluta necessitatibus aut rerum. Et accusantium dolore vel rerum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Fantastic Soft Hat",
+    "description": "Dolorum iusto optio dignissimos laboriosam at enim reiciendis labore ipsam. Voluptas dolorem ut. Quia distinctio qui enim placeat occaecati cupiditate inventore.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
