@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Rubber Bike",
+    "description": "Enim saepe enim nobis reprehenderit unde est quaerat. Laborum alias eius sit ullam. Reiciendis occaecati unde est harum assumenda. Architecto repellendus ducimus ut ea dolores accusamus amet quo voluptatem. Sit incidunt enim veritatis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Rustic Rubber Hat",
+    "description": "Cupiditate cum et id qui omnis iure eligendi officia. Harum rerum non impedit incidunt non. Ut culpa at repellat nostrum repudiandae quos. Ut odit enim in. Qui pariatur tempore quaerat molestias.",
+    "icon_url": "http://placeimg.com/640/480"
+}

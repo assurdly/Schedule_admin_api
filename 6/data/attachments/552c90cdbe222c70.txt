@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataTable",
+    "short_name": "MTN utilities",
+    "description": "1080p",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}
