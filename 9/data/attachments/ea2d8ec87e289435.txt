@@ -1,0 +1,18 @@
+const jsonData = pm.response.json();
+
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Access token is present in the response", function () {
+    pm.expect(jsonData.data.token_data).to.have.property("token");
+});
+
+pm.test("Access token is a non-empty string", function () {
+    pm.expect(jsonData.data.token_data.token).to.be.a('string').and.to.not.be.empty;
+});
+
+pm.test("Set access token as an environmental variable", function () {
+    pm.environment.set("admin_access_token", jsonData.data.token_data.token);
+    pm.globals.set("admin_access_token", jsonData.data.token_data.token);
+});

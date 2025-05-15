@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataCreative",
+    "short_name": "MTN utilities",
+    "description": "revolutionize",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "17"
+}
