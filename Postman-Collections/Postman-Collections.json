@@ -8271,7 +8271,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('Category name exists. Use a new category name.')\r",
+													"    pm.expect(jsonData.message).to.eql('Product name exists. Use a new product name.')\r",
 													"})"
 												],
 												"type": "text/javascript",
@@ -8294,7 +8294,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": null,\n    \"product_group_id\": \"1\"\n}",
+											"raw": "{\n    \"name\": \"MTNDatamicrochip\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": null,\n    \"product_group_id\": \"1\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
