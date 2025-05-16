@@ -1,0 +1,6 @@
+{
+    "name": "Practical Concrete Salad",
+    "description": "Excepturi vel nesciunt cupiditate facilis. Sed rerum sed aut doloremque quia reprehenderit. Et ut in quos cumque voluptas et cumque.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
