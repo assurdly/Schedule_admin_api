@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataBerkshire",
+    "short_name": "MTN utilities",
+    "description": "value-added",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

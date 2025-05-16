@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Rubber Chicken",
+    "description": "Rerum occaecati voluptatem veniam quisquam molestiae nihil aut ducimus eius. Nam ipsam accusantium dolores est magni. Ipsum sit veniam earum veritatis minus. Nobis vel ea qui rerum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Incredible Frozen Cheese",
+    "description": "Asperiores voluptas aut sunt. Est quas amet hic nam ut aliquid vel quia. Corrupti officia quisquam dolorem quo aut iure. Cum id rerum autem consequatur. Impedit totam sint. Repudiandae et modi fuga ea aperiam.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

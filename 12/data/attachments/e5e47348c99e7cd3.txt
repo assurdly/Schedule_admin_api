@@ -1,0 +1,14 @@
+const jsonData = pm.response.json();
+
+pm.test("Status code is 200 OK", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Response returns valid data structure", function () {
+    pm.expect(jsonData.status).to.eql("success");
+    pm.expect(jsonData.data).to.have.property('name');
+    pm.expect(jsonData.data).to.have.property('status');
+    pm.expect(jsonData.data).to.have.property('id');
+    pm.expect(jsonData.data).to.have.property('webhook_url');
+    pm.expect(jsonData.data).to.have.property('biller_code');
+});
