@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Cotton Shoes",
+    "description": "Et voluptatibus sapiente ducimus. Incidunt tempore tempore nesciunt veniam voluptatem natus. Illum ut sit ab pariatur libero velit tempore impedit. Assumenda modi sunt harum. Laborum nulla non aut. Voluptatem consequatur optio asperiores et eaque voluptas libero nesciunt.",
+    "icon_url": "http://placeimg.com/640/480"
+}
