@@ -1,0 +1,6 @@
+{
+    "name": "Generic Rubber Computer",
+    "description": "Minima deserunt cupiditate velit rerum adipisci accusamus possimus nihil. Quia vitae eos nostrum quam qui id deleniti. Quae quod maxime quam iste.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataPersistent",
+    "short_name": "MTN utilities",
+    "description": "virtual",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}
