@@ -11804,13 +11804,7 @@
 											}
 										},
 										"method": "GET",
-										"header": [
-											{
-												"key": "Authorization",
-												"value": "Bearer {{TOKEN}}",
-												"type": "text"
-											}
-										],
+										"header": [],
 										"body": {
 											"mode": "raw",
 											"raw": "",
@@ -11820,7 +11814,7 @@
 												}
 											}
 										},
-										"url": "{{base_url}}/settings/categories"
+										"url": "{{base_url}}/admin/products"
 									},
 									"response": []
 								}
