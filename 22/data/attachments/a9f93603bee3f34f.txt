@@ -1,0 +1,17 @@
+const jsonData = pm.response.json();
+
+pm.test("Status code is 200 OK", function () {
+    pm.response.to.have.status(200);
+});
+
+
+pm.test("Each product has required fields", function () {
+    const requiredFields = ["id", "name", "short_name", "status", "product_group_id", "meta"];
+    if (jsonData.data.data) {
+        jsonData.data.data.forEach(group => {
+            requiredFields.forEach(field => {
+                pm.expect(group).to.have.property(field);
+            });
+        });
+    }
+});

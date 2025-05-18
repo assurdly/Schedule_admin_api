@@ -1,0 +1,6 @@
+{
+    "name": "Small Cotton Shoes",
+    "description": "Nihil libero at sit itaque eligendi et totam deserunt ut. Illum non nesciunt ea nesciunt dolores tempore sed culpa at. Facilis ab nihil et impedit aut qui.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
