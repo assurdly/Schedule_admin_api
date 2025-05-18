@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Metal Fish",
+    "description": "Maiores ullam aliquam deleniti iure animi quibusdam eligendi. Necessitatibus facilis dolor beatae ut ut ex sit eligendi non. Non dolorem aut error beatae et veritatis aspernatur dolorem.",
+    "icon_url": "http://placeimg.com/640/480"
+}

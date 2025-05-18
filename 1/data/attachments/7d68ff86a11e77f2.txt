@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Soft Computer",
-    "description": "Porro quibusdam unde quas est non eaque. Officiis quam autem in delectus. Nobis repellendus voluptatibus qui sed non adipisci et fuga illo. Eos at dolores ut exercitationem non autem ducimus dolorem. Quas laudantium odit sapiente pariatur voluptatem eligendi fugiat. Doloremque porro quia minus laboriosam non dolor nam omnis distinctio.",
-    "icon_url": "http://placeimg.com/640/480"
-}
