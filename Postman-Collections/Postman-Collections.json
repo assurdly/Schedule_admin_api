@@ -11783,6 +11783,24 @@
 						}
 					],
 					"id": "b39d93c8-e1ad-4f85-afc6-6b013ac9c3b5"
+				},
+				{
+					"name": "Settings",
+					"item": [
+						{
+							"name": "New Request",
+							"id": "b05ccf52-7b5f-4ab8-aac6-c2e8138a83cf",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": []
+							},
+							"response": []
+						}
+					],
+					"id": "fd055eca-b35e-4093-87cc-258669abef62"
 				}
 			],
 			"id": "2561c0e4-e090-42d3-8178-b8a4f9f82b18"
