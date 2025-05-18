@@ -1,0 +1,6 @@
+{
+    "name": "Handmade Fresh Gloves",
+    "description": "Sunt ut et. Iusto maxime et non voluptatum aliquid sapiente autem non ducimus. In odio quam sunt odit. Provident placeat magnam in enim. Provident sunt in aut quae doloribus libero adipisci quia et.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

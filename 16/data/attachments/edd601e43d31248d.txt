@@ -1,0 +1,5 @@
+{
+    "name": "Generic Fresh Tuna",
+    "description": "Vel aut numquam. Et distinctio laboriosam. Et error incidunt autem aut optio delectus similique dolorum blanditiis. Sit dolores accusantium. Facilis aut sapiente enim voluptatibus numquam dolorem. Porro eos aut.",
+    "icon_url": "http://placeimg.com/640/480"
+}
