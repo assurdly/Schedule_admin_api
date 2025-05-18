@@ -11788,16 +11788,44 @@
 					"name": "Settings",
 					"item": [
 						{
-							"name": "New Request",
-							"id": "b05ccf52-7b5f-4ab8-aac6-c2e8138a83cf",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"method": "GET",
-								"header": []
-							},
-							"response": []
+							"name": "Get Categories settings",
+							"item": [
+								{
+									"name": "Get Categories settings",
+									"id": "3ca636c4-7657-40d3-a65b-a74eda451419",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "GET",
+										"header": [
+											{
+												"key": "Authorization",
+												"value": "Bearer {{TOKEN}}",
+												"type": "text"
+											}
+										],
+										"body": {
+											"mode": "raw",
+											"raw": "",
+											"options": {
+												"raw": {
+													"language": "json"
+												}
+											}
+										},
+										"url": "{{base_url}}/settings/categories"
+									},
+									"response": []
+								}
+							],
+							"id": "174a9218-02f3-477c-b0d7-9b6756535b49"
 						}
 					],
 					"id": "fd055eca-b35e-4093-87cc-258669abef62"
