@@ -1,0 +1,6 @@
+{
+    "name": "Incredible Fresh Bacon",
+    "description": "Quia et aut id. Molestiae aut asperiores rem deserunt expedita iste cupiditate. Quasi quasi libero maiores. Ducimus eveniet corrupti neque rem. Accusamus qui sit consequatur est ad temporibus esse culpa. Repudiandae aliquid debitis sed impedit porro voluptatum est sed modi.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

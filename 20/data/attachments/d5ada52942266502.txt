@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Cotton Bacon",
+    "description": "Ut recusandae occaecati voluptatem a magni facilis quibusdam. Quasi illum in dolore aperiam qui amet. Enim eum qui rerum et sit dicta eveniet. Aliquam incidunt placeat iusto rem in. Dolores nobis reprehenderit exercitationem. Rerum et dolorem dolor ipsam quis consectetur iste.",
+    "icon_url": "http://placeimg.com/640/480"
+}
