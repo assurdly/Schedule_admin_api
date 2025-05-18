@@ -11960,12 +11960,11 @@
 											}
 										},
 										"url": {
-											"raw": "{{base_url}}/v1/settings/:settings_id",
+											"raw": "{{base_url}}/settings/:settings_id",
 											"host": [
 												"{{base_url}}"
 											],
 											"path": [
-												"v1",
 												"settings",
 												":settings_id"
 											],
@@ -11977,7 +11976,133 @@
 											]
 										}
 									},
-									"response": []
+									"response": [
+										{
+											"id": "91dbb9e4-1f33-4bb1-bf95-e8ce20442e71",
+											"name": "Update Settings - Success",
+											"originalRequest": {
+												"method": "PATCH",
+												"header": [],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"value\": \"<html>\\n\\n  <head>\\n    <title>Verify Your Email to Start Your Subscription</title>\\n  </head>\\n\\n  <body>\\n    <h1>Hi {{customer_name}},</h1>\\n    <p>You're one step away from activating your subscription. Please verify your email address using the OTP provided below:</p>\\n    <p>{{otp}}</p>\\n    <p>Cheers, Schedule</p>\\n  </body>\\n\\n</html>\",\n    \"extra_data\": {\n        \"subject\": \"Verify Your Email to Start Your Subscription\",\n        \"for_customer\": true\n    }\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": {
+													"raw": "{{base_url}}/settings/:settings_id",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"settings",
+														":settings_id"
+													],
+													"variable": [
+														{
+															"key": "settings_id",
+															"value": "69"
+														}
+													]
+												}
+											},
+											"status": "Created",
+											"code": 201,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "998"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"3e6-1bD9upS/XZpL4vcsAhRPyERsZ5o\""
+												},
+												{
+													"key": "Date",
+													"value": "Sun, 18 May 2025 21:45:40 GMT"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Keep-Alive",
+													"value": "timeout=5"
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"Settings updated successfully\",\n    \"data\": {\n        \"value\": \"<html>\\n\\n  <head>\\n    <title>Verify Your Email to Start Your Subscription</title>\\n  </head>\\n\\n  <body>\\n    <h1>Hi {{customer_name}},</h1>\\n    <p>You're one step away from activating your subscription. Please verify your email address using the OTP provided below:</p>\\n    <p>{{otp}}</p>\\n    <p>Cheers, Schedule</p>\\n  </body>\\n\\n</html>\",\n        \"extra_data\": {\n            \"subject\": \"Verify Your Email to Start Your Subscription\",\n            \"for_customer\": true\n        },\n        \"id\": 69,\n        \"settings_category_id\": 3,\n        \"name\": \"Verify Email - Opt-In\",\n        \"description\": \"Verify Your Email to Start Your Subscription\",\n        \"slug\": \"email_template_verify_email_opt_in\",\n        \"data_type\": \"html\",\n        \"value_options\": \"\",\n        \"minimum_value\": null,\n        \"maximum_value\": null,\n        \"encrypt\": 0,\n        \"visibility\": \"global\",\n        \"change_by\": \"global\",\n        \"status\": \"active\",\n        \"created_on\": \"2025-05-17 01:22:40\",\n        \"created_by\": null,\n        \"modified_on\": \"2025-05-18 23:45:40\",\n        \"modified_by\": null,\n        \"deleted_flag\": 0,\n        \"deleted_by\": null\n    }\n}"
+										}
+									]
 								}
 							],
 							"id": "6c447013-59a8-4bad-9afb-0d9a8ad208c6"
