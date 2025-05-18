@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Metal Mouse",
+    "description": "Et assumenda officiis iusto ex. Recusandae pariatur dolor molestiae. Unde qui eos veritatis voluptatibus hic minus. Ea ex laborum sequi assumenda sapiente et et omnis repellat.",
+    "icon_url": "http://placeimg.com/640/480"
+}
