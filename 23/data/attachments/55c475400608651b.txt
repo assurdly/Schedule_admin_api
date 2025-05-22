@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Plastic Chicken",
+    "description": "Consectetur aut odit eum ut. Consectetur ad fugit consequatur dolore vero porro. Aliquid illum ducimus veritatis delectus.",
+    "icon_url": "http://placeimg.com/640/480"
+}

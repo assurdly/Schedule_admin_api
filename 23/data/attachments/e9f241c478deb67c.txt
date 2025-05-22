@@ -1,0 +1,8 @@
+{
+    "name": "MTNDatatransmitter",
+    "short_name": "MTN utilities",
+    "description": "Function-based",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "17"
+}
