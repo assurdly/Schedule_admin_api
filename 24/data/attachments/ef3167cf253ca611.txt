@@ -1,0 +1,1 @@
+{"status":"success","message":"Category created successfully","data":{"id":24,"created_on":"2025-05-23 18:29:10","created_by":null,"modified_on":"2025-05-23 18:29:10","modified_by":null,"deleted_by":null,"deleted_flag":0,"name":"Handcrafted Concrete Bike","description":"Testing in progress","status":"active","icon_url":"http://placeimg.com/640/480"}}
