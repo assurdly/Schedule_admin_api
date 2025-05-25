@@ -3976,7 +3976,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTN Data{{$randomProductName}}\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"2\"\n}",
+											"raw": "{\n    \"name\": \"MTN Data{{$randomProductName}}\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator_id\": \"SwitchTech\",\n    \"category_id\": \"2\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -4138,7 +4138,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTNDataTable\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"{{$randomWord}}\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"2\"\n}",
+											"raw": "{\n    \"name\": \"MTNDataTable\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"{{$randomWord}}\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator_id\": \"SwitchTech\",\n    \"category_id\": \"2\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -4746,205 +4746,6 @@
 							"name": "Update Product Group",
 							"item": [
 								{
-									"name": "Update Product Group - Success",
-									"event": [
-										{
-											"listen": "test",
-											"script": {
-												"id": "91685c55-ec67-4751-8d63-e523414b55d5",
-												"exec": [
-													"const jsonData = pm.response.json();\r",
-													"\r",
-													"pm.test(\"Status code is 200 OK\", function () {\r",
-													"    pm.response.to.have.status(200);\r",
-													"});\r",
-													"\r",
-													"pm.test(\"Response returns valid data structure\", function () {\r",
-													"    pm.expect(jsonData.status).to.eql(\"success\");\r",
-													"    pm.expect(jsonData.data).to.have.property('name');\r",
-													"    pm.expect(jsonData.data).to.have.property('status');\r",
-													"    pm.expect(jsonData.data).to.have.property('id');\r",
-													"    pm.expect(jsonData.data).to.have.property('webhook_url');\r",
-													"    pm.expect(jsonData.data).to.have.property('biller_code');\r",
-													"});\r",
-													""
-												],
-												"type": "text/javascript",
-												"packages": {}
-											}
-										}
-									],
-									"id": "168c9c25-1b50-4138-a338-1758acccfb53",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "PATCH",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\n    \"name\": \"GLOData{{$randomWord}}\",\n    \"short_name\": \"GLO utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"2\",\n    \"status\": \"active\"\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": {
-											"raw": "{{base_url}}/admin/product-groups/:product_group_id",
-											"host": [
-												"{{base_url}}"
-											],
-											"path": [
-												"admin",
-												"product-groups",
-												":product_group_id"
-											],
-											"variable": [
-												{
-													"id": "abfee0e3-2a4a-4040-bae6-55d3ab4ae5b9",
-													"key": "product_group_id",
-													"value": "3"
-												}
-											]
-										}
-									},
-									"response": [
-										{
-											"id": "e637eea9-0629-43bb-bd88-2a987d7df2ed",
-											"name": "Update Product Group",
-											"originalRequest": {
-												"method": "PATCH",
-												"header": [],
-												"body": {
-													"mode": "raw",
-													"raw": "{\n    \"name\": \"GLOData{{$randomWord}}\",\n    \"short_name\": \"GLO utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"2\",\n    \"status\": \"active\"\n}",
-													"options": {
-														"raw": {
-															"language": "json"
-														}
-													}
-												},
-												"url": {
-													"raw": "{{base_url}}/admin/product-groups/:product_group_id",
-													"host": [
-														"{{base_url}}"
-													],
-													"path": [
-														"admin",
-														"product-groups",
-														":product_group_id"
-													],
-													"variable": [
-														{
-															"key": "product_group_id",
-															"value": "1"
-														}
-													]
-												}
-											},
-											"status": "OK",
-											"code": 200,
-											"_postman_previewlanguage": "json",
-											"header": [
-												{
-													"key": "Access-Control-Allow-Origin",
-													"value": "*"
-												},
-												{
-													"key": "Access-Control-Allow-Credentials",
-													"value": "true"
-												},
-												{
-													"key": "Access-Control-Expose-Headers",
-													"value": "x-encryption-key,x-encryption-iv"
-												},
-												{
-													"key": "Content-Security-Policy",
-													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-												},
-												{
-													"key": "Cross-Origin-Opener-Policy",
-													"value": "same-origin"
-												},
-												{
-													"key": "Cross-Origin-Resource-Policy",
-													"value": "cross-origin"
-												},
-												{
-													"key": "X-DNS-Prefetch-Control",
-													"value": "off"
-												},
-												{
-													"key": "X-Frame-Options",
-													"value": "SAMEORIGIN"
-												},
-												{
-													"key": "Strict-Transport-Security",
-													"value": "max-age=15552000; includeSubDomains"
-												},
-												{
-													"key": "X-Download-Options",
-													"value": "noopen"
-												},
-												{
-													"key": "X-Content-Type-Options",
-													"value": "nosniff"
-												},
-												{
-													"key": "Origin-Agent-Cluster",
-													"value": "?1"
-												},
-												{
-													"key": "X-Permitted-Cross-Domain-Policies",
-													"value": "none"
-												},
-												{
-													"key": "Referrer-Policy",
-													"value": "no-referrer"
-												},
-												{
-													"key": "X-XSS-Protection",
-													"value": "0"
-												},
-												{
-													"key": "Content-Type",
-													"value": "application/json; charset=utf-8"
-												},
-												{
-													"key": "Content-Length",
-													"value": "1432"
-												},
-												{
-													"key": "ETag",
-													"value": "W/\"598-XMEY68+G5ZgNOBspk/ceBfoOcHY\""
-												},
-												{
-													"key": "Date",
-													"value": "Mon, 05 May 2025 08:10:32 GMT"
-												},
-												{
-													"key": "Connection",
-													"value": "keep-alive"
-												},
-												{
-													"key": "Keep-Alive",
-													"value": "timeout=5"
-												}
-											],
-											"cookie": [],
-											"responseTime": null,
-											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"name\": \"GLODataKina\",\n        \"short_name\": \"GLO utilities\",\n        \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n        \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n        \"aggregator\": \"SwitchTech\",\n        \"category_id\": 2,\n        \"status\": \"active\",\n        \"id\": 1,\n        \"meta\": {\n            \"data\": {\n                \"error\": null,\n                \"errors\": null,\n                \"provider\": \"PaywithAccount\",\n                \"client_info\": {\n                    \"id\": null,\n                    \"meta\": null,\n                    \"name\": null,\n                    \"colors\": null,\n                    \"css_url\": null,\n                    \"options\": null,\n                    \"logo_url\": null,\n                    \"merchant\": null,\n                    \"paginate\": false,\n                    \"bank_name\": null,\n                    \"console_url\": null,\n                    \"footer_text\": null,\n                    \"bank_cbn_code\": null,\n                    \"paginate_count\": 0,\n                    \"show_options_icon\": false,\n                    \"js_background_image\": null\n                },\n                \"provider_response\": {\n                    \"meta\": {\n                        \"biller_code\": \"000003\"\n                    },\n                    \"status\": \"ACTIVE\",\n                    \"bank_code\": \"070\",\n                    \"bank_name\": null,\n                    \"reference\": \"TXN_SCHDL20250505_061ebdb6\",\n                    \"created_on\": \"2025-05-05 09:10:00\",\n                    \"account_name\": \"MTN utilities\",\n                    \"account_type\": null,\n                    \"contract_code\": null,\n                    \"currency_code\": \"NGN\",\n                    \"account_number\": \"9020022570\",\n                    \"customer_email\": \"paywithaccountMTNDataBaby@onepipe.io\",\n                    \"account_reference\": \"TXN_SCHDL20250505_061ebdb6\"\n                },\n                \"provider_response_code\": \"00\"\n            },\n            \"status\": \"Successful\",\n            \"message\": \"Transaction processed successfully\"\n        },\n        \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n        \"biller_code\": \"000003\",\n        \"created_on\": \"2025-05-05 09:10:16\",\n        \"created_by\": null,\n        \"modified_on\": \"2025-05-05 09:10:32\",\n        \"modified_by\": null,\n        \"deleted_flag\": 0,\n        \"deleted_by\": null\n    }\n}"
-										}
-									]
-								},
-								{
 									"name": "Update Product Group - Missing Required Fields",
 									"event": [
 										{
@@ -4984,7 +4785,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"\",\n    \"short_name\": \"GLO utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"2\",\n    \"status\": \"active\"\n}",
+											"raw": "{\n    \"name\": \"\",\n    \"short_name\": \"GLO utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator_id\": \"4\",\n    \"category_id\": \"2\",\n    \"status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -5003,7 +4804,6 @@
 											],
 											"variable": [
 												{
-													"id": "8234ab5f-1859-4831-a553-47dab1d51547",
 													"key": "product_group_id",
 													"value": "3"
 												}
