@@ -1,8 +1,0 @@
-{
-    "name": "MTNDataWyoming",
-    "short_name": "MTN utilities",
-    "description": "standardization",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Soft Shirt",
-    "description": "Doloribus eos vel voluptas itaque aperiam qui voluptatem dolorem. Tempore amet consequatur repellat voluptatem officia aperiam saepe sit consequatur. Magni illo possimus deserunt quae pariatur molestias.",
-    "icon_url": "http://placeimg.com/640/480"
-}

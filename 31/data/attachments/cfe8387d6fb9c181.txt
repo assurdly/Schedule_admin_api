@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Wooden Hat",
+    "description": "Aperiam autem non adipisci sunt sed cumque quasi a. Nostrum placeat est dolore. Explicabo officiis qui eveniet nisi illum at eos.",
+    "icon_url": "http://placeimg.com/640/480"
+}

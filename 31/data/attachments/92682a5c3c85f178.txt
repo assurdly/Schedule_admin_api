@@ -1,0 +1,7 @@
+{
+    "value": "<html>\n\n  <head>\n    <title>Verify Your Email to Start Your Subscription</title>\n  </head>\n\n  <body>\n    <h1>Hi {{customer_name}},</h1>\n    <p>You're one step away from activating your subscription. Please verify your email address using the OTP provided below:</p>\n    <p>{{otp}}</p>\n    <p>Cheers, Schedule</p>\n  </body>\n\n</html>",
+    "extra_data": {
+        "subject": "Verify Your Email to Start Your Subscription",
+        "for_customer": true
+    }
+}

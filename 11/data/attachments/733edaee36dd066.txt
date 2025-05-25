@@ -1,5 +1,0 @@
-{
-    "name": "Practical Fresh Shirt",
-    "description": "Illum sint voluptate rem nulla aut ut aut. Ut iure asperiores atque. Quae quia voluptatum neque porro quidem alias voluptatem eaque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

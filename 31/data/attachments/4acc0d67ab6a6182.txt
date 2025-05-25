@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Fresh Cheese",
+    "description": "Fuga et doloribus eius minima dicta necessitatibus sunt. Qui exercitationem repellendus aut laborum asperiores. Neque dolorum vitae cumque voluptatem necessitatibus eveniet mollitia omnis. Distinctio quis ad voluptate delectus quibusdam.",
+    "icon_url": "http://placeimg.com/640/480"
+}

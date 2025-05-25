@@ -1,0 +1,6 @@
+{
+    "name": "Unbranded Wooden Chips",
+    "description": "Officia officiis est consequatur. Et fuga molestias iure quis rem quisquam autem eligendi. Suscipit et atque quia id quis exercitationem sunt laboriosam possimus. Perferendis at eos perspiciatis minima facere placeat ratione quisquam.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
