@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Cotton Pants",
+    "description": "Repellendus quisquam est nam consectetur suscipit. Sed deserunt eos sed molestiae et ab ad. Id distinctio non inventore. Velit eos perspiciatis enim eius et nisi praesentium officiis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

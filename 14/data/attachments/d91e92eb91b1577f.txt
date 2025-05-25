@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Cotton Ball",
-    "description": "Voluptatem non voluptas magnam. Dignissimos neque hic aperiam eum possimus earum necessitatibus. Explicabo commodi magnam quam quo hic exercitationem laboriosam in. Aut explicabo enim saepe est.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Small Plastic Cheese",
-    "description": "Reprehenderit minima qui velit distinctio voluptas sunt inventore qui omnis. Assumenda quos maxime voluptas sint amet molestiae minima sed. Tenetur quisquam consectetur eveniet fugiat dolorem. Doloremque incidunt dolor quis accusamus aut quis molestias.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Granite Tuna",
-    "description": "Eius hic occaecati perspiciatis aspernatur ratione aut nihil. Vero sint libero eveniet nihil iusto repellendus. Incidunt quam commodi quia reprehenderit aut in quia dolores. Cumque facilis enim.",
-    "icon_url": "http://placeimg.com/640/480"
-}

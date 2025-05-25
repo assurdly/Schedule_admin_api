@@ -1,0 +1,6 @@
+{
+    "name": "Unbranded Granite Cheese",
+    "description": "Omnis vel natus officiis sit facere vel a tempore. Cum et sit saepe aliquam iusto quae fugit reiciendis. Fuga minus voluptatum fugiat cum libero vel. Eum ratione dolor perferendis. Ut rerum delectus qui.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
