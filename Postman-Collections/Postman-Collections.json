@@ -8997,7 +8997,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"description\": \"\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": 100.00,\n    \"product_group_id\": \"2\",\n    \"status\": \"active\"\n}",
+											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"description\": \"Test\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": 100.00,\n    \"product_group_id\": \"2\",\n    \"status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -9016,7 +9016,6 @@
 											],
 											"variable": [
 												{
-													"id": "05adf8f6-47a0-4513-920b-2b209d159a01",
 													"key": "product_id",
 													"value": "306"
 												}
@@ -9167,7 +9166,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Valid Response message is returned\", function () {\r",
-													"   pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+													"   pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"});"
 												],
 												"type": "text/javascript",
@@ -9209,7 +9208,6 @@
 											],
 											"variable": [
 												{
-													"id": "77a7f0bf-eacf-44a9-8a22-0b04b5d83b89",
 													"key": "product_id",
 													"value": "3"
 												}
