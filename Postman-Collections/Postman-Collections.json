@@ -7907,7 +7907,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('Negative amount is not allowed')\r",
+													"    pm.expect(jsonData.message).to.eql('Product amount must be greater than 0')\r",
 													"})"
 												],
 												"type": "text/javascript",
@@ -8067,7 +8067,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+													"    pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"})"
 												],
 												"type": "text/javascript",
