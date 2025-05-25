@@ -1,0 +1,6 @@
+{
+    "name": "Sleek Plastic Cheese",
+    "description": "Repellat asperiores eum est eos deleniti cupiditate. Alias nostrum quis est porro. Dignissimos qui eos possimus vitae ipsum sunt aspernatur. Velit expedita et.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

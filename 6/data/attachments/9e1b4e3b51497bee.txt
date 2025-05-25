@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Steel Chair",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

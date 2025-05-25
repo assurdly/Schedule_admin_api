@@ -1,6 +1,0 @@
-{
-    "name": "Fantastic Metal Salad",
-    "description": "Quia at numquam quae qui placeat voluptatem. Libero deserunt sed reiciendis voluptatum quia. Culpa sed architecto cumque odio. Aut dolor eligendi error natus recusandae in.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

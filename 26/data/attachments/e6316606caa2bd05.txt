@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Soft Cheese",
+    "description": "Nihil sunt veniam quia dolores dicta et ipsum nemo repudiandae. Libero numquam esse qui dolorum aut. Accusamus odit et fuga. Quia sit tempora. Sunt dolores quia numquam reiciendis amet laboriosam quo eveniet. Accusamus et voluptas rem.",
+    "icon_url": "http://placeimg.com/640/480"
+}

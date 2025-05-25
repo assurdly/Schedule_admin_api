@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Granite Salad",
-    "description": "Ipsam sint eos magnam quod cumque non ut voluptatem asperiores. Saepe dolorem consequatur inventore sit. Laborum iure reiciendis animi velit.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Concrete Pants",
-    "description": "Testing in progress",
-    "icon_url": "http://placeimg.com/640/480"
-}

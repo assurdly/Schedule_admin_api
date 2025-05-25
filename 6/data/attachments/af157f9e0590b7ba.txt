@@ -1,6 +1,0 @@
-{
-    "name": "Small Frozen Pizza",
-    "description": "Neque est rerum molestiae et. Exercitationem in minus. Amet velit amet doloremque quia.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}
