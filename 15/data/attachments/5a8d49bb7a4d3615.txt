@@ -1,6 +1,0 @@
-{
-    "name": "Small Cotton Salad",
-    "description": "Deserunt libero inventore dolores soluta possimus quia tempora. Sit mollitia quibusdam velit veniam perspiciatis recusandae dolore. Nihil facere expedita labore facere commodi. Dolores quo expedita eveniet odit distinctio ut velit corporis.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

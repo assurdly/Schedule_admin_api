@@ -1,0 +1,5 @@
+{
+    "name": "Practical Steel Shirt",
+    "description": "Inventore ratione eos itaque non laudantium. Ipsa ipsam consectetur asperiores. Rem placeat voluptas id.",
+    "icon_url": "http://placeimg.com/640/480"
+}

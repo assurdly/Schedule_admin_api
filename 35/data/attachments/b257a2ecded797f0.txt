@@ -1,0 +1,6 @@
+{
+    "name": "Generic Concrete Tuna",
+    "description": "Qui officia consectetur debitis. Eum ut error similique quae illum vero placeat accusamus iure. Et repellendus molestias ut excepturi omnis corrupti velit. Doloremque assumenda sunt repellendus quod. Sapiente eum velit odit eum ea beatae non ea voluptatum. Aut voluptatum molestias magnam voluptas ullam hic rem soluta.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

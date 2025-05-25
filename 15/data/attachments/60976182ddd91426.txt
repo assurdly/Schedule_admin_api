@@ -1,5 +1,0 @@
-{
-    "name": "Refined Concrete Shoes",
-    "description": "Aut aliquid quis. Et optio expedita explicabo facilis architecto eos suscipit voluptatem. Quis repudiandae laboriosam autem. Sunt praesentium voluptas vel nihil distinctio recusandae maxime aspernatur est. Harum provident pariatur aperiam sit et reiciendis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

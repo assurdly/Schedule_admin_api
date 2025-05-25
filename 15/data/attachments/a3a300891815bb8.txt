@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Rubber Salad",
-    "description": "Est molestiae doloremque consequatur aut harum sed aut eligendi ipsa. Voluptatem provident quo quos vel porro nobis. Amet autem sed et non. Doloribus voluptates expedita eaque molestiae fuga.",
-    "icon_url": "http://placeimg.com/640/480"
-}
