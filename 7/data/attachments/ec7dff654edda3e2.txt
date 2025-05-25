@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Frozen Computer",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

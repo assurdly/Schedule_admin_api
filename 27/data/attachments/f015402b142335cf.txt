@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Soft Chicken",
+    "description": "Culpa rerum aut sequi qui et corporis in itaque numquam. Velit voluptatum delectus et tempore veritatis et. Deleniti repellendus animi quia quae esse sint culpa omnis sed. Qui dolorem eius sit dignissimos libero et. Quidem mollitia reiciendis provident ducimus cupiditate sit repellendus ad vitae.",
+    "icon_url": "http://placeimg.com/640/480"
+}
