@@ -8588,7 +8588,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid error message\", function () {\r",
-													"    pm.expect(jsonData.data).to.have.property('message').and.not.empty\r",
+													"    pm.expect(jsonData).to.have.property('message').and.not.empty\r",
 													"})"
 												],
 												"type": "text/javascript",
@@ -8630,7 +8630,6 @@
 											],
 											"variable": [
 												{
-													"id": "4c962694-f211-4b08-badb-36490fcf2abe",
 													"key": "product_id",
 													"value": "3"
 												}
@@ -8781,7 +8780,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Valid Response message is returned\", function () {\r",
-													"   pm.expect(jsonData.message).to.eql('Product group  does not exists or is inactive')\r",
+													"   pm.expect(jsonData.message).to.eql('Product Group does not exists or is inactive')\r",
 													"});"
 												],
 												"type": "text/javascript",
@@ -8804,7 +8803,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"description\": \"\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": 100.00,\n    \"product_group_id\": \"20\",\n    \"status\": \"active\"\n}",
+											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"description\": \"TTest\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": 100.00,\n    \"product_group_id\": \"205\",\n    \"status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -8823,7 +8822,6 @@
 											],
 											"variable": [
 												{
-													"id": "393d5e34-4409-4bd0-a138-1ef4b5e29f16",
 													"key": "product_id",
 													"value": "3"
 												}
