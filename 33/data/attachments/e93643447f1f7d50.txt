@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Metal Ball",
+    "description": "Amet et ut id unde nam dicta asperiores. Ducimus voluptatem voluptatem tenetur. Dicta provident ratione voluptatem molestiae eum hic quis officia ad.",
+    "icon_url": "http://placeimg.com/640/480"
+}

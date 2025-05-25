@@ -1,6 +1,0 @@
-{
-    "name": "Rustic Granite Cheese",
-    "description": "Illo sapiente quisquam ipsa rerum autem consequatur ut velit. Explicabo reiciendis labore hic saepe deserunt aut. Facilis accusamus vitae voluptates veniam. Voluptas qui voluptate est. Perferendis sed maiores qui consequatur doloribus blanditiis.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Frozen Bike",
-    "description": "Corporis voluptate non odit. Porro dolorem placeat. Id et sed voluptatem molestiae earum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

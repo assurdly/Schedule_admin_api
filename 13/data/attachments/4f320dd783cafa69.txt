@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Granite Chair",
-    "description": "Officia quam est eius ratione qui omnis temporibus occaecati aperiam. Aliquid doloribus sunt cum qui consectetur omnis. Aliquam velit quia perspiciatis.",
-    "icon_url": "http://placeimg.com/640/480"
-}
