@@ -1,0 +1,6 @@
+{
+    "name": "Gorgeous Metal Hat",
+    "description": "Eligendi officia quod quisquam totam debitis. Repellat aliquid dolor. Tenetur consequatur rerum qui dolores distinctio debitis consectetur et. Omnis aut fugiat dolores quisquam est impedit qui.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
