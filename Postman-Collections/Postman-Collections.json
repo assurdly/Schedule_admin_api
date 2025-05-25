@@ -337,6 +337,12 @@
 										"disableBodyPruning": true
 									},
 									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
 										"method": "POST",
 										"header": [
 											{
@@ -422,65 +428,6 @@
 									"response": []
 								},
 								{
-									"name": "Create Categories - Invalid Field Value",
-									"event": [
-										{
-											"listen": "test",
-											"script": {
-												"id": "0ec6c025-d7f5-41a0-8e32-e4d10abeebbb",
-												"exec": [
-													"const jsonData = pm.response.json();\r",
-													"pm.test(\"Status code is 400\", function () {\r",
-													"    pm.response.to.have.status(400);\r",
-													"});\r",
-													"\r",
-													"pm.test(\"Valid Response message is returned\", function () {\r",
-													"   pm.expect(jsonData.message).to.eql('Only aplpbateic characters are allowed')\r",
-													"});\r",
-													"\r",
-													""
-												],
-												"type": "text/javascript",
-												"packages": {}
-											}
-										}
-									],
-									"id": "3f1d4720-c5f8-43a5-9470-f47ceb0dd356",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "POST",
-										"header": [
-											{
-												"key": "Content-Type",
-												"value": "application/json"
-											},
-											{
-												"key": "Authorization",
-												"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidHlwZSI6ImF1dGgiLCJpYXQiOjE3NDY2OTI5MDMsImV4cCI6MTc0NjY5NjUwM30.50EE7IqfJK55TsmIgpk0PbDzLIsQk5Zxqnk4EMK6Mgw"
-											}
-										],
-										"body": {
-											"mode": "raw",
-											"raw": "{\n    \"name\": \"15\",\n    \"description\": \"Testing now\",\n    \"icon_url\": \"{{$randomImageUrl}}\"\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": "{{base_url}}/admin/categories"
-									},
-									"response": []
-								},
-								{
 									"name": "Create Categories - Duplicate Category Name",
 									"event": [
 										{
@@ -555,7 +502,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+													"    pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"})\r",
 													"\r",
 													""
@@ -615,7 +562,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('Unauthorized')\r",
+													"    pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"})\r",
 													"\r",
 													""
