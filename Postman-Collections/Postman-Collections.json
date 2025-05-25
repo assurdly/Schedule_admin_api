@@ -5986,7 +5986,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Valid Response message is returned\", function () {\r",
-													"   pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+													"   pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"});\r",
 													"\r",
 													""
@@ -6932,7 +6932,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Valid Response message is returned\", function () {\r",
-													"   pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+													"   pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"});"
 												],
 												"type": "text/javascript",
@@ -6999,7 +6999,6 @@
 											],
 											"variable": [
 												{
-													"id": "b96dd12e-7c94-47e4-a60a-d2b53f741f1a",
 													"key": "product_group_id",
 													"value": "1"
 												}
