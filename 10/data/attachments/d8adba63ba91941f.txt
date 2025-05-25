@@ -1,4 +1,0 @@
-{
-    "email": "root@schedule.com",
-    "password": "q7vkuzU@9"
-}

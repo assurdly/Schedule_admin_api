@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Fresh Ball",
-    "description": "Provident soluta omnis. Fugiat qui deserunt sit et assumenda vitae libero asperiores. Ab repellat quaerat earum adipisci quidem quia quibusdam sed alias. Consequatur commodi voluptatem ad rerum. Illum ducimus quam voluptas tenetur. Harum sit minima delectus in quis eius libero laudantium.",
-    "icon_url": "http://placeimg.com/640/480"
-}

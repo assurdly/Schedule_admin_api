@@ -1,6 +1,0 @@
-{
-    "name": "Sleek Concrete Gloves",
-    "description": "Sed sunt nulla qui aut voluptate ut. Vel doloremque iste ut quaerat accusantium et ut voluptas. Rerum architecto voluptatem. Nostrum minima expedita omnis dolor saepe illum.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

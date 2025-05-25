@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Fresh Bacon",
-    "description": "Odio molestiae similique tempora ducimus. Omnis consequatur itaque nesciunt labore. Tempora quis debitis labore fuga delectus. Repellendus nulla aperiam. Autem aut et facere vel aliquid facilis. Totam voluptas quos porro.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,6 @@
+{
+    "name": "Handcrafted Rubber Chair",
+    "description": "Magni nisi reiciendis maiores ea repudiandae deserunt at mollitia fugiat. Placeat quis deserunt praesentium molestiae rerum ipsa. Distinctio ut ut cumque quo autem non et ut saepe.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}
