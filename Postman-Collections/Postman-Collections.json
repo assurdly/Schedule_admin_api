@@ -879,7 +879,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+													"    pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"})\r",
 													"\r",
 													"\r",
@@ -1725,9 +1725,8 @@
 											],
 											"variable": [
 												{
-													"id": "83587529-9005-4986-a5fd-40083772a082",
 													"key": "category_id",
-													"value": "10"
+													"value": "100"
 												}
 											]
 										}
@@ -1913,7 +1912,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+													"    pm.expect(jsonData.message).to.eql('jwt expired')\r",
 													"})"
 												],
 												"type": "text/javascript",
@@ -1984,7 +1983,6 @@
 											],
 											"variable": [
 												{
-													"id": "7184ccf0-c9b0-4722-893b-641cb4b0c5da",
 													"key": "category_id",
 													"value": "5"
 												}
@@ -3066,274 +3064,6 @@
 									"response": [
 										{
 											"id": "2afbe946-ec89-4e41-8307-8bc8340de5ec",
-											"name": "Get Category",
-											"originalRequest": {
-												"method": "GET",
-												"header": [],
-												"body": {
-													"mode": "raw",
-													"raw": "{\n    \"name\": \"{{$randomProductName}}\",\n    \"description\": \"{{$randomLoremParagraph}}\",\n    \"icon_url\": \"{{$randomImageUrl}}\"\n}",
-													"options": {
-														"raw": {
-															"language": "json"
-														}
-													}
-												},
-												"url": {
-													"raw": "{{base_url}}/categories/:category_id",
-													"host": [
-														"{{base_url}}"
-													],
-													"path": [
-														"categories",
-														":category_id"
-													],
-													"query": [
-														{
-															"key": "limit",
-															"value": null,
-															"type": "text",
-															"disabled": true
-														},
-														{
-															"key": "page",
-															"value": null,
-															"type": "text",
-															"disabled": true
-														},
-														{
-															"key": "search",
-															"value": "test",
-															"type": "text",
-															"disabled": true
-														},
-														{
-															"key": "search_fields",
-															"value": "name",
-															"type": "text",
-															"disabled": true
-														},
-														{
-															"key": "start_date",
-															"value": "2025-05-02",
-															"type": "text",
-															"disabled": true
-														},
-														{
-															"key": "end_date",
-															"value": "2025-05-03",
-															"type": "text",
-															"disabled": true
-														}
-													],
-													"variable": [
-														{
-															"key": "category_id",
-															"value": "1"
-														}
-													]
-												}
-											},
-											"status": "OK",
-											"code": 200,
-											"_postman_previewlanguage": "json",
-											"header": [
-												{
-													"key": "Access-Control-Allow-Origin",
-													"value": "*"
-												},
-												{
-													"key": "Access-Control-Allow-Credentials",
-													"value": "true"
-												},
-												{
-													"key": "Access-Control-Expose-Headers",
-													"value": "x-encryption-key,x-encryption-iv"
-												},
-												{
-													"key": "Content-Security-Policy",
-													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-												},
-												{
-													"key": "Cross-Origin-Opener-Policy",
-													"value": "same-origin"
-												},
-												{
-													"key": "Cross-Origin-Resource-Policy",
-													"value": "cross-origin"
-												},
-												{
-													"key": "X-DNS-Prefetch-Control",
-													"value": "off"
-												},
-												{
-													"key": "X-Frame-Options",
-													"value": "SAMEORIGIN"
-												},
-												{
-													"key": "Strict-Transport-Security",
-													"value": "max-age=15552000; includeSubDomains"
-												},
-												{
-													"key": "X-Download-Options",
-													"value": "noopen"
-												},
-												{
-													"key": "X-Content-Type-Options",
-													"value": "nosniff"
-												},
-												{
-													"key": "Origin-Agent-Cluster",
-													"value": "?1"
-												},
-												{
-													"key": "X-Permitted-Cross-Domain-Policies",
-													"value": "none"
-												},
-												{
-													"key": "Referrer-Policy",
-													"value": "no-referrer"
-												},
-												{
-													"key": "X-XSS-Protection",
-													"value": "0"
-												},
-												{
-													"key": "Content-Type",
-													"value": "application/json; charset=utf-8"
-												},
-												{
-													"key": "Content-Length",
-													"value": "612"
-												},
-												{
-													"key": "ETag",
-													"value": "W/\"264-xJIu6SnYp0OTJ7CpPsKKSShvDXA\""
-												},
-												{
-													"key": "Date",
-													"value": "Sat, 03 May 2025 17:38:05 GMT"
-												},
-												{
-													"key": "Connection",
-													"value": "keep-alive"
-												},
-												{
-													"key": "Keep-Alive",
-													"value": "timeout=5"
-												}
-											],
-											"cookie": [],
-											"responseTime": null,
-											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"id\": 1,\n        \"name\": \"Test\",\n        \"description\": \"Provident aut fugit ab ea tempora id quibusdam corrupti. Dolor voluptas cum corporis porro pariatur deleniti rerum aut. Odit voluptatem similique rem quia repellat dolores fugiat. Libero expedita labore et quis quam. Facere in optio occaecati quos atque autem ipsam sit voluptates. Qui aut ducimus consequuntur ratione asperiores eum saepe nam quo.\",\n        \"status\": \"active\",\n        \"icon_url\": null,\n        \"created_on\": \"2025-05-03 18:04:34\",\n        \"created_by\": null,\n        \"modified_on\": \"2025-05-03 18:04:34\",\n        \"modified_by\": null,\n        \"deleted_flag\": 0,\n        \"deleted_by\": null\n    }\n}"
-										}
-									]
-								},
-								{
-									"name": "Update Category - Invalid field Value",
-									"event": [
-										{
-											"listen": "test",
-											"script": {
-												"id": "34ec9629-03d9-4f95-b3bb-07c36f48a52a",
-												"exec": [
-													"const jsonData = pm.response.json();\r",
-													"pm.test(\"Status code is 400\", function () {\r",
-													"    pm.response.to.have.status(400);\r",
-													"});\r",
-													"\r",
-													"pm.test(\"Valid Response message is returned\", function () {\r",
-													"   pm.expect(jsonData.message).to.eql('Only aplpbateic characters are allowed')\r",
-													"});\r",
-													""
-												],
-												"type": "text/javascript",
-												"packages": {}
-											}
-										}
-									],
-									"id": "49fcfe36-5fb3-45e4-ad0f-1ce51e077b8a",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "PATCH",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\n    \"name\": \"12\",\n    \"description\": \"Testing now\",\n    \"icon_url\": \"{{$randomImageUrl}}\",\n    \"status\": \"active\"\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": {
-											"raw": "{{base_url}}/admin/categories/:category_id",
-											"host": [
-												"{{base_url}}"
-											],
-											"path": [
-												"admin",
-												"categories",
-												":category_id"
-											],
-											"query": [
-												{
-													"key": "limit",
-													"value": null,
-													"type": "text",
-													"disabled": true
-												},
-												{
-													"key": "page",
-													"value": null,
-													"type": "text",
-													"disabled": true
-												},
-												{
-													"key": "search",
-													"value": "test",
-													"type": "text",
-													"disabled": true
-												},
-												{
-													"key": "search_fields",
-													"value": "name",
-													"type": "text",
-													"disabled": true
-												},
-												{
-													"key": "start_date",
-													"value": "2025-05-02",
-													"type": "text",
-													"disabled": true
-												},
-												{
-													"key": "end_date",
-													"value": "2025-05-03",
-													"type": "text",
-													"disabled": true
-												}
-											],
-											"variable": [
-												{
-													"id": "b95d3385-73c1-4cee-b51a-a271ee4dc31f",
-													"key": "category_id",
-													"value": "5"
-												}
-											]
-										}
-									},
-									"response": [
-										{
-											"id": "e4bcdb58-6342-4961-9c32-6c2fefd9c1d9",
 											"name": "Get Category",
 											"originalRequest": {
 												"method": "GET",
