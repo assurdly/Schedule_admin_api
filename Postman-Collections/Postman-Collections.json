@@ -4300,7 +4300,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"{{$randomWord}}\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"17\"\n}",
+											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"{{$randomWord}}\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator_id\": \"3\",\n    \"category_id\": \"170\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
