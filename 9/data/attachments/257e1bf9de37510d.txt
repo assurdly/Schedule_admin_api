@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Soft Sausages",
-    "description": "Dolorum eos ipsam voluptatem sit omnis pariatur quia velit consequatur. Aperiam ex dolores et recusandae. Eius praesentium exercitationem ut quis optio exercitationem. Eligendi sunt laborum consequatur est voluptates nisi sit assumenda ut. Quis voluptatum tempora aut deleniti.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Frozen Ball",
-    "description": "At amet et possimus. Deleniti quis maxime dolorem. Non qui enim sit perspiciatis minus voluptatibus ut. A nostrum aspernatur est maiores dolorum quasi. Rerum at deleniti. Quisquam et molestias facilis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

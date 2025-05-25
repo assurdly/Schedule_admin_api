@@ -1,6 +1,0 @@
-{
-    "name": "Ergonomic Concrete Tuna",
-    "description": "Fugiat magni ea necessitatibus voluptatem sint et et. Consectetur ipsum repellendus. Optio tempora et ut ad nesciunt fuga sunt. Sed voluptatem est provident voluptates non explicabo. Delectus voluptatem omnis distinctio reprehenderit qui dolor quas consectetur animi.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}
