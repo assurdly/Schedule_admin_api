@@ -1,5 +1,0 @@
-{
-    "name": "Refined Cotton Car",
-    "description": "Quod vitae eos iure facere nostrum hic minus. Qui libero quia quos voluptas. Numquam recusandae vitae. Corporis quidem distinctio vel voluptas omnis quibusdam assumenda nihil. Eius sapiente aliquam eum.",
-    "icon_url": "http://placeimg.com/640/480"
-}
