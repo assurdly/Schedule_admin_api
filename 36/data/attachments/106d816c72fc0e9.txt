@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Metal Shoes",
+    "description": "Non quis itaque blanditiis et aperiam non omnis. Voluptas blanditiis eveniet nihil libero neque voluptatem. Voluptas ullam est laboriosam nisi voluptatem nihil at.",
+    "icon_url": "http://placeimg.com/640/480"
+}

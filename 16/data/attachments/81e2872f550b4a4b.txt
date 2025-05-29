@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Cotton Computer",
-    "description": "Numquam esse saepe qui ea ullam. Illum deleniti consequatur necessitatibus voluptatem blanditiis necessitatibus est dolor est. Sit voluptatum enim voluptas laboriosam ea quia aut doloribus. Facere aut dicta ullam a laudantium necessitatibus odit doloremque et. Iste nemo ut unde consequatur explicabo aut nostrum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

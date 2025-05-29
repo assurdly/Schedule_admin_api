@@ -1,0 +1,1 @@
+{"status":"error","message":"Biller update failed","data":{"message":"transaction.meta.biller_name should not be empty","provider_code":"96","provider":"NIBSS","errors":[{"code":"06","message":"transaction.meta.biller_name should not be empty"}]}}
