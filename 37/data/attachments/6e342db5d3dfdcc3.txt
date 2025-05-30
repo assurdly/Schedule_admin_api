@@ -1,0 +1,6 @@
+{
+    "name": "Gorgeous Wooden Shirt",
+    "description": "Non eveniet sint ipsam quae et at distinctio ad. Consequatur repudiandae in rerum quo quas est eligendi est earum. Sequi aut est non consequatur quod. Perspiciatis exercitationem et.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

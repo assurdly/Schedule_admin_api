@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Plastic Soap",
-    "description": "Iste qui molestias delectus consequatur aperiam quisquam. Natus reprehenderit qui cum. Rerum et natus voluptatibus. Quam qui officiis tempora inventore sapiente sunt placeat.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Gorgeous Rubber Pizza",
-    "description": "Sint fugit natus voluptatibus quae. Labore fugit fugit ullam fuga odit. Blanditiis et debitis voluptas dolor nisi inventore tenetur est. Libero delectus veritatis nemo repellat natus et. At cupiditate itaque pariatur et inventore placeat quaerat magni sed.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

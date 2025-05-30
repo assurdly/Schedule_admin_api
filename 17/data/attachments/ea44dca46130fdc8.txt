@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Frozen Salad",
-    "description": "Et est quo. Doloremque sed reprehenderit. Vel est ut doloribus pariatur quaerat quidem consequatur. Doloremque non neque quo aspernatur cumque et magni enim.",
-    "icon_url": "http://placeimg.com/640/480"
-}
