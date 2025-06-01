@@ -1,0 +1,6 @@
+{
+    "name": "Ergonomic Rubber Computer",
+    "description": "Alias aut maiores quibusdam fugiat. Excepturi necessitatibus laudantium veritatis quaerat impedit error voluptas. Labore velit vel molestias neque quo placeat consequatur.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "inactive"
+}

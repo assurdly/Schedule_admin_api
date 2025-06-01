@@ -1,6 +1,0 @@
-{
-    "name": "Tasty Concrete Chips",
-    "description": "Odit et unde at labore aperiam sequi suscipit. Totam ipsa quas ad non velit est. Non tenetur accusamus. Sint tempore qui quod. Accusantium libero quod.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

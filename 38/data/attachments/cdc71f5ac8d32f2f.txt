@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Plastic Keyboard",
+    "description": "Est vel pariatur libero iusto sequi nemo sint et iusto. Aut est voluptatum. Doloremque est deserunt reprehenderit. Et in officia aut magni sed deserunt laudantium.",
+    "icon_url": "http://placeimg.com/640/480"
+}

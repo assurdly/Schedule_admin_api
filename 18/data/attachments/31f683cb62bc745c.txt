@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Cotton Pants",
-    "description": "Qui vel et. Est expedita beatae totam soluta debitis consequatur. Ea consequatur id incidunt sit id molestiae quod error nemo. Quis quia pariatur quod labore voluptatem.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Generic Plastic Table",
+    "description": "Asperiores et sequi aut dolor corrupti in recusandae. Architecto sit qui quam. Veniam molestiae non ipsum veritatis et ut unde nemo fuga. Quam ducimus omnis perspiciatis nihil suscipit reiciendis.",
+    "icon_url": "http://placeimg.com/640/480"
+}
