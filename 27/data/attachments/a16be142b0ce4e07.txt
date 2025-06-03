@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Cotton Ball",
-    "description": "Fuga voluptatum eos molestias autem aliquid. Accusantium ut est. Dolor consequatur rerum dolore. Autem enim rerum error. Nihil qui temporibus excepturi rerum quia.",
-    "icon_url": "http://placeimg.com/640/480"
-}

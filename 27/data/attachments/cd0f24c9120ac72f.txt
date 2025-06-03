@@ -1,6 +1,0 @@
-{
-    "name": "Refined Steel Chips",
-    "description": "Occaecati et architecto excepturi delectus molestiae animi expedita a amet. Est officiis inventore. Accusamus itaque atque quia voluptatum deleniti quasi.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

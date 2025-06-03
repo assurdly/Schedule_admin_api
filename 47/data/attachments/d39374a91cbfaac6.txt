@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Plastic Pants",
+    "description": "Voluptatibus qui est possimus nesciunt in. Distinctio a facere voluptatem sit aut aliquid magni laborum. Rerum porro minima quo architecto unde. Cum enim nulla ea animi est aliquid. Minima ad qui ut delectus minus et labore nemo. Rerum et optio ut ratione.",
+    "icon_url": "http://placeimg.com/640/480"
+}

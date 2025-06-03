@@ -1,0 +1,6 @@
+{
+    "name": "Ergonomic Soft Pizza",
+    "description": "Iusto et quia. Quaerat temporibus iusto quia. Enim dolorem cupiditate in expedita.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
