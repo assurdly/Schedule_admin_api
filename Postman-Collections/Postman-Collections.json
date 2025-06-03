@@ -8582,7 +8582,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Valid Response message is returned\", function () {\r",
-													"   pm.expect(jsonData.message).to.eql('Product Group does not exists or is inactive')\r",
+													"   pm.expect(jsonData.message).to.eql('Product Group does not exist or is inactive')\r",
 													"});"
 												],
 												"type": "text/javascript",
@@ -8605,7 +8605,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"description\": \"TTest\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": 100.00,\n    \"product_group_id\": \"205\",\n    \"status\": \"active\"\n}",
+											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"description\": \"TTest\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"amount\": 100.00,\n    \"product_group_id\": \"2050\",\n    \"status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
