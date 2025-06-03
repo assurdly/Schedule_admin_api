@@ -2435,7 +2435,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"success\");\r",
 													"    pm.expect(jsonData.data).to.have.property(\"name\");\r",
 													"    pm.expect(jsonData.data).to.have.property(\"description\");\r",
-													"    pm.expect(jsonData.data.status).to.eql(\"inactive\");\r",
+													"    pm.expect(jsonData.data.status).to.eql(\"active\");\r",
 													"});\r",
 													""
 												],
@@ -6559,9 +6559,8 @@
 											],
 											"variable": [
 												{
-													"id": "ff7baf48-fb9e-4712-a9fc-75e7c3f9b449",
 													"key": "product_group_id",
-													"value": "18"
+													"value": "50"
 												}
 											]
 										}
