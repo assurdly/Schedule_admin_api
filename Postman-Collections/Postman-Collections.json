@@ -12715,7 +12715,7 @@
 															"});\r",
 															"\r",
 															"pm.test(\"Valid Response message is returned\", function () {\r",
-															"   pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+															"   pm.expect(jsonData.message).to.eql('jwt expired')\r",
 															"});\r",
 															"\r",
 															""
@@ -12753,12 +12753,10 @@
 													],
 													"variable": [
 														{
-															"id": "bd586a4a-cbda-4f0c-b228-4ed5d448a5a4",
 															"key": "aggregator_id",
 															"value": "1"
 														},
 														{
-															"id": "ddc74ca9-c2d3-4c6f-a37e-146a1ff16e4e",
 															"key": "category_id",
 															"value": "1"
 														}
