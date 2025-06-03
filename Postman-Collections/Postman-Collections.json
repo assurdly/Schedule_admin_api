@@ -2459,7 +2459,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"{{$randomProductName}}\",\n    \"description\": \"{{$randomLoremParagraph}}\",\n    \"icon_url\": \"{{$randomImageUrl}}\",\n    \"status\": \"inactive\"\n}",
+											"raw": "{\n    \"name\": \"{{$randomProductName}}\",\n    \"description\": \"{{$randomLoremParagraph}}\",\n    \"icon_url\": \"{{$randomImageUrl}}\",\n    \"status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -2516,7 +2516,6 @@
 											],
 											"variable": [
 												{
-													"id": "5dd8e4a0-2192-4d8a-b8a3-253431fbf973",
 													"key": "category_id",
 													"value": "5"
 												}
@@ -3814,7 +3813,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"2\"\n}",
+											"raw": "{\n    \"name\": \"\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator_id\": \"2\",\n    \"category_id\": \"2\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
