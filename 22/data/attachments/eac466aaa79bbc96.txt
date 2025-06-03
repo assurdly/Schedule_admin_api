@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Steel Chair",
-    "description": "Iure reprehenderit soluta cupiditate non ut aperiam rerum eligendi voluptatem. Consequatur qui nostrum praesentium accusamus ipsum omnis. Molestiae ut est et consequatur architecto. Qui nostrum ratione id impedit et.",
-    "icon_url": "http://placeimg.com/640/480"
-}
