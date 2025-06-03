@@ -1,6 +1,0 @@
-{
-    "name": "Gorgeous Granite Computer",
-    "description": "Harum eos qui amet aspernatur et. Vero quis dolorem animi ea et aperiam sit. Ut quod quasi.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

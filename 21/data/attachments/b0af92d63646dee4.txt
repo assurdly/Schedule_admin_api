@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Fresh Chicken",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

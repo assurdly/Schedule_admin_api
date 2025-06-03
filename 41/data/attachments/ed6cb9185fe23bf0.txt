@@ -1,0 +1,6 @@
+{
+    "name": "Intelligent Steel Chair",
+    "description": "Molestiae laudantium rerum quis. Minima animi optio illo. Quam a ut architecto. Quos molestiae non molestiae illum porro consequuntur alias. In quidem qui repellat quaerat aliquam officia eos repellat et. Architecto blanditiis quaerat dignissimos fuga autem error.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

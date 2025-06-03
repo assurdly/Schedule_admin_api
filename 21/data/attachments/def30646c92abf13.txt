@@ -1,5 +1,0 @@
-{
-    "name": "Small Soft Hat",
-    "description": "Quis consequatur odio vero ut et. Ut minus autem debitis voluptatem officiis quia aspernatur cupiditate. Quae fuga qui ipsum rerum voluptatibus impedit voluptatem. Magni nihil corporis enim enim necessitatibus. Voluptas at reprehenderit sint nihil. Ut odio dolorem odio.",
-    "icon_url": "http://placeimg.com/640/480"
-}
