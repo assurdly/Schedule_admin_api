@@ -1,0 +1,6 @@
+{
+    "name": "Sleek Metal Salad",
+    "description": "Magni sed voluptate et fuga sapiente ut dolorem numquam et. Ut excepturi eius praesentium qui sed. Neque molestiae autem quis. Itaque maxime rerum sequi. Tenetur nesciunt omnis sed. Atque dicta optio nobis ullam.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

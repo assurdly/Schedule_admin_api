@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Fresh Pants",
-    "description": "Sit molestiae sunt ipsum et illo ut accusantium accusamus. Corrupti pariatur ipsum qui vitae saepe. Similique alias est quia harum. Est quo optio perferendis blanditiis et dignissimos. Repudiandae explicabo amet sed neque a ea. Vel necessitatibus aut eligendi.",
-    "icon_url": "http://placeimg.com/640/480"
-}

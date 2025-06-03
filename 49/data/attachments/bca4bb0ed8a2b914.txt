@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://ocie.name",
+    "api_key": "6",
+    "secret_key": "x",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "839",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "66d16558-5a21-439f-913a-38cb209eee00",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748977658"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

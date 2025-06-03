@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://octavia.biz",
+    "api_key": "2",
+    "secret_key": "u",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "666",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "bef0a5d0-1ced-453d-817c-2a2ff99b1d51",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748977658"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

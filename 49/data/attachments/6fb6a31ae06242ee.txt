@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://modesta.name",
+    "api_key": "6",
+    "secret_key": "1",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "403",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "5f1e2f49-d3e5-4ab2-9408-ae906ec64f9c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748977658"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

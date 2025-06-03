@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Concrete Mouse",
-    "description": "Molestiae odio consequatur. Ut magni deleniti esse saepe quas quia occaecati architecto. Asperiores tempore accusamus eveniet vero maxime est. Doloremque pariatur excepturi. Consequatur totam dolores id delectus molestias laudantium atque nihil.",
-    "icon_url": "http://placeimg.com/640/480"
-}

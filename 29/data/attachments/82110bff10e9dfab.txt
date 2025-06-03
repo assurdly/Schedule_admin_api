@@ -1,6 +1,0 @@
-{
-    "name": "Refined Frozen Shirt",
-    "description": "Optio culpa quis architecto non debitis earum et. Possimus vel sequi. Temporibus et vel animi est est.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

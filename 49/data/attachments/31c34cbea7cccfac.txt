@@ -1,0 +1,5 @@
+{
+    "name": "Refined Fresh Tuna",
+    "description": "Possimus mollitia consequatur voluptatem incidunt ut. Quasi reiciendis placeat. Illo non voluptas et eligendi. Et necessitatibus pariatur nulla sint. Quia libero porro. Est et sed sit odit occaecati veniam dolor aspernatur.",
+    "icon_url": "http://placeimg.com/640/480"
+}
