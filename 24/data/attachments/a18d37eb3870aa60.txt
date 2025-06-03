@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Metal Car",
-    "description": "Suscipit nihil nihil saepe eum repellat nostrum. Numquam repudiandae maxime est sit aperiam ab excepturi. Impedit et nemo illo et aut quas quis praesentium.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Rustic Soft Towels",
-    "description": "Quibusdam odit quia. Consequatur ea autem molestias nam et facilis odit. Repellat velit quia qui praesentium earum optio eum nemo est. Odio minima cumque veritatis rem odio ut vero quae. Magni commodi laborum. Aliquid iste excepturi reiciendis eum et.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

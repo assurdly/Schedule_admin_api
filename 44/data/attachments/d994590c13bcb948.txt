@@ -1,0 +1,20 @@
+{
+    "name": "Awesome Plastic Tuna",
+    "base_url": "",
+    "api_key": "f",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "270",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "88fc26f2-8844-4bb7-8b3d-bb6955c9e011",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748967307"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

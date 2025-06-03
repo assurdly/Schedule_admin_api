@@ -1,0 +1,6 @@
+{
+    "name": "Handmade Granite Towels",
+    "description": "Et quibusdam qui natus tempore possimus delectus eligendi. Voluptate occaecati eligendi rerum qui fugiat dolorum quis hic. Facere fugiat officia et omnis.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
