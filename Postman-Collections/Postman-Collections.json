@@ -11772,8 +11772,8 @@
 															"    pm.response.to.have.status(401);\r",
 															"});\r",
 															"\r",
-															"pm.test(\"Valid Response message is returned\", function () {\r",
-															"   pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+															"pm.test(\"Error Response message is returned\", function () {\r",
+															"   pm.expect(jsonData.message).to.eql('jwt expired')\r",
 															"});\r",
 															"\r",
 															""
@@ -11809,7 +11809,6 @@
 													],
 													"variable": [
 														{
-															"id": "8118799f-fc71-4ec3-8732-985e1d4e854b",
 															"key": "aggregator_id",
 															"value": "1"
 														}
