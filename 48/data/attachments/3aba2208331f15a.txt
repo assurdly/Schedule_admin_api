@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://libby.info",
+    "api_key": "m",
+    "secret_key": "n",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "625",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "ec5c227d-391e-4c63-a192-ccf3e5be327c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748970577"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

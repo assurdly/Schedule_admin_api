@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Granite Ball",
-    "description": "Adipisci fuga et est natus beatae. Consequatur est accusantium dolor in repellendus a adipisci. Dignissimos velit architecto sint sapiente qui mollitia quidem. Amet dolor delectus deleniti ratione est optio fugiat exercitationem ut. Omnis vero amet velit nisi in. Eum est mollitia ea sint dolore id autem sit recusandae.",
-    "icon_url": "http://placeimg.com/640/480"
-}

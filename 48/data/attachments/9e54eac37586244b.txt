@@ -1,0 +1,20 @@
+{
+    "name": "Wyman, Goldner and Koelpin",
+    "base_url": "http://alphonso.info",
+    "api_key": "k",
+    "secret_key": "l",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "767",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "6f87f82f-342d-4531-b9e1-fb5b49782508",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748970577"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

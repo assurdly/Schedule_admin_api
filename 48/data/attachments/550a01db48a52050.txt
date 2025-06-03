@@ -1,0 +1,8 @@
+{
+    "base_url": "https://v2.api.ibrolinks.com",
+    "api_key": "{{api_key}}",
+    "secret_key": "ZGV2K2licm9saW5rc0BvbmVwaXBlLmlvOjA4MDMyMDAyMjQ2OjE3NDgyNTA2NjU=",
+    "auth_type": "apikey",
+    "environment": "production",
+    "status": "active"
+}
