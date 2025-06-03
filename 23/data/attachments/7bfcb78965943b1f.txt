@@ -1,6 +1,0 @@
-{
-    "name": "Unbranded Fresh Tuna",
-    "description": "Neque hic cumque voluptas in veniam. Voluptas rerum accusamus officia dolorem voluptatem non. Non adipisci magnam nulla. Ea unde animi facere quisquam aut. Quaerat quis magnam ea quo. Fuga dolorem enim.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

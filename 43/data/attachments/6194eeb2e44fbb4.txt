@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://hassan.com",
+    "api_key": "7",
+    "secret_key": "s",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "164",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "35ded957-def2-4104-86cf-0b62ec9b8de0",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748967095"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Rubber Shirt",
+    "description": "Voluptates sapiente nisi quam ullam laborum. Quo itaque est sed voluptatem repellat distinctio eos debitis. Asperiores est sunt eos sequi quibusdam earum voluptatibus.",
+    "icon_url": "http://placeimg.com/640/480"
+}

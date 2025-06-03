@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Metal Mouse",
+    "description": "Voluptas quo non. Ut natus commodi id quisquam. Vel quia quod dignissimos labore sed voluptas quia rerum. Nulla quae et ipsam et omnis voluptatum voluptatem nobis. Qui quia temporibus quia.",
+    "icon_url": "http://placeimg.com/640/480"
+}
