@@ -14994,8 +14994,8 @@
 															"    pm.response.to.have.status(401);\r",
 															"});\r",
 															"\r",
-															"pm.test(\"Valid Response message is returned\", function () {\r",
-															"   pm.expect(jsonData.message).to.eql('Invalid Auth Token')\r",
+															"pm.test(\"Error Response message is returned\", function () {\r",
+															"   pm.expect(jsonData.message).to.eql('jwt expired')\r",
 															"});"
 														],
 														"type": "text/javascript",
