@@ -1,0 +1,13 @@
+const jsonData = pm.response.json();
+
+pm.test("Status code is 400", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Status is active", function () {
+    pm.expect(jsonData.data.status).to.equal('active');
+});
+
+pm.test("No data is returned", function () {
+    pm.expect(jsonData.data).to.not.empty;
+});

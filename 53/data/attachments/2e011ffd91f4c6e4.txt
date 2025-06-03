@@ -1,0 +1,20 @@
+{
+    "name": "Rustic Cotton Keyboard",
+    "base_url": "",
+    "api_key": "7",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "792",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "80e59cc6-1d0f-48e0-a5ef-f37faca427d1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748979655"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

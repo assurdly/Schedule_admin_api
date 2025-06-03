@@ -1,6 +1,0 @@
-{
-    "name": "Tasty Granite Mouse",
-    "description": "Alias dolorem eligendi vitae. Voluptas sit quos quas exercitationem iusto qui. Eaque error ex id aspernatur laudantium ducimus est nobis accusantium. Sequi natus sequi veritatis. Dolor recusandae quis distinctio aperiam fuga est eum.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

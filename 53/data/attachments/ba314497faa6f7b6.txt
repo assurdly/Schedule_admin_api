@@ -1,0 +1,6 @@
+{
+    "name": "Small Rubber Mouse",
+    "description": "Autem dolorum quidem sint perferendis nisi. Et est consectetur perferendis. Impedit rem dolor mollitia magnam.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

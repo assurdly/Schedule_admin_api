@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://wilson.net",
+    "api_key": "g",
+    "secret_key": "q",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "658",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "100fad4c-7d3e-4e33-9c29-2a7da8de86cd",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748979655"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

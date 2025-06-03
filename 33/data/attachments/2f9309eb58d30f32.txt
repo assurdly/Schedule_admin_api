@@ -1,5 +1,0 @@
-{
-    "name": "Generic Metal Hat",
-    "description": "Voluptates maxime ratione sunt voluptas ullam temporibus. Eos dignissimos tempora ipsum expedita fugiat eum atque animi. Laudantium voluptatibus ipsam officia.",
-    "icon_url": "http://placeimg.com/640/480"
-}

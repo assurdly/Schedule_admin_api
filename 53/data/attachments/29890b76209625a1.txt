@@ -1,0 +1,20 @@
+{
+    "name": "Fisher and Sons",
+    "base_url": "http://angel.name",
+    "api_key": "r",
+    "secret_key": "q",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "239",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7767df04-a774-42ac-b773-3891660df484",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748979655"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
