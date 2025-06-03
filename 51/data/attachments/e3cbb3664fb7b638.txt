@@ -1,0 +1,5 @@
+{
+    "name": "Refined Metal Hat",
+    "description": "Sed vero dignissimos vitae occaecati neque eos velit. Alias pariatur dolorem quibusdam adipisci dolore voluptas cum. Vel soluta perspiciatis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataChina",
+    "short_name": "MTN utilities",
+    "description": "Strategist",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator_id": "3",
+    "category_id": "170"
+}
