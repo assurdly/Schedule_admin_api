@@ -15346,7 +15346,7 @@
 												"header": [],
 												"body": {
 													"mode": "raw",
-													"raw": "{\n    \"base_url\": \"https://v2.api.testlinks.com\",\n    \"api_key\": \"{{$randomAlphaNumeric}}\",\n    \"secret_key\": \"ZGV2K2licm9saW5rc0BvbmVwaXBlLmlvOjA4MDMyMDAyMNya\",\n    \"auth_type\": \"apikey\",\n    \"environment\": \"production\",\n    \"status\": \"active\"\n}\n",
+													"raw": "{\n    \"base_url\": \"https://v2.api.ibrolinks.com\",\n    \"api_key\": \"{{api_key}}\",\n    \"secret_key\": \"ZGV2K2licm9saW5rc0BvbmVwaXBlLmlvOjA4MDMyMDAyMjQ2OjE3NDgyNTA2NjU=\",\n    \"auth_type\": \"apikey\",\n    \"environment\": \"production\",\n    \"status\": \"active\"\n}\n",
 													"options": {
 														"raw": {
 															"language": "json"
@@ -15365,9 +15365,8 @@
 													],
 													"variable": [
 														{
-															"id": "671f3909-01ff-47d8-ae83-8f4a99f82a17",
 															"key": "aggregator_id",
-															"value": "4"
+															"value": "1"
 														}
 													]
 												}
