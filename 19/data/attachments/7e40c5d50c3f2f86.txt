@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Steel Pants",
-    "description": "Earum beatae est doloremque quia. Pariatur facilis laudantium molestias maxime quos quos amet veniam. Corporis repudiandae occaecati laudantium perferendis nihil voluptatem ut.",
-    "icon_url": "http://placeimg.com/640/480"
-}

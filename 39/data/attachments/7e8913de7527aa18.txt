@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Granite Soap",
+    "description": "Nisi reiciendis dicta aut suscipit et quod vitae. Sed temporibus distinctio ab ut repellendus similique. Et ratione qui amet. Dolores eum rerum placeat blanditiis quia commodi magnam iste. Ab commodi occaecati labore ratione.",
+    "icon_url": "http://placeimg.com/640/480"
+}

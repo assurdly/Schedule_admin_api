@@ -1,0 +1,6 @@
+{
+    "name": "Awesome Rubber Chicken",
+    "description": "Et debitis a eos quos enim ea. Rerum odio repellat velit explicabo quasi laudantium quia quod. Est non ut deleniti labore vero et est et. Sed iusto aut est et. Et doloremque et. Eveniet qui id doloribus eos nobis.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

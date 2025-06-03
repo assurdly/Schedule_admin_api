@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Rubber Hat",
+    "description": "Quam similique consectetur accusamus rerum dolor. Optio sed ut. Exercitationem vel omnis vero iure. Veritatis provident distinctio. Cupiditate omnis tempora sit hic facilis et enim. In sunt repudiandae quas ut cum libero ab nemo inventore.",
+    "icon_url": "http://placeimg.com/640/480"
+}

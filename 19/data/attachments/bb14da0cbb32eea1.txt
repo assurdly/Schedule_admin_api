@@ -1,6 +1,0 @@
-{
-    "name": "Gorgeous Plastic Chair",
-    "description": "Dolorum tempore illum adipisci occaecati recusandae tempora. Omnis nihil aut. Aut ut esse eos id necessitatibus consequatur ut. Dolorem ratione laudantium et voluptatem voluptatum ut repudiandae. Neque sint rerum voluptatem facere veritatis numquam voluptas quas ipsum. In sed vel tempora.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}
