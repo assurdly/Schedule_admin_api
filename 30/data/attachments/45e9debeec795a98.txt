@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Frozen Mouse",
-    "description": "Velit nemo cupiditate dolores. Nemo veniam tenetur aliquam corrupti qui dolores veniam explicabo. Vel occaecati sequi aliquam quis atque aut repudiandae facilis. Sapiente et ut. Velit et quasi veritatis minima delectus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

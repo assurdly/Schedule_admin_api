@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Soft Computer",
-    "description": "Non qui vitae temporibus laborum dolores dolorem repudiandae aut quia. Cumque omnis ducimus nostrum ea dolor debitis quia. Unde corrupti et expedita qui. Quia perspiciatis occaecati aut aut fugit vel. Corporis quis qui voluptatem atque doloribus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

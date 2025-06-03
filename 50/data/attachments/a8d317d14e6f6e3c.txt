@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Concrete Bike",
+    "description": "Perferendis est aut odio repellat consequatur quia. Enim aut ex reiciendis. Ullam enim atque voluptatem quam eos possimus. Qui vel est vero aut rem et dicta. Quis quasi ea sapiente nihil adipisci odit. Sunt laborum nam.",
+    "icon_url": "http://placeimg.com/640/480"
+}
