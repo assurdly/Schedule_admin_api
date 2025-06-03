@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Concrete Chicken",
-    "description": "Dolore dignissimos praesentium laborum nesciunt ad ducimus eaque. Laudantium ut ut. Ea enim et est eveniet animi quia consequatur iusto.",
-    "icon_url": "http://placeimg.com/640/480"
-}

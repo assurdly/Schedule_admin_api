@@ -1,0 +1,20 @@
+{
+    "name": "Ernser LLC",
+    "base_url": "https://alphonso.info",
+    "api_key": "g",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "328",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "5ce76a68-d3c1-4aa9-8cca-5831536de739",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748968081"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

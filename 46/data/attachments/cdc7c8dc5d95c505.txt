@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://pietro.biz",
+    "api_key": "a",
+    "secret_key": "2",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "345",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "15fb15d7-5858-44e1-8bd9-fb9b70cd34a3",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748968082"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

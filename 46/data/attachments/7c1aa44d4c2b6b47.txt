@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://cary.net",
+    "api_key": "v",
+    "secret_key": "c",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "200",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "fdf89993-c135-49e6-8695-803be84c59ed",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748968081"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

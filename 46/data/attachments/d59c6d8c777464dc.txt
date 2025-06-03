@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Steel Shirt",
+    "description": "Et pariatur id iure qui. Veritatis non id accusantium aut reprehenderit et sed. Odio error nostrum vel. Perferendis possimus qui. Consequatur iste incidunt dolores iusto. Nisi voluptate quam velit ex ad voluptate omnis qui non.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Unbranded Frozen Cheese",
+    "base_url": "",
+    "api_key": "f",
+    "secret_key": "0",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "55",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "3b4d1649-b4e8-4e7b-84d8-36e3762bb608",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748968081"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
