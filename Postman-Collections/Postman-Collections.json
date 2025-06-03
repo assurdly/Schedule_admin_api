@@ -1912,7 +1912,7 @@
 													"});\r",
 													"\r",
 													"pm.test(\"Response returns valid message\", function () {\r",
-													"    pm.expect(jsonData.message).to.eql('jwt expired')\r",
+													"    pm.expect(jsonData.message).to.eql('Unauthorized')\r",
 													"})"
 												],
 												"type": "text/javascript",
