@@ -1,6 +1,0 @@
-{
-    "name": "Ergonomic Cotton Bike",
-    "description": "Et soluta aut corrupti et vel. Assumenda veniam dolores est molestiae et quibusdam odio sunt vel. Autem doloribus molestiae fugiat eaque qui dolorem est. Minima suscipit est et omnis numquam. Optio est sunt aut est itaque deleniti at labore. A autem aut voluptas.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

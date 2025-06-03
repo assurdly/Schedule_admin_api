@@ -1,0 +1,6 @@
+{
+    "name": "Intelligent Rubber Chair",
+    "description": "Itaque porro rerum dicta. Cumque rerum eligendi ratione excepturi. Incidunt quidem reprehenderit quo et magnam molestiae dolor vitae. Quo expedita fuga et consectetur et cumque ducimus et. Quia repudiandae rerum quis est quisquam impedit. Excepturi dolor ullam quis voluptatum consequatur repellat.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

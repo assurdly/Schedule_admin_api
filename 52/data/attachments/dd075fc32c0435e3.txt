@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://barry.com",
+    "api_key": "m",
+    "secret_key": "a",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "816",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c3fbf3a4-9598-44c6-ac40-e2b7ea29c2e1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748979446"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
