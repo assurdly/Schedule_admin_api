@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Concrete Keyboard",
-    "description": "Id facilis rerum autem quia et eligendi ea. Provident labore modi nobis reprehenderit quia suscipit officiis itaque. Ut tempora aut cum. Dolores excepturi ullam repudiandae reiciendis labore.",
-    "icon_url": "http://placeimg.com/640/480"
-}

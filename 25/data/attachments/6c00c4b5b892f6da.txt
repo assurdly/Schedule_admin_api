@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Metal Bike",
-    "description": "Suscipit itaque porro ea omnis soluta illum doloremque id. Molestiae occaecati amet quia quibusdam consequatur omnis dicta consequatur. Et consequatur placeat nihil qui animi tempore eaque ut. Sunt sint saepe officia dolores. Qui in omnis nulla nam quam. Sint est numquam itaque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

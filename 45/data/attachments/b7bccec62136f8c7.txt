@@ -1,0 +1,20 @@
+{
+    "name": "Kovacek, Renner and Turner",
+    "base_url": "https://monroe.info",
+    "api_key": "c",
+    "secret_key": "9",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "173",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "d70215bc-d8aa-4f19-bd2a-3a31647b2ca2",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1748967882"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

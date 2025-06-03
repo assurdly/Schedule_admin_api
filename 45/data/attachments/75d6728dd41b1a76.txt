@@ -1,0 +1,9 @@
+const jsonData = pm.response.json();
+
+pm.test("Status code is 400", function () {
+    pm.response.to.have.status(400);
+});
+
+pm.test("Response returns valid error message", function () {
+    pm.expect(jsonData).to.have.property('message').and.not.empty
+})

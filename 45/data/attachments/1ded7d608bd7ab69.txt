@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Frozen Computer",
+    "description": "Aliquam iusto dolorum sint eius. Voluptates qui aut eum recusandae nulla vero iste sint consequuntur. Quaerat omnis hic nulla. Aperiam molestiae non eos.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,6 +1,0 @@
-{
-    "name": "Incredible Granite Pants",
-    "description": "Corrupti saepe sed esse debitis placeat at modi dolore nulla. Inventore reiciendis quam. Labore vel atque consequuntur voluptatibus vitae atque illum voluptatem aperiam. Et officia qui sed pariatur. Nisi magni est vel inventore iste.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}
