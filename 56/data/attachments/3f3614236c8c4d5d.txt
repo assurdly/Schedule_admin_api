@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://toy.net",
+    "api_key": "4",
+    "secret_key": "p",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "347",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "ae332537-7ee2-4af9-b75a-1de4afb68522",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749032930"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

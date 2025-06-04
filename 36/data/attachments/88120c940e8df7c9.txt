@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Metal Keyboard",
-    "description": "Ad fugit sed. Inventore magnam placeat sit ex pariatur. Sed velit et. Omnis nesciunt est laudantium in.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Refined Fresh Table",
-    "description": "Commodi quo unde unde aspernatur. Quae quo sit at labore ratione quia. Est voluptas et sint nihil quia qui perspiciatis. At libero libero esse error id dolorum. Quod rem explicabo dolor deleniti et iusto consectetur culpa. Facere molestiae suscipit beatae laudantium enim.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "inactive"
-}

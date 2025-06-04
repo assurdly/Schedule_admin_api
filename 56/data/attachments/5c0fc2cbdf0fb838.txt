@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://scotty.net",
+    "api_key": "w",
+    "secret_key": "u",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "921",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b8da2ddf-9353-47c4-b26b-67479a0d1478",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749032930"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
