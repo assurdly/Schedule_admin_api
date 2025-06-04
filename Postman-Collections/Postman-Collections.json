@@ -12179,12 +12179,10 @@
 													],
 													"variable": [
 														{
-															"id": "ba825b3b-1f28-4583-bd0d-a3208ba62666",
 															"key": "aggregator_id",
 															"value": "1"
 														},
 														{
-															"id": "3a8e08e9-c45e-4f24-8f00-760436814c14",
 															"key": "category_id",
 															"value": "1"
 														}
