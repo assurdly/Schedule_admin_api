@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Granite Pizza",
+    "description": "Ipsum accusantium omnis iure non qui praesentium. Sunt corrupti atque doloremque illum omnis aut. Perferendis natus qui aut. Sit qui aperiam dolor molestiae a perferendis commodi aut. Qui sunt eos sint voluptate.",
+    "icon_url": "http://placeimg.com/640/480"
+}

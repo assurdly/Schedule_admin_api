@@ -1,0 +1,20 @@
+{
+    "name": "Greenfelder - O'Reilly",
+    "base_url": "http://virginia.name",
+    "api_key": "2",
+    "secret_key": "i",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "561",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "9444e5a9-ddc6-4302-915b-23ac2647081d",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749059002"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

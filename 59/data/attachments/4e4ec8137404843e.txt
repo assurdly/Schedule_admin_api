@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://concepcion.com",
+    "api_key": "8",
+    "secret_key": "q",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "910",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1bc64a32-f658-46fe-ad0c-98200ee7967b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749059002"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

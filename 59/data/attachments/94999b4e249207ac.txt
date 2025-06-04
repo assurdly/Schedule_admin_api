@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://aileen.biz",
+    "api_key": "6",
+    "secret_key": "q",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "765",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "3cf12e3c-7360-4a4a-aaaf-9ab7d908b07d",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749059002"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
