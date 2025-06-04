@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Granite Bike",
+    "description": "Et enim et quis sit quia. Id ducimus perspiciatis ea. Eum saepe consectetur debitis. Quo maiores libero nam tempora est distinctio veniam. Itaque ex et odit.",
+    "icon_url": "http://placeimg.com/640/480"
+}

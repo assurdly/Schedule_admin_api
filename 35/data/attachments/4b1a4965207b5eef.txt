@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Granite Car",
-    "description": "Ut quisquam fuga et ducimus ex. Qui expedita amet et quod laboriosam harum perferendis. Beatae vero soluta repudiandae hic eaque voluptas qui atque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

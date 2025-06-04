@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://maximillian.name",
+    "api_key": "c",
+    "secret_key": "x",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "393",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "22d19eeb-9316-45ce-ba03-1473f08c1190",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749020081"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

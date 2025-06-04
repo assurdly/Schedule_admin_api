@@ -1,0 +1,1 @@
+{"status":"success","message":"success","data":[{"id":1,"display_name":"Airtime Service","image":null,"code":"airtime"},{"id":2,"display_name":"Data Service","image":null,"code":"data"},{"id":3,"display_name":"Electricity Service","image":null,"code":"electricity"},{"id":4,"display_name":"Cable Service","image":null,"code":"cable"}]}
