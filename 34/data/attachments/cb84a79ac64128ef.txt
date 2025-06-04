@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Concrete Ball",
-    "description": "Mollitia sint ut soluta quo ea natus recusandae recusandae veniam. Et quisquam unde non cumque quas. Aut magni recusandae vel inventore aut ullam voluptas dicta occaecati. Facere eligendi architecto est vero facilis similique in tempore est. Officia pariatur est aut est eveniet mollitia natus mollitia dolorem.",
-    "icon_url": "http://placeimg.com/640/480"
-}

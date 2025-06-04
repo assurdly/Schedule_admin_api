@@ -1,0 +1,20 @@
+{
+    "name": "Windler Inc",
+    "base_url": "https://murray.name",
+    "api_key": "9",
+    "secret_key": "z",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "884",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7601aa49-410b-471f-b797-b150102db95c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749019874"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

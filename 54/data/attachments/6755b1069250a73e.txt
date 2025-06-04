@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Steel Pants",
+    "description": "Et nihil et quia et nesciunt commodi. Eum aliquam omnis natus ut. Aut natus et quo excepturi molestias laboriosam. Expedita labore voluptate dicta qui nisi. Accusantium necessitatibus laborum explicabo laborum. Eos accusamus aliquam ea iusto non rem consequatur et placeat.",
+    "icon_url": "http://placeimg.com/640/480"
+}

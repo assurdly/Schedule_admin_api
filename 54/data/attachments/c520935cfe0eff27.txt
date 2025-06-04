@@ -1,0 +1,6 @@
+{
+    "name": "Handcrafted Rubber Sausages",
+    "description": "Animi reiciendis reiciendis ab. Incidunt et ab eius possimus itaque aut ut optio et. Autem saepe assumenda sapiente.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
