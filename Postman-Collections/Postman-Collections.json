@@ -17524,7 +17524,26 @@
 				},
 				{
 					"name": "Potential Customer Batches",
-					"item": [],
+					"item": [
+						{
+							"name": "Create Potential Customer Batch",
+							"item": [
+								{
+									"name": "New Request",
+									"id": "2212caf4-d5ac-4e7c-9398-d8f8ec6fef9a",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"method": "GET",
+										"header": []
+									},
+									"response": []
+								}
+							],
+							"id": "94fc7ab7-fbf1-4d67-840a-4ab3c706451a"
+						}
+					],
 					"id": "1e2889ea-42ef-4151-bae2-e2dc2553061c"
 				}
 			],
