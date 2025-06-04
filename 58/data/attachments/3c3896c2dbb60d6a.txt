@@ -1,0 +1,5 @@
+{
+    "name": "Small Metal Soap",
+    "description": "Ut deserunt pariatur labore sunt reiciendis provident porro enim. Ut totam quisquam vel repudiandae vero voluptatibus architecto. Quod expedita est et dolores. Et et maiores quidem impedit. Voluptas laborum eum error ut eligendi voluptatem tempore eligendi.",
+    "icon_url": "http://placeimg.com/640/480"
+}

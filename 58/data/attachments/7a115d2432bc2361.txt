@@ -1,0 +1,1 @@
+{"status":"success","message":"success","data":[{"id":17,"name":"MTN","service_product_id":null,"has_package":0,"amount":"50"},{"id":18,"name":"Glo","service_product_id":null,"has_package":0,"amount":"50"},{"id":19,"name":"Airtel","service_product_id":null,"has_package":0,"amount":"50"},{"id":22,"name":"9Mobile","service_product_id":null,"has_package":0,"amount":"50"}]}

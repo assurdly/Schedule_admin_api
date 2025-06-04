@@ -1,0 +1,6 @@
+{
+    "name": "Sleek Soft Hat",
+    "description": "Debitis delectus aliquam. Alias dolor quos numquam. Animi delectus reiciendis vel velit consequatur voluptas dignissimos quis.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
