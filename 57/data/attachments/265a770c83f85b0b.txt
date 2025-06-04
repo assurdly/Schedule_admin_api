@@ -1,0 +1,6 @@
+{
+    "name": "Awesome Frozen Shirt",
+    "description": "Repellat et totam nemo sit pariatur ad quis et dolorem. Accusamus maiores in amet in libero cumque. Rerum qui eos ipsum.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

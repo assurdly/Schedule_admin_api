@@ -1,5 +1,0 @@
-{
-    "name": "Practical Cotton Mouse",
-    "description": "Quaerat at labore. Minima sed eos eum velit qui tenetur debitis esse et. Id et dignissimos blanditiis. Sapiente consectetur cum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

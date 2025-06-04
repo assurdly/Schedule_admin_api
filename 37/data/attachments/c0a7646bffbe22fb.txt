@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Wooden Sausages",
-    "description": "Voluptates repudiandae rerum mollitia atque ut enim aut enim. Recusandae pariatur dicta in. Molestiae est et atque labore aut. Fuga praesentium error cumque mollitia voluptas et rerum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

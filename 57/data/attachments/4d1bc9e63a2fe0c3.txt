@@ -1,0 +1,20 @@
+{
+    "name": "Cartwright, Konopelski and O'Keefe",
+    "base_url": "https://rosalyn.info",
+    "api_key": "e",
+    "secret_key": "2",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "571",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "fd70bca9-738c-4d50-b935-1c944cefc4ec",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749054966"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
