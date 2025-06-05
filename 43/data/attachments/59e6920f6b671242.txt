@@ -1,6 +1,0 @@
-{
-    "name": "Incredible Wooden Pants",
-    "description": "Cumque fugit maxime aliquam. Enim atque incidunt qui iusto nobis officia occaecati error ut. Ut numquam ipsum qui quas ut. Aliquam ea ut labore quia.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
