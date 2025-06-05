@@ -1,0 +1,6 @@
+{
+    "name": "Unbranded Rubber Shirt",
+    "description": "Eaque aut odio quisquam praesentium enim. Consequatur laborum corporis explicabo corporis eum error debitis. Tempora amet quasi itaque id eos voluptatem iusto delectus cupiditate. Ea nam quis. Ut sunt ut voluptates dolor esse nisi explicabo et. Optio accusantium placeat minus sint quis.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

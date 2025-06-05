@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Plastic Tuna",
-    "description": "Nisi consequatur omnis nostrum ut est a sint dolores provident. Mollitia eum at eum molestiae dicta consequatur dolores necessitatibus et. Eum quasi animi dolorem debitis qui ullam. Nulla et est ab. Et vel quis rerum fuga at.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Practical Cotton Chips",
+    "description": "",
+    "icon_url": "http://placeimg.com/640/480"
+}

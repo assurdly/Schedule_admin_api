@@ -1,0 +1,20 @@
+{
+    "name": "Corwin - Johnston",
+    "base_url": "http://jake.org",
+    "api_key": "m",
+    "secret_key": "m",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "136",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c4f8f326-eab1-456a-90d4-bacb563d3ddc",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749149629"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
