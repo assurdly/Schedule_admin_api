@@ -1,5 +1,0 @@
-{
-    "name": "Small Granite Ball",
-    "description": "Sed enim ullam eaque quam. Ullam ratione iure commodi hic tempora quod odit et. Et blanditiis quidem et harum harum. Necessitatibus ut sit ad quis magnam quas illo quibusdam. Quia incidunt reprehenderit.",
-    "icon_url": "http://placeimg.com/640/480"
-}

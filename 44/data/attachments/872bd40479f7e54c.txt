@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Cotton Shoes",
-    "description": "Dicta a dolor eius omnis vitae fugiat. Eaque est dolor quo at impedit. Iusto enim aperiam nihil optio sed et. Dignissimos eum alias fugit nihil et sapiente consectetur. Quos et rerum autem dolor totam at necessitatibus et.",
-    "icon_url": "http://placeimg.com/640/480"
-}

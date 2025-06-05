@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Steel Soap",
+    "description": "Aut at explicabo inventore ipsam aperiam enim. Neque sint eius non ratione repellendus sit ducimus illum. Inventore sed magnam sit quia provident id ut vel.",
+    "icon_url": "http://placeimg.com/640/480"
+}

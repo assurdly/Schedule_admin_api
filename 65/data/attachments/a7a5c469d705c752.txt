@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Metal Salad",
+    "description": "Qui et nam omnis sed quidem ea dicta qui. Alias animi numquam necessitatibus eaque optio illum aliquid. Aut aut praesentium blanditiis vero nesciunt molestiae totam.",
+    "icon_url": "http://placeimg.com/640/480"
+}
