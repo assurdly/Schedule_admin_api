@@ -17557,14 +17557,40 @@
 									"response": []
 								},
 								{
-									"name": "New Request",
+									"name": "Potential Customers",
 									"id": "f008b7ce-aa91-45a1-9764-4959a5771245",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
 									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
 										"method": "GET",
-										"header": []
+										"header": [],
+										"url": "{{base_url}}/admin/potential-customer-batches"
+									},
+									"response": []
+								},
+								{
+									"name": "Potential Customers Copy",
+									"id": "94353a0a-79ad-4b54-86d9-913579e4dee5",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "GET",
+										"header": [],
+										"url": "{{base_url}}/admin/potential-customer-batches"
 									},
 									"response": []
 								}
