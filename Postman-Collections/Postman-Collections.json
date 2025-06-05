@@ -17574,25 +17574,6 @@
 										"url": "{{base_url}}/admin/potential-customer-batches"
 									},
 									"response": []
-								},
-								{
-									"name": "Fetch a Potential Customer Batch",
-									"id": "94353a0a-79ad-4b54-86d9-913579e4dee5",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "GET",
-										"header": [],
-										"url": "{{base_url}}/admin/potential-customer-batches"
-									},
-									"response": []
 								}
 							],
 							"id": "94fc7ab7-fbf1-4d67-840a-4ab3c706451a"
