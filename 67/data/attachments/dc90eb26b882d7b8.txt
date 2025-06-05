@@ -1,0 +1,8 @@
+{
+    "base_url": "http://fiona.com",
+    "api_key": "4",
+    "secret_key": "ZGV2K2licm9saW5rc0BvbmVwaXBlLmlvOjA4MDMyMDAyMNya",
+    "auth_type": "apikey",
+    "environment": "production",
+    "status": "active"
+}

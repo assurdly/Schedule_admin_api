@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Steel Pants",
-    "description": "Harum magni quaerat nemo enim sed est. Voluptates non ex sit sunt temporibus autem tempore. Cum odit placeat. Molestias quae sapiente est veritatis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

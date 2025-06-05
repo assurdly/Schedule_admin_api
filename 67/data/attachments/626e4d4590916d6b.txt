@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Frozen Tuna",
+    "description": "Placeat ex autem occaecati voluptatum culpa eius dolore. Quidem dolorem fuga voluptatem similique libero dolorem. Aut aliquid dolorem doloribus voluptatem alias. Debitis eius rerum voluptas. Eos voluptatibus asperiores aspernatur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

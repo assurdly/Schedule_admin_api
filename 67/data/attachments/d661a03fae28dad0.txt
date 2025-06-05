@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://chase.net",
+    "api_key": "k",
+    "secret_key": "c",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "478",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "45eaa577-53f0-43f3-b4ec-29ac3dcd02cb",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749152999"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

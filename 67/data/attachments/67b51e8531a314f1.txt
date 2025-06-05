@@ -1,0 +1,6 @@
+{
+    "name": "Practical Frozen Shirt",
+    "description": "Voluptas ut ullam dolor aut. Temporibus accusantium aut rerum quibusdam. Et aut excepturi dicta qui commodi ipsum molestiae officiis quas. Quis cumque dolorem.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
