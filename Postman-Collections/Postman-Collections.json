@@ -17529,8 +17529,36 @@
 							"name": "Create Potential Customer Batch",
 							"item": [
 								{
-									"name": "New Request",
+									"name": "Create PC Batch",
 									"id": "2212caf4-d5ac-4e7c-9398-d8f8ec6fef9a",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "POST",
+										"header": [],
+										"body": {
+											"mode": "raw",
+											"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
+											"options": {
+												"raw": {
+													"language": "json"
+												}
+											}
+										},
+										"url": "{{base_url}}/admin/potential-customer-batches"
+									},
+									"response": []
+								},
+								{
+									"name": "New Request",
+									"id": "f008b7ce-aa91-45a1-9764-4959a5771245",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
