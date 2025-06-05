@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://linnie.net",
+    "api_key": "5",
+    "secret_key": "d",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "511",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a7785d51-3db2-47de-bacf-dfe37a81e656",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749149772"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

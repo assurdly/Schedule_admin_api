@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Soft Shirt",
+    "description": "Rerum enim est dignissimos non atque aspernatur. Soluta amet omnis occaecati libero illo omnis voluptatum sint molestias. Asperiores deserunt qui nesciunt consequuntur. Aspernatur omnis sint.",
+    "icon_url": "http://placeimg.com/640/480"
+}

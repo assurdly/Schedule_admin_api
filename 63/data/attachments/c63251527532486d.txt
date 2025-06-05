@@ -1,0 +1,5 @@
+{
+    "name": "Practical Fresh Pizza",
+    "description": "Ex rerum veritatis nisi excepturi nobis reiciendis corporis et sed. Dolorum officia facilis dolorem sunt aliquid eligendi possimus. Sed cumque quidem. Unde sint vitae aut sunt occaecati. Et voluptas nulla nostrum minima ut aut voluptatem.",
+    "icon_url": "http://placeimg.com/640/480"
+}

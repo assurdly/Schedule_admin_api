@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Cotton Salad",
-    "description": "Explicabo aliquam voluptates incidunt. Placeat fugit debitis labore autem ducimus recusandae nisi harum error. Saepe quaerat quas soluta ullam recusandae. Fugit nulla vel alias impedit est sed.",
-    "icon_url": "http://placeimg.com/640/480"
-}

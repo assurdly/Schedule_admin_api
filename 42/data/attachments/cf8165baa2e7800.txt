@@ -1,6 +1,0 @@
-{
-    "name": "Incredible Rubber Chicken",
-    "description": "Nesciunt nobis minima eveniet ut ducimus ipsum ipsa. Commodi voluptates autem. Ipsum dolorem aliquid nisi corrupti error et saepe dicta. Corporis ut voluptatem architecto esse dignissimos explicabo dolor sapiente. Ut et molestiae perspiciatis sapiente ut qui laudantium dolorum sapiente. Nihil suscipit adipisci repudiandae quo nisi illum.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
