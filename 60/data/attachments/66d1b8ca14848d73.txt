@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Rubber Pizza",
+    "description": "Harum a quae ut id nam sed quia architecto reprehenderit. Laborum modi quisquam amet exercitationem ut. Voluptate earum incidunt voluptas doloribus. Modi eos voluptate molestiae sunt. Adipisci ab qui et ut maxime. Soluta accusamus voluptate sed atque qui id saepe et.",
+    "icon_url": "http://placeimg.com/640/480"
+}

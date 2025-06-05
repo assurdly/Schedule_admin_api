@@ -1,0 +1,20 @@
+{
+    "name": "Bartoletti, Doyle and Labadie",
+    "base_url": "https://junius.com",
+    "api_key": "9",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "112",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "fd041e3f-25db-4576-8a0d-d53555a356f0",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749138240"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Metal Shoes",
-    "description": "Ipsam minima veniam animi velit. Enim ea aut est eligendi aliquam nam doloremque placeat. Corrupti quod vel. Ipsa qui facere et. Possimus facilis qui voluptas ut hic officia qui.",
-    "icon_url": "http://placeimg.com/640/480"
-}

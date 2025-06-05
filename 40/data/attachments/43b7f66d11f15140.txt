@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Soft Sausages",
-    "description": "Officiis quo fugiat deserunt neque atque doloremque culpa consequuntur. Placeat quis suscipit voluptatibus velit est ratione velit. Iure aut repellat porro commodi. Sequi vero temporibus nulla dolores praesentium molestias. Saepe non dolore. Qui nam id adipisci.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Handmade Rubber Towels",
-    "description": "Dolor quibusdam voluptatem delectus ut inventore saepe rerum. Quaerat enim voluptates in adipisci. Alias ex consequatur nostrum voluptatum voluptate. Quas omnis dolor. Consequatur aut eos vel corporis. Reprehenderit et dolor.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
