@@ -17663,14 +17663,15 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id",
+									"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id/customers",
 									"host": [
 										"{{base_url}}"
 									],
 									"path": [
 										"admin",
 										"potential-customer-batches",
-										":potential_customer_batch_id"
+										":potential_customer_batch_id",
+										"customers"
 									],
 									"query": [
 										{
@@ -17708,7 +17709,6 @@
 									],
 									"variable": [
 										{
-											"id": "0596cd7c-14e7-424f-a688-43584c1bfeef",
 											"key": "potential_customer_batch_id",
 											"value": "2"
 										}
