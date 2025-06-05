@@ -1,0 +1,20 @@
+{
+    "name": "Doyle, O'Keefe and Vandervort",
+    "base_url": "http://maxie.org",
+    "api_key": "d",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "168",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "f54e1b8f-6b15-4c75-a319-2131bb4f6b53",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749153584"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

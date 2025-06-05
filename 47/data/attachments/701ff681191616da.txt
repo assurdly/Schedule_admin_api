@@ -1,8 +1,0 @@
-{
-    "name": "MTNDatauser-centric",
-    "short_name": "MTN utilities",
-    "description": "Colombian",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}

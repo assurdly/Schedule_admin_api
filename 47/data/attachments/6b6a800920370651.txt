@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Wooden Gloves",
-    "description": "Numquam est nisi magni dolorem. Qui explicabo veniam maxime. At voluptatibus expedita minus perspiciatis deserunt neque quasi recusandae. Omnis voluptatum est nihil.",
-    "icon_url": "http://placeimg.com/640/480"
-}
