@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Plastic Chips",
-    "description": "Assumenda et dolorum et quod. Tenetur eum laborum. Atque aspernatur similique aperiam omnis amet. Ab placeat dicta est vitae est qui et ea.",
-    "icon_url": "http://placeimg.com/640/480"
-}

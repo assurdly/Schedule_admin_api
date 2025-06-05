@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Concrete Hat",
+    "description": "Dicta sit sapiente odio qui vel. Et aperiam cum quidem placeat omnis aut impedit. Pariatur et dolor animi ducimus quis consequatur expedita possimus. Non sint eum. Quia a ullam velit.",
+    "icon_url": "http://placeimg.com/640/480"
+}

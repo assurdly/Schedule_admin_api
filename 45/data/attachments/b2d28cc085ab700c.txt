@@ -1,6 +1,0 @@
-{
-    "name": "Fantastic Steel Towels",
-    "description": "Debitis omnis quo perspiciatis nostrum iste in dignissimos. Aspernatur vitae sed. Asperiores placeat ut dignissimos corrupti ipsam similique illo praesentium vitae. Quis reiciendis nesciunt nihil aut officiis atque enim dolores. Impedit quia quas deleniti aut.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
