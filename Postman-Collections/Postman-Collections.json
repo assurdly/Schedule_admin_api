@@ -6478,228 +6478,6 @@
 									]
 								},
 								{
-									"name": "Fetch a Product Group - Success Copy",
-									"id": "8f37a6a7-801d-42f6-90ba-a7a15cc9171f",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "GET",
-										"header": [],
-										"url": {
-											"raw": "{{base_url}}/admin/product-groups/:product_group_id",
-											"host": [
-												"{{base_url}}"
-											],
-											"path": [
-												"admin",
-												"product-groups",
-												":product_group_id"
-											],
-											"query": [
-												{
-													"key": "limit",
-													"value": "3",
-													"disabled": true
-												},
-												{
-													"key": "page",
-													"value": "1",
-													"disabled": true
-												},
-												{
-													"key": "search",
-													"value": "critical",
-													"disabled": true
-												},
-												{
-													"key": "search_fields",
-													"value": "name",
-													"disabled": true
-												},
-												{
-													"key": "start_date",
-													"value": "2025-05-02",
-													"type": "text",
-													"disabled": true
-												},
-												{
-													"key": "end_date",
-													"value": "2025-05-03",
-													"type": "text",
-													"disabled": true
-												}
-											],
-											"variable": [
-												{
-													"id": "6b5661ae-215d-4e17-9f83-759bec7134e8",
-													"key": "product_group_id",
-													"value": "1"
-												}
-											]
-										}
-									},
-									"response": [
-										{
-											"id": "8602ff58-da54-4c33-b65a-9c3af08eebca",
-											"name": "Get Product Group",
-											"originalRequest": {
-												"method": "GET",
-												"header": [],
-												"url": {
-													"raw": "{{base_url}}/admin/product-groups/:product_group_id",
-													"host": [
-														"{{base_url}}"
-													],
-													"path": [
-														"admin",
-														"product-groups",
-														":product_group_id"
-													],
-													"query": [
-														{
-															"key": "limit",
-															"value": "3",
-															"disabled": true
-														},
-														{
-															"key": "page",
-															"value": "1",
-															"disabled": true
-														},
-														{
-															"key": "search",
-															"value": "critical",
-															"disabled": true
-														},
-														{
-															"key": "search_fields",
-															"value": "name",
-															"disabled": true
-														},
-														{
-															"key": "start_date",
-															"value": "2025-05-02",
-															"type": "text",
-															"disabled": true
-														},
-														{
-															"key": "end_date",
-															"value": "2025-05-03",
-															"type": "text",
-															"disabled": true
-														}
-													],
-													"variable": [
-														{
-															"key": "product_group_id",
-															"value": "1"
-														}
-													]
-												}
-											},
-											"status": "OK",
-											"code": 200,
-											"_postman_previewlanguage": "json",
-											"header": [
-												{
-													"key": "Access-Control-Allow-Origin",
-													"value": "*"
-												},
-												{
-													"key": "Access-Control-Allow-Credentials",
-													"value": "true"
-												},
-												{
-													"key": "Access-Control-Expose-Headers",
-													"value": "x-encryption-key,x-encryption-iv"
-												},
-												{
-													"key": "Content-Security-Policy",
-													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-												},
-												{
-													"key": "Cross-Origin-Opener-Policy",
-													"value": "same-origin"
-												},
-												{
-													"key": "Cross-Origin-Resource-Policy",
-													"value": "cross-origin"
-												},
-												{
-													"key": "X-DNS-Prefetch-Control",
-													"value": "off"
-												},
-												{
-													"key": "X-Frame-Options",
-													"value": "SAMEORIGIN"
-												},
-												{
-													"key": "Strict-Transport-Security",
-													"value": "max-age=15552000; includeSubDomains"
-												},
-												{
-													"key": "X-Download-Options",
-													"value": "noopen"
-												},
-												{
-													"key": "X-Content-Type-Options",
-													"value": "nosniff"
-												},
-												{
-													"key": "Origin-Agent-Cluster",
-													"value": "?1"
-												},
-												{
-													"key": "X-Permitted-Cross-Domain-Policies",
-													"value": "none"
-												},
-												{
-													"key": "Referrer-Policy",
-													"value": "no-referrer"
-												},
-												{
-													"key": "X-XSS-Protection",
-													"value": "0"
-												},
-												{
-													"key": "Content-Type",
-													"value": "application/json; charset=utf-8"
-												},
-												{
-													"key": "Content-Length",
-													"value": "1432"
-												},
-												{
-													"key": "ETag",
-													"value": "W/\"598-nEaiOm25Mc1HGb1df9qdsdLLdEE\""
-												},
-												{
-													"key": "Date",
-													"value": "Mon, 05 May 2025 08:10:46 GMT"
-												},
-												{
-													"key": "Connection",
-													"value": "keep-alive"
-												},
-												{
-													"key": "Keep-Alive",
-													"value": "timeout=5"
-												}
-											],
-											"cookie": [],
-											"responseTime": null,
-											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"id\": 1,\n        \"meta\": {\n            \"data\": {\n                \"error\": null,\n                \"errors\": null,\n                \"provider\": \"PaywithAccount\",\n                \"client_info\": {\n                    \"id\": null,\n                    \"meta\": null,\n                    \"name\": null,\n                    \"colors\": null,\n                    \"css_url\": null,\n                    \"options\": null,\n                    \"logo_url\": null,\n                    \"merchant\": null,\n                    \"paginate\": false,\n                    \"bank_name\": null,\n                    \"console_url\": null,\n                    \"footer_text\": null,\n                    \"bank_cbn_code\": null,\n                    \"paginate_count\": 0,\n                    \"show_options_icon\": false,\n                    \"js_background_image\": null\n                },\n                \"provider_response\": {\n                    \"meta\": {\n                        \"biller_code\": \"000003\"\n                    },\n                    \"status\": \"ACTIVE\",\n                    \"bank_code\": \"070\",\n                    \"bank_name\": null,\n                    \"reference\": \"TXN_SCHDL20250505_061ebdb6\",\n                    \"created_on\": \"2025-05-05 09:10:00\",\n                    \"account_name\": \"MTN utilities\",\n                    \"account_type\": null,\n                    \"contract_code\": null,\n                    \"currency_code\": \"NGN\",\n                    \"account_number\": \"9020022570\",\n                    \"customer_email\": \"paywithaccountMTNDataBaby@onepipe.io\",\n                    \"account_reference\": \"TXN_SCHDL20250505_061ebdb6\"\n                },\n                \"provider_response_code\": \"00\"\n            },\n            \"status\": \"Successful\",\n            \"message\": \"Transaction processed successfully\"\n        },\n        \"name\": \"GLODataKina\",\n        \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n        \"status\": \"active\",\n        \"short_name\": \"GLO utilities\",\n        \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n        \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n        \"aggregator\": \"SwitchTech\",\n        \"biller_code\": \"000003\",\n        \"category_id\": 2,\n        \"created_on\": \"2025-05-05 09:10:16\",\n        \"created_by\": null,\n        \"modified_on\": \"2025-05-05 09:10:32\",\n        \"modified_by\": null,\n        \"deleted_flag\": 0,\n        \"deleted_by\": null\n    }\n}"
-										}
-									]
-								},
-								{
 									"name": "Fetch a Product Group - Invalid Product group ID",
 									"event": [
 										{
@@ -17818,6 +17596,227 @@
 								}
 							],
 							"id": "94fc7ab7-fbf1-4d67-840a-4ab3c706451a"
+						},
+						{
+							"name": "Fetch a Potential Customer Batch",
+							"id": "8f37a6a7-801d-42f6-90ba-a7a15cc9171f",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": {
+										"token": "{{admin_access_token}}"
+									}
+								},
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/admin/potential_customer_batches/:potential_customer_batch_id",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"admin",
+										"potential_customer_batches",
+										":potential_customer_batch_id"
+									],
+									"query": [
+										{
+											"key": "limit",
+											"value": "3",
+											"disabled": true
+										},
+										{
+											"key": "page",
+											"value": "1",
+											"disabled": true
+										},
+										{
+											"key": "search",
+											"value": "critical",
+											"disabled": true
+										},
+										{
+											"key": "search_fields",
+											"value": "name",
+											"disabled": true
+										},
+										{
+											"key": "start_date",
+											"value": "2025-05-02",
+											"type": "text",
+											"disabled": true
+										},
+										{
+											"key": "end_date",
+											"value": "2025-05-03",
+											"type": "text",
+											"disabled": true
+										}
+									],
+									"variable": [
+										{
+											"key": "potential_customer_batch_id",
+											"value": ""
+										}
+									]
+								}
+							},
+							"response": [
+								{
+									"id": "8602ff58-da54-4c33-b65a-9c3af08eebca",
+									"name": "Get Product Group",
+									"originalRequest": {
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/product-groups/:product_group_id",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"product-groups",
+												":product_group_id"
+											],
+											"query": [
+												{
+													"key": "limit",
+													"value": "3",
+													"disabled": true
+												},
+												{
+													"key": "page",
+													"value": "1",
+													"disabled": true
+												},
+												{
+													"key": "search",
+													"value": "critical",
+													"disabled": true
+												},
+												{
+													"key": "search_fields",
+													"value": "name",
+													"disabled": true
+												},
+												{
+													"key": "start_date",
+													"value": "2025-05-02",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "end_date",
+													"value": "2025-05-03",
+													"type": "text",
+													"disabled": true
+												}
+											],
+											"variable": [
+												{
+													"key": "product_group_id",
+													"value": "1"
+												}
+											]
+										}
+									},
+									"status": "OK",
+									"code": 200,
+									"_postman_previewlanguage": "json",
+									"header": [
+										{
+											"key": "Access-Control-Allow-Origin",
+											"value": "*"
+										},
+										{
+											"key": "Access-Control-Allow-Credentials",
+											"value": "true"
+										},
+										{
+											"key": "Access-Control-Expose-Headers",
+											"value": "x-encryption-key,x-encryption-iv"
+										},
+										{
+											"key": "Content-Security-Policy",
+											"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+										},
+										{
+											"key": "Cross-Origin-Opener-Policy",
+											"value": "same-origin"
+										},
+										{
+											"key": "Cross-Origin-Resource-Policy",
+											"value": "cross-origin"
+										},
+										{
+											"key": "X-DNS-Prefetch-Control",
+											"value": "off"
+										},
+										{
+											"key": "X-Frame-Options",
+											"value": "SAMEORIGIN"
+										},
+										{
+											"key": "Strict-Transport-Security",
+											"value": "max-age=15552000; includeSubDomains"
+										},
+										{
+											"key": "X-Download-Options",
+											"value": "noopen"
+										},
+										{
+											"key": "X-Content-Type-Options",
+											"value": "nosniff"
+										},
+										{
+											"key": "Origin-Agent-Cluster",
+											"value": "?1"
+										},
+										{
+											"key": "X-Permitted-Cross-Domain-Policies",
+											"value": "none"
+										},
+										{
+											"key": "Referrer-Policy",
+											"value": "no-referrer"
+										},
+										{
+											"key": "X-XSS-Protection",
+											"value": "0"
+										},
+										{
+											"key": "Content-Type",
+											"value": "application/json; charset=utf-8"
+										},
+										{
+											"key": "Content-Length",
+											"value": "1432"
+										},
+										{
+											"key": "ETag",
+											"value": "W/\"598-nEaiOm25Mc1HGb1df9qdsdLLdEE\""
+										},
+										{
+											"key": "Date",
+											"value": "Mon, 05 May 2025 08:10:46 GMT"
+										},
+										{
+											"key": "Connection",
+											"value": "keep-alive"
+										},
+										{
+											"key": "Keep-Alive",
+											"value": "timeout=5"
+										}
+									],
+									"cookie": [],
+									"responseTime": null,
+									"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"id\": 1,\n        \"meta\": {\n            \"data\": {\n                \"error\": null,\n                \"errors\": null,\n                \"provider\": \"PaywithAccount\",\n                \"client_info\": {\n                    \"id\": null,\n                    \"meta\": null,\n                    \"name\": null,\n                    \"colors\": null,\n                    \"css_url\": null,\n                    \"options\": null,\n                    \"logo_url\": null,\n                    \"merchant\": null,\n                    \"paginate\": false,\n                    \"bank_name\": null,\n                    \"console_url\": null,\n                    \"footer_text\": null,\n                    \"bank_cbn_code\": null,\n                    \"paginate_count\": 0,\n                    \"show_options_icon\": false,\n                    \"js_background_image\": null\n                },\n                \"provider_response\": {\n                    \"meta\": {\n                        \"biller_code\": \"000003\"\n                    },\n                    \"status\": \"ACTIVE\",\n                    \"bank_code\": \"070\",\n                    \"bank_name\": null,\n                    \"reference\": \"TXN_SCHDL20250505_061ebdb6\",\n                    \"created_on\": \"2025-05-05 09:10:00\",\n                    \"account_name\": \"MTN utilities\",\n                    \"account_type\": null,\n                    \"contract_code\": null,\n                    \"currency_code\": \"NGN\",\n                    \"account_number\": \"9020022570\",\n                    \"customer_email\": \"paywithaccountMTNDataBaby@onepipe.io\",\n                    \"account_reference\": \"TXN_SCHDL20250505_061ebdb6\"\n                },\n                \"provider_response_code\": \"00\"\n            },\n            \"status\": \"Successful\",\n            \"message\": \"Transaction processed successfully\"\n        },\n        \"name\": \"GLODataKina\",\n        \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n        \"status\": \"active\",\n        \"short_name\": \"GLO utilities\",\n        \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n        \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n        \"aggregator\": \"SwitchTech\",\n        \"biller_code\": \"000003\",\n        \"category_id\": 2,\n        \"created_on\": \"2025-05-05 09:10:16\",\n        \"created_by\": null,\n        \"modified_on\": \"2025-05-05 09:10:32\",\n        \"modified_by\": null,\n        \"deleted_flag\": 0,\n        \"deleted_by\": null\n    }\n}"
+								}
+							]
 						}
 					],
 					"id": "1e2889ea-42ef-4151-bae2-e2dc2553061c"
