@@ -1,0 +1,6 @@
+{
+    "name": "Refined Fresh Soap",
+    "description": "Dignissimos soluta recusandae et. Vel corporis nihil temporibus amet iusto provident optio cupiditate. Inventore eligendi aut sunt sit. Temporibus vel quasi earum ipsa molestiae. Voluptas illo et dolor. Totam praesentium error beatae illo voluptatum quos officia soluta.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

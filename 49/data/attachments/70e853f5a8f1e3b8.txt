@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Soft Salad",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

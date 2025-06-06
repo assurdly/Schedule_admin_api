@@ -1,0 +1,5 @@
+{
+    "name": "Small Cotton Towels",
+    "description": "Ut dicta sit occaecati occaecati ut. Aut soluta error ut expedita praesentium. Maiores ipsa natus rerum. Voluptatem natus nam unde. A placeat amet inventore.",
+    "icon_url": "http://placeimg.com/640/480"
+}

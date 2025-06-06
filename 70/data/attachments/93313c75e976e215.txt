@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://elsa.biz",
+    "api_key": "2",
+    "secret_key": "y",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "846",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "9f09689b-f49e-4979-91f2-c4deedce55d4",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749233656"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
