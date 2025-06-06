@@ -1,0 +1,5 @@
+{
+    "name": "Small Metal Shirt",
+    "description": "Tenetur officiis consequuntur provident doloribus qui enim. Sit vitae quia sint omnis inventore est. Suscipit rerum temporibus minima consequatur ut. Inventore modi qui quidem amet expedita.",
+    "icon_url": "http://placeimg.com/640/480"
+}

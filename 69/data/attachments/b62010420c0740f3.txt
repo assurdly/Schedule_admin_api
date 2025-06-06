@@ -1,0 +1,20 @@
+{
+    "name": "Practical Wooden Chair",
+    "base_url": "",
+    "api_key": "s",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "354",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "cfd5b19c-570a-4ae3-9c96-f048646fcb24",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749215132"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

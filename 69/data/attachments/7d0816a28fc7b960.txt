@@ -1,0 +1,20 @@
+{
+    "name": "Schinner, O'Connell and Beer",
+    "base_url": "http://jazmyne.com",
+    "api_key": "a",
+    "secret_key": "p",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "781",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0997399a-3cee-4b35-add6-fd5513a4707e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749215131"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Granite Hat",
-    "description": "Molestiae iste dolor tempore sunt distinctio laborum iusto cupiditate. Commodi quidem omnis sint mollitia vel quos blanditiis possimus. Temporibus rerum vitae. Temporibus ipsam recusandae deserunt modi quae fugiat aliquid. Eligendi quibusdam voluptas magni quaerat vitae odio ea. Voluptatem ullam repellendus mollitia.",
-    "icon_url": "http://placeimg.com/640/480"
-}

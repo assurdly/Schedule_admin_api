@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataGranite",
+    "short_name": "MTN utilities",
+    "description": "Djibouti",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

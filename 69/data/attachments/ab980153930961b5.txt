@@ -1,0 +1,5 @@
+{
+    "name": "Small Fresh Tuna",
+    "description": "Distinctio velit rerum. Totam velit ad aut dolorem distinctio perferendis. Incidunt aut inventore aperiam.",
+    "icon_url": "http://placeimg.com/640/480"
+}
