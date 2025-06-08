@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Wooden Hat",
-    "description": "Dolor est in facere et quia. Aut possimus omnis voluptas ipsa consequatur. Sunt et officiis sit et rerum voluptatem ut. Illo ut animi in voluptas enim doloremque est enim voluptatem. Ratione consequuntur sint nostrum nihil recusandae placeat non. Ex dolorem fuga iusto.",
-    "icon_url": "http://placeimg.com/640/480"
-}

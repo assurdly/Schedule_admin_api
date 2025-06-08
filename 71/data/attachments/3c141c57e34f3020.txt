@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://demond.org",
+    "api_key": "y",
+    "secret_key": "0",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "281",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "98a4ab61-ed93-4b9b-98f7-515bea593a3a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749380520"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

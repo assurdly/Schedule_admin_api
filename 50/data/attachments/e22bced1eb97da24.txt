@@ -1,6 +1,0 @@
-{
-    "name": "Generic Wooden Bike",
-    "description": "Architecto incidunt necessitatibus modi voluptatem praesentium quia itaque commodi officiis. Dignissimos ratione dicta voluptas sequi. Corrupti ea alias dolor sunt quia nihil minus velit vel.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
