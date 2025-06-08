@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Plastic Bacon",
+    "description": "Ut quis dolorem mollitia eveniet. Qui id harum dolorem. Sunt est laborum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Generic Fresh Pants",
-    "description": "Repudiandae perspiciatis consequatur impedit ipsa voluptate mollitia rem quod. Ea et quaerat. Dolores non omnis sed occaecati est. Alias qui veniam et saepe officia nisi minima soluta. Consequatur qui praesentium asperiores aliquid labore odit. Libero voluptas asperiores molestiae aperiam asperiores dolores et rerum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

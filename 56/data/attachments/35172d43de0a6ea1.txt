@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Fresh Chicken",
-    "description": "Et deleniti ut sit. Nihil dolor consectetur. Natus recusandae laborum libero aspernatur perspiciatis possimus vitae ipsum. Aspernatur omnis excepturi totam modi exercitationem ut et.",
-    "icon_url": "http://placeimg.com/640/480"
-}

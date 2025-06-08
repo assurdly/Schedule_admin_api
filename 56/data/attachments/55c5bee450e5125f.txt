@@ -1,6 +1,0 @@
-{
-    "name": "Licensed Fresh Towels",
-    "description": "Vel culpa omnis. Fugiat earum quia dolorum explicabo in magnam deserunt maiores perferendis. Officia temporibus quaerat vel sed ut eos. Delectus est cum doloribus ut ut quia consequatur ut et. Nisi tempora incidunt est quis qui. Itaque occaecati nihil recusandae tempora aut quam.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
