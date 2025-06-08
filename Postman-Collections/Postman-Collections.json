@@ -17681,6 +17681,76 @@
 							"response": []
 						},
 						{
+							"name": "Export a Batch of Potential Customers",
+							"id": "ac828b40-03c0-40b5-843b-6bc0b713c165",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": {
+										"token": "{{admin_access_token}}"
+									}
+								},
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id/export",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"admin",
+										"potential-customers",
+										":potential_customer_batch_id",
+										"export"
+									],
+									"query": [
+										{
+											"key": "limit",
+											"value": "3",
+											"disabled": true
+										},
+										{
+											"key": "page",
+											"value": "10",
+											"disabled": true
+										},
+										{
+											"key": "search",
+											"value": "critical",
+											"disabled": true
+										},
+										{
+											"key": "search_fields",
+											"value": "name",
+											"disabled": true
+										},
+										{
+											"key": "start_date",
+											"value": "2025-05-02",
+											"type": "text",
+											"disabled": true
+										},
+										{
+											"key": "end_date",
+											"value": "2025-05-03",
+											"type": "text",
+											"disabled": true
+										}
+									],
+									"variable": [
+										{
+											"key": "potential_customer_batch_id",
+											"value": "1"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
 							"name": "Remove Potential Customer from Batch",
 							"id": "7b81155a-b4d0-45ab-bea6-6ebec6c1ec1b",
 							"protocolProfileBehavior": {
