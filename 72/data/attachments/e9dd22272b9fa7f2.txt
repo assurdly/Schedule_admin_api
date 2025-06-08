@@ -1,0 +1,20 @@
+{
+    "name": "Torp - Wisoky",
+    "base_url": "http://kianna.info",
+    "api_key": "s",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "432",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a254210a-5389-4c3f-a6fd-e928026a6a25",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749380703"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

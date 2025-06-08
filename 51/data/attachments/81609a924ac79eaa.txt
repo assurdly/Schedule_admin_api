@@ -1,5 +1,0 @@
-{
-    "name": "Small Steel Car",
-    "description": "Maiores corrupti omnis dignissimos sapiente et nemo placeat recusandae et. Vitae voluptas qui dolorem est suscipit nihil exercitationem aut ratione. Hic labore ea non tempore. Pariatur consequuntur iure quia incidunt. Neque fuga quo debitis iure consequatur. Eligendi deserunt iure.",
-    "icon_url": "http://placeimg.com/640/480"
-}
