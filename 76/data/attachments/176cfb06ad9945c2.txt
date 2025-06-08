@@ -1,0 +1,5 @@
+{
+    "name": "Rustic Steel Car",
+    "description": "Natus tempore rerum alias accusamus sit inventore. Velit non impedit quia. Repellat assumenda consectetur ut dolorem blanditiis sunt inventore rerum eum. Dolore modi quae sed harum nisi dolore omnis quas. Officia recusandae qui libero aut et. Sit cupiditate et iste.",
+    "icon_url": "http://placeimg.com/640/480"
+}

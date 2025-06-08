@@ -1,0 +1,7 @@
+{
+    "name": "MTNDataout-of-the-box",
+    "description": "",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "amount": null,
+    "product_group_id": "1"
+}

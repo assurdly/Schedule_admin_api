@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Granite Chips",
-    "description": "Odio enim itaque autem ut suscipit. Libero perferendis aperiam sunt quia. Est itaque dolorem et quia et nulla doloremque officiis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

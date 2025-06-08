@@ -1,0 +1,6 @@
+{
+    "name": "Gorgeous Plastic Keyboard",
+    "description": "Pariatur inventore omnis dolorem neque omnis dignissimos vel. Distinctio aspernatur nulla fugit consequuntur voluptatem. Minus sapiente aut magni. Corporis aut inventore sequi libero corporis sequi. Nostrum reiciendis odio suscipit tenetur quis est non impedit sunt. Aut tempora quae molestias.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
