@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataTriple-buffered",
+    "short_name": "MTN utilities",
+    "description": "SMTP",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Fantastic Concrete Soap",
+    "description": "Numquam cupiditate est voluptatem et et. Minus qui fugit assumenda impedit non eum ipsam aliquid. Voluptas illo perspiciatis et ut et nobis animi occaecati. Et occaecati numquam nam.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

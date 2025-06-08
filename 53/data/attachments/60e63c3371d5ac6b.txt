@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Frozen Chips",
-    "description": "Odit et est quo impedit labore quae ut ut molestiae. Dolor voluptatem doloribus ut impedit voluptatem. Dolorem sunt hic.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Wooden Sausages",
+    "description": "Ut vitae provident ut quia ipsa voluptas consectetur. Voluptate porro provident consequatur laborum eum est iste laudantium. Quisquam soluta hic voluptates rem. Minima provident adipisci qui. Ab omnis eligendi veritatis quas dolor.",
+    "icon_url": "http://placeimg.com/640/480"
+}

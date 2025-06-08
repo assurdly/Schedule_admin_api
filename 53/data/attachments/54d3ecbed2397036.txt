@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Fresh Fish",
-    "description": "Ipsum rerum voluptatem vel animi et quia mollitia. Quae rem asperiores magnam et et aspernatur expedita accusantium. Qui magnam eum. Ad harum vel aut a nobis ducimus nisi. Repellat natus ratione esse temporibus odit non nam.",
-    "icon_url": "http://placeimg.com/640/480"
-}
