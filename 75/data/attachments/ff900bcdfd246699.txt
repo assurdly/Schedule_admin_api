@@ -1,0 +1,20 @@
+{
+    "name": "Tasty Steel Shirt",
+    "base_url": "",
+    "api_key": "2",
+    "secret_key": "c",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "150",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "339483a6-2d37-4efa-a281-30bc0a7210e4",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749389150"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

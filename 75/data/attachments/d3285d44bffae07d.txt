@@ -1,0 +1,6 @@
+{
+    "name": "Licensed Metal Shirt",
+    "description": "Ullam voluptatem quis expedita exercitationem qui. Assumenda natus nam aut facere veniam velit aut quidem qui. Possimus iusto eaque autem eum facere dolores reiciendis placeat. Recusandae a fugit non molestiae quaerat reprehenderit eius.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

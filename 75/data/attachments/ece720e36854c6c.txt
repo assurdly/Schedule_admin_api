@@ -1,0 +1,5 @@
+{
+    "name": "Gorgeous Wooden Gloves",
+    "description": "Possimus doloribus consectetur maiores reiciendis. Eius vero et est. Soluta voluptatem id perferendis quo et qui. Assumenda blanditiis quo tenetur.",
+    "icon_url": "http://placeimg.com/640/480"
+}
