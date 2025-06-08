@@ -17622,13 +17622,13 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "{{base_url}}/admin/potential-customer/:potential_customer_batch_id",
+									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id?status=active",
 									"host": [
 										"{{base_url}}"
 									],
 									"path": [
 										"admin",
-										"potential-customer",
+										"potential-customers",
 										":potential_customer_batch_id"
 									],
 									"query": [
@@ -17639,7 +17639,7 @@
 										},
 										{
 											"key": "page",
-											"value": "1",
+											"value": "10",
 											"disabled": true
 										},
 										{
@@ -17663,12 +17663,92 @@
 											"value": "2025-05-03",
 											"type": "text",
 											"disabled": true
+										},
+										{
+											"key": "status",
+											"value": "active",
+											"type": "text"
 										}
 									],
 									"variable": [
 										{
 											"key": "potential_customer_batch_id",
-											"value": "2"
+											"value": "1"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Remove Potential Customer from Batch",
+							"id": "7b81155a-b4d0-45ab-bea6-6ebec6c1ec1b",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": {
+										"token": "{{admin_access_token}}"
+									}
+								},
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id?status=active",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"admin",
+										"potential-customers",
+										":potential_customer_batch_id"
+									],
+									"query": [
+										{
+											"key": "limit",
+											"value": "3",
+											"disabled": true
+										},
+										{
+											"key": "page",
+											"value": "10",
+											"disabled": true
+										},
+										{
+											"key": "search",
+											"value": "critical",
+											"disabled": true
+										},
+										{
+											"key": "search_fields",
+											"value": "name",
+											"disabled": true
+										},
+										{
+											"key": "start_date",
+											"value": "2025-05-02",
+											"type": "text",
+											"disabled": true
+										},
+										{
+											"key": "end_date",
+											"value": "2025-05-03",
+											"type": "text",
+											"disabled": true
+										},
+										{
+											"key": "status",
+											"value": "active",
+											"type": "text"
+										}
+									],
+									"variable": [
+										{
+											"id": "7cd7bed5-4686-45f1-9fdf-3e69a5426c42",
+											"key": "potential_customer_batch_id",
+											"value": "1"
 										}
 									]
 								}
