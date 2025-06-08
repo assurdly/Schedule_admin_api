@@ -17607,7 +17607,7 @@
 							"id": "94fc7ab7-fbf1-4d67-840a-4ab3c706451a"
 						},
 						{
-							"name": "Fetch a Potential Customer Batch",
+							"name": "Fetch a Potential Customer By Batch",
 							"id": "8f37a6a7-801d-42f6-90ba-a7a15cc9171f",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
@@ -17667,6 +17667,76 @@
 									],
 									"variable": [
 										{
+											"key": "potential_customer_batch_id",
+											"value": "2"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Fetch a Potential Customer Batch Copy",
+							"id": "61ef2598-5c52-4414-ac7d-4f41edb10e5c",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": {
+										"token": "{{admin_access_token}}"
+									}
+								},
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"admin",
+										"potential-customer-batches",
+										":potential_customer_batch_id"
+									],
+									"query": [
+										{
+											"key": "limit",
+											"value": "3",
+											"disabled": true
+										},
+										{
+											"key": "page",
+											"value": "1",
+											"disabled": true
+										},
+										{
+											"key": "search",
+											"value": "critical",
+											"disabled": true
+										},
+										{
+											"key": "search_fields",
+											"value": "name",
+											"disabled": true
+										},
+										{
+											"key": "start_date",
+											"value": "2025-05-02",
+											"type": "text",
+											"disabled": true
+										},
+										{
+											"key": "end_date",
+											"value": "2025-05-03",
+											"type": "text",
+											"disabled": true
+										}
+									],
+									"variable": [
+										{
+											"id": "c46177d0-7f4e-47b1-b548-d2fbbdf6f8b0",
 											"key": "potential_customer_batch_id",
 											"value": "2"
 										}
