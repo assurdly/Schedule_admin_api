@@ -17622,13 +17622,13 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id",
+									"raw": "{{base_url}}/admin/potential-customer/:potential_customer_batch_id",
 									"host": [
 										"{{base_url}}"
 									],
 									"path": [
 										"admin",
-										"potential-customer-batches",
+										"potential-customer",
 										":potential_customer_batch_id"
 									],
 									"query": [
