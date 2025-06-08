@@ -17693,17 +17693,19 @@
 										"token": "{{admin_access_token}}"
 									}
 								},
-								"method": "GET",
+								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id?status=active",
+									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id/customers/:potential_customer_id",
 									"host": [
 										"{{base_url}}"
 									],
 									"path": [
 										"admin",
 										"potential-customers",
-										":potential_customer_batch_id"
+										":potential_customer_batch_id",
+										"customers",
+										":potential_customer_id"
 									],
 									"query": [
 										{
@@ -17737,17 +17739,15 @@
 											"value": "2025-05-03",
 											"type": "text",
 											"disabled": true
-										},
-										{
-											"key": "status",
-											"value": "active",
-											"type": "text"
 										}
 									],
 									"variable": [
 										{
-											"id": "7cd7bed5-4686-45f1-9fdf-3e69a5426c42",
 											"key": "potential_customer_batch_id",
+											"value": "1"
+										},
+										{
+											"key": "potential_customer_id",
 											"value": "1"
 										}
 									]
