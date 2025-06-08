@@ -1,0 +1,6 @@
+{
+    "name": "Practical Rubber Soap",
+    "description": "Eius est est hic. Quo eum et tempore suscipit sed deleniti officiis. Est molestiae ipsam suscipit voluptas temporibus et ut voluptas. Distinctio nihil iusto repudiandae aut cupiditate dolor et qui excepturi. Deleniti in voluptatem non dolores rem ex odio eius voluptate.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

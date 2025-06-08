@@ -1,5 +1,0 @@
-{
-    "name": "Refined Plastic Pizza",
-    "description": "Et ut neque id qui ab et. Qui ipsum dolorem dolorem ullam necessitatibus asperiores ab. Neque consequatur voluptatibus atque sequi. Nam dolorum pariatur reiciendis et alias et temporibus adipisci cupiditate. Est sed deleniti dolor iure cum quia aut quam.",
-    "icon_url": "http://placeimg.com/640/480"
-}
