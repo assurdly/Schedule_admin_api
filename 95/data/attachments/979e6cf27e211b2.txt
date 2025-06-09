@@ -1,6 +1,0 @@
-{
-    "name": "Awesome Rubber Chips",
-    "description": "Alias saepe aliquam accusamus. Dolore necessitatibus qui corporis amet. Consequatur quaerat qui. Eum eos omnis et nihil quo voluptas.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
