@@ -1,0 +1,20 @@
+{
+    "name": "Awesome Cotton Tuna",
+    "base_url": "",
+    "api_key": "e",
+    "secret_key": "z",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "533",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "60abc597-e6b7-48fb-92c0-4550f5be628c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749461192"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

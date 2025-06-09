@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Cotton Chips",
+    "description": "Velit a perferendis saepe. Vel sunt sapiente qui. Quia qui eum molestiae cum necessitatibus. Velit quis repellat. Et quaerat dolorum. In nam dolorem et illum molestiae assumenda iste enim voluptatem.",
+    "icon_url": "http://placeimg.com/640/480"
+}

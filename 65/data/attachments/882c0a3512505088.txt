@@ -1,6 +1,0 @@
-{
-    "name": "Practical Frozen Salad",
-    "description": "Ratione adipisci aperiam dolor aut nulla eius soluta aut facilis. Nihil laudantium repudiandae doloremque omnis delectus. Ullam voluptatem possimus consequatur harum. Et sed deserunt cumque praesentium et modi iure commodi. Et accusamus blanditiis et perferendis voluptatem impedit.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

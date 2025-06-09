@@ -1,8 +1,0 @@
-{
-    "name": "MTNDataCotton",
-    "short_name": "MTN utilities",
-    "description": "Executive",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}

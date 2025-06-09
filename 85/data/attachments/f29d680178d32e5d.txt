@@ -1,0 +1,8 @@
+{
+    "base_url": "http://liliana.biz",
+    "api_key": "7",
+    "secret_key": "ZGV2K2licm9saW5rc0BvbmVwaXBlLmlvOjA4MDMyMDAyMNya",
+    "auth_type": "apikey",
+    "environment": "production",
+    "status": "active"
+}
