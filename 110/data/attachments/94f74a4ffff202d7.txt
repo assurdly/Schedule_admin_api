@@ -1,0 +1,20 @@
+{
+    "name": "Thompson - Ankunding",
+    "base_url": "http://cary.org",
+    "api_key": "o",
+    "secret_key": "5",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "588",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0505dcfd-3789-437c-9f12-7a24a67ac95e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749488720"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

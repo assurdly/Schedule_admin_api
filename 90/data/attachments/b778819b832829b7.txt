@@ -1,8 +1,0 @@
-{
-    "name": "MTN DataAwesome Concrete Gloves",
-    "short_name": "MTN utilities",
-    "description": "",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator_id": "SwitchTech",
-    "category_id": "2"
-}

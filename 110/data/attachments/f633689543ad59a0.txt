@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Steel Table",
+    "description": "Vitae accusamus consequatur sit aut natus omnis blanditiis harum. Sit tempora eaque soluta reiciendis inventore id. Consequatur illo eum quaerat. Quibusdam autem odit facere veniam ut ex rerum delectus. Error incidunt facilis tempora ducimus ipsa quasi incidunt consequatur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

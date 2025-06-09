@@ -1,0 +1,20 @@
+{
+    "name": "Unbranded Rubber Gloves",
+    "base_url": "",
+    "api_key": "u",
+    "secret_key": "p",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "633",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "46f55a72-28fa-4ec9-af3d-f425f2444d20",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749488720"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

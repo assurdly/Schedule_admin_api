@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Cotton Tuna",
-    "description": "Corporis libero maxime laborum quae saepe quia est. Provident deserunt eveniet ipsam. Natus et sequi hic dolores rerum necessitatibus vel.",
-    "icon_url": "http://placeimg.com/640/480"
-}

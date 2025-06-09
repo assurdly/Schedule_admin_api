@@ -1,8 +1,0 @@
-{
-    "name": "MTNDataQuality",
-    "description": "Group for utility-related products like electricity, water, and internet.",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "amount": 100.00,
-    "product_group_id": "2",
-    "status": "active"
-}
