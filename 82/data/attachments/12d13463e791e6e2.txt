@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Concrete Bike",
+    "description": "Beatae repellendus pariatur et ratione dolor minima. Sit temporibus assumenda veritatis deleniti consequatur. Fuga natus eum possimus vel. Laboriosam quia vero soluta unde excepturi velit nihil. Nulla culpa suscipit excepturi vitae rerum. Repudiandae quia alias minus quia qui est dolorum laudantium id.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://lilian.info",
+    "api_key": "o",
+    "secret_key": "3",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "458",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "46f7f898-9f69-4706-a0d1-45cef827fb81",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749459175"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

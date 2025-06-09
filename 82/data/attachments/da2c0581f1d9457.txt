@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://leonard.net",
+    "api_key": "d",
+    "secret_key": "t",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "87",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "9442b339-e16b-44c8-b5b9-b90573d4a754",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749459176"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
