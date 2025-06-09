@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Frozen Cheese",
-    "description": "Enim laudantium pariatur amet. Ducimus totam exercitationem reiciendis autem ut nostrum modi tenetur. Quam consectetur excepturi. Sed officia in ipsum velit facere sed eius. Et debitis et ad illum facilis nemo ducimus aut.",
-    "icon_url": "http://placeimg.com/640/480"
-}

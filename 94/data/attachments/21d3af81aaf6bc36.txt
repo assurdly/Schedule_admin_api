@@ -1,6 +1,0 @@
-{
-    "name": "Gorgeous Granite Soap",
-    "description": "Unde officia quia laborum et est est repellat. Earum enim et. Occaecati qui facilis asperiores ut dolore vel earum. Eum excepturi vero vitae rerum recusandae incidunt adipisci dolorem. Pariatur vel molestiae et facere expedita ea dolorum reprehenderit.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
