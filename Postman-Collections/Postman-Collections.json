@@ -16759,217 +16759,153 @@
 					"name": "Customers",
 					"item": [
 						{
-							"name": "export customers details",
-							"id": "3349f53e-18be-46dd-a5ed-771c71d92cbd",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "POST",
-								"header": [],
-								"url": "{{base_url}}/admin/customers/export"
-							},
-							"response": [
+							"name": "New Folder",
+							"item": [
 								{
-									"id": "14367beb-1252-4e02-aa31-bb19d4c438c3",
-									"name": "response for customer export details",
-									"originalRequest": {
+									"name": "export customers details",
+									"id": "3349f53e-18be-46dd-a5ed-771c71d92cbd",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
 										"method": "POST",
 										"header": [],
 										"url": "{{base_url}}/admin/customers/export"
 									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
+									"response": [
 										{
-											"key": "Access-Control-Allow-Origin",
-											"value": "*"
-										},
-										{
-											"key": "Access-Control-Allow-Credentials",
-											"value": "true"
-										},
-										{
-											"key": "Access-Control-Expose-Headers",
-											"value": "x-encryption-key,x-encryption-iv"
-										},
-										{
-											"key": "Content-Security-Policy",
-											"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-										},
-										{
-											"key": "Cross-Origin-Opener-Policy",
-											"value": "same-origin"
-										},
-										{
-											"key": "Cross-Origin-Resource-Policy",
-											"value": "cross-origin"
-										},
-										{
-											"key": "X-DNS-Prefetch-Control",
-											"value": "off"
-										},
-										{
-											"key": "X-Frame-Options",
-											"value": "SAMEORIGIN"
-										},
-										{
-											"key": "Strict-Transport-Security",
-											"value": "max-age=15552000; includeSubDomains"
-										},
-										{
-											"key": "X-Download-Options",
-											"value": "noopen"
-										},
-										{
-											"key": "X-Content-Type-Options",
-											"value": "nosniff"
-										},
-										{
-											"key": "Origin-Agent-Cluster",
-											"value": "?1"
-										},
-										{
-											"key": "X-Permitted-Cross-Domain-Policies",
-											"value": "none"
-										},
-										{
-											"key": "Referrer-Policy",
-											"value": "no-referrer"
-										},
-										{
-											"key": "X-XSS-Protection",
-											"value": "0"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json; charset=utf-8"
-										},
-										{
-											"key": "Content-Length",
-											"value": "475"
-										},
-										{
-											"key": "ETag",
-											"value": "W/\"1db-r/tXMMU8qYRI7TO5LhkgfbJcwak\""
-										},
-										{
-											"key": "Date",
-											"value": "Mon, 02 Jun 2025 13:37:13 GMT"
-										},
-										{
-											"key": "Connection",
-											"value": "keep-alive"
-										},
-										{
-											"key": "Keep-Alive",
-											"value": "timeout=5"
-										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer export completed successfully\",\n    \"data\": {\n        \"data\": \"Q3VzdG9tZXIgSUQsRmlyc3QgTmFtZSxMYXN0IE5hbWUsRW1haWwsUGhvbmUgTnVtYmVyLFN0YXR1cyxWZXJpZmllZCxMYXN0IExvZ2luLFJlZ2lzdHJhdGlvbiBEYXRlLExhc3QgVXBkYXRlZAoxLHRlc3QsdGVzdCxwcmVjaW91c29sYW5yZXdhanUxOTk4QGdtYWlsLmNvbSwrMjM0ODE2MDMxNDkzNSx2ZXJpZmllZCxZZXMsMjAyNS0wNi0wMiAxNDozMDoyNSwyMDI1LTA2LTAyIDE0OjI3OjI4LDIwMjUtMDYtMDIgMTQ6MzA6NTQK\",\n        \"meta\": {\n            \"records\": 1,\n            \"page\": 1,\n            \"pages\": 1,\n            \"page_size\": 10000000\n        }\n    }\n}"
-								}
-							]
-						},
-						{
-							"name": "Customers",
-							"id": "1e7a9b91-3dfc-462b-9373-4185d9e36d98",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "GET",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": {
-									"raw": "{{base_url}}/admin/customers",
-									"host": [
-										"{{base_url}}"
-									],
-									"path": [
-										"admin",
-										"customers"
-									],
-									"query": [
-										{
-											"key": "limit",
-											"value": "3",
-											"disabled": true
-										},
-										{
-											"key": "page",
-											"value": "1",
-											"disabled": true
-										},
-										{
-											"key": "search",
-											"value": "critical",
-											"disabled": true
-										},
-										{
-											"key": "search_fields",
-											"value": "name",
-											"disabled": true
-										},
-										{
-											"key": "start_date",
-											"value": "2025-05-02",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "end_date",
-											"value": "2025-05-03",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "status",
-											"value": "active",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "id",
-											"value": null,
-											"type": "text",
-											"disabled": true
+											"id": "14367beb-1252-4e02-aa31-bb19d4c438c3",
+											"name": "response for customer export details",
+											"originalRequest": {
+												"method": "POST",
+												"header": [],
+												"url": "{{base_url}}/admin/customers/export"
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "475"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"1db-r/tXMMU8qYRI7TO5LhkgfbJcwak\""
+												},
+												{
+													"key": "Date",
+													"value": "Mon, 02 Jun 2025 13:37:13 GMT"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Keep-Alive",
+													"value": "timeout=5"
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer export completed successfully\",\n    \"data\": {\n        \"data\": \"Q3VzdG9tZXIgSUQsRmlyc3QgTmFtZSxMYXN0IE5hbWUsRW1haWwsUGhvbmUgTnVtYmVyLFN0YXR1cyxWZXJpZmllZCxMYXN0IExvZ2luLFJlZ2lzdHJhdGlvbiBEYXRlLExhc3QgVXBkYXRlZAoxLHRlc3QsdGVzdCxwcmVjaW91c29sYW5yZXdhanUxOTk4QGdtYWlsLmNvbSwrMjM0ODE2MDMxNDkzNSx2ZXJpZmllZCxZZXMsMjAyNS0wNi0wMiAxNDozMDoyNSwyMDI1LTA2LTAyIDE0OjI3OjI4LDIwMjUtMDYtMDIgMTQ6MzA6NTQK\",\n        \"meta\": {\n            \"records\": 1,\n            \"page\": 1,\n            \"pages\": 1,\n            \"page_size\": 10000000\n        }\n    }\n}"
 										}
 									]
 								}
-							},
-							"response": [
+							],
+							"id": "9fc874a2-6f5d-4e90-b6c0-94b48c681e13"
+						},
+						{
+							"name": "Fecth Customers",
+							"item": [
 								{
-									"id": "227624bc-48b7-4ba8-a458-f87567a1393a",
-									"name": "get all Customers",
-									"originalRequest": {
+									"name": "Customers",
+									"id": "1e7a9b91-3dfc-462b-9373-4185d9e36d98",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
 										"method": "GET",
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"1\"\n}",
+											"raw": "",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -16977,7 +16913,7 @@
 											}
 										},
 										"url": {
-											"raw": "{{base_url}}/admin/customers?limit=1&page=1",
+											"raw": "{{base_url}}/admin/customers",
 											"host": [
 												"{{base_url}}"
 											],
@@ -16988,31 +16924,33 @@
 											"query": [
 												{
 													"key": "limit",
-													"value": "1"
+													"value": "3",
+													"disabled": true
 												},
 												{
 													"key": "page",
-													"value": "1"
+													"value": "1",
+													"disabled": true
 												},
 												{
 													"key": "search",
-													"value": "ola",
+													"value": "critical",
 													"disabled": true
 												},
 												{
 													"key": "search_fields",
-													"value": "first_name",
+													"value": "name",
 													"disabled": true
 												},
 												{
 													"key": "start_date",
-													"value": "2025-07-02",
+													"value": "2025-05-02",
 													"type": "text",
 													"disabled": true
 												},
 												{
 													"key": "end_date",
-													"value": "2025-08-01",
+													"value": "2025-05-03",
 													"type": "text",
 													"disabled": true
 												},
@@ -17021,396 +16959,322 @@
 													"value": "active",
 													"type": "text",
 													"disabled": true
+												},
+												{
+													"key": "id",
+													"value": null,
+													"type": "text",
+													"disabled": true
 												}
 											]
 										}
 									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
+									"response": [
 										{
-											"key": "Access-Control-Allow-Origin",
-											"value": "*"
-										},
-										{
-											"key": "Access-Control-Allow-Credentials",
-											"value": "true"
-										},
-										{
-											"key": "Access-Control-Expose-Headers",
-											"value": "x-encryption-key,x-encryption-iv"
-										},
-										{
-											"key": "Content-Security-Policy",
-											"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-										},
-										{
-											"key": "Cross-Origin-Opener-Policy",
-											"value": "same-origin"
-										},
-										{
-											"key": "Cross-Origin-Resource-Policy",
-											"value": "cross-origin"
-										},
-										{
-											"key": "X-DNS-Prefetch-Control",
-											"value": "off"
-										},
-										{
-											"key": "X-Frame-Options",
-											"value": "SAMEORIGIN"
-										},
-										{
-											"key": "Strict-Transport-Security",
-											"value": "max-age=15552000; includeSubDomains"
-										},
-										{
-											"key": "X-Download-Options",
-											"value": "noopen"
-										},
-										{
-											"key": "X-Content-Type-Options",
-											"value": "nosniff"
-										},
-										{
-											"key": "Origin-Agent-Cluster",
-											"value": "?1"
-										},
-										{
-											"key": "X-Permitted-Cross-Domain-Policies",
-											"value": "none"
-										},
-										{
-											"key": "Referrer-Policy",
-											"value": "no-referrer"
-										},
-										{
-											"key": "X-XSS-Protection",
-											"value": "0"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json; charset=utf-8"
-										},
-										{
-											"key": "Content-Length",
-											"value": "337"
-										},
-										{
-											"key": "ETag",
-											"value": "W/\"151-j+jxeuNfZpzx6JkTk6HlajaXIp4\""
-										},
-										{
-											"key": "Date",
-											"value": "Mon, 02 Jun 2025 13:34:35 GMT"
-										},
-										{
-											"key": "Connection",
-											"value": "keep-alive"
-										},
-										{
-											"key": "Keep-Alive",
-											"value": "timeout=5"
+											"id": "227624bc-48b7-4ba8-a458-f87567a1393a",
+											"name": "get all Customers",
+											"originalRequest": {
+												"method": "GET",
+												"header": [],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"name\": \"MTNData{{$randomWord}}\",\n    \"short_name\": \"MTN utilities\",\n    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n    \"aggregator\": \"SwitchTech\",\n    \"category_id\": \"1\"\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": {
+													"raw": "{{base_url}}/admin/customers?limit=1&page=1",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"admin",
+														"customers"
+													],
+													"query": [
+														{
+															"key": "limit",
+															"value": "1"
+														},
+														{
+															"key": "page",
+															"value": "1"
+														},
+														{
+															"key": "search",
+															"value": "ola",
+															"disabled": true
+														},
+														{
+															"key": "search_fields",
+															"value": "first_name",
+															"disabled": true
+														},
+														{
+															"key": "start_date",
+															"value": "2025-07-02",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "end_date",
+															"value": "2025-08-01",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "status",
+															"value": "active",
+															"type": "text",
+															"disabled": true
+														}
+													]
+												}
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "337"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"151-j+jxeuNfZpzx6JkTk6HlajaXIp4\""
+												},
+												{
+													"key": "Date",
+													"value": "Mon, 02 Jun 2025 13:34:35 GMT"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Keep-Alive",
+													"value": "timeout=5"
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customers retrieved successfully\",\n    \"data\": {\n        \"data\": [\n            {\n                \"id\": 1,\n                \"first_name\": \"test\",\n                \"last_name\": \"test\",\n                \"email\": \"preciousolanrewaju1998@gmail.com\",\n                \"phone_number\": \"+2348160314935\",\n                \"status\": \"verified\",\n                \"isVerified\": 1,\n                \"last_login_at\": \"2025-06-02 14:30:25\"\n            }\n        ],\n        \"meta\": {\n            \"records\": 1,\n            \"page\": \"1\",\n            \"pages\": 1,\n            \"page_size\": \"1\"\n        }\n    }\n}"
 										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customers retrieved successfully\",\n    \"data\": {\n        \"data\": [\n            {\n                \"id\": 1,\n                \"first_name\": \"test\",\n                \"last_name\": \"test\",\n                \"email\": \"preciousolanrewaju1998@gmail.com\",\n                \"phone_number\": \"+2348160314935\",\n                \"status\": \"verified\",\n                \"isVerified\": 1,\n                \"last_login_at\": \"2025-06-02 14:30:25\"\n            }\n        ],\n        \"meta\": {\n            \"records\": 1,\n            \"page\": \"1\",\n            \"pages\": 1,\n            \"page_size\": \"1\"\n        }\n    }\n}"
+									]
 								}
-							]
+							],
+							"id": "dbe945e0-972b-4fed-86be-fa4e4bdfde44"
 						},
 						{
-							"name": "fetch customer by id",
-							"id": "e1153971-d8de-49da-b76a-c3afc26c88b4",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "GET",
-								"header": [],
-								"url": "{{base_url}}/admin/customers/1"
-							},
-							"response": [
+							"name": "Fetch Customer by Id",
+							"item": [
 								{
-									"id": "8963b285-1a74-4ee3-8aeb-f48ea0a9b7fb",
 									"name": "fetch customer by id",
-									"originalRequest": {
+									"id": "e1153971-d8de-49da-b76a-c3afc26c88b4",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
 										"method": "GET",
 										"header": [],
 										"url": "{{base_url}}/admin/customers/1"
 									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
+									"response": [
 										{
-											"key": "Access-Control-Allow-Origin",
-											"value": "*"
-										},
-										{
-											"key": "Access-Control-Allow-Credentials",
-											"value": "true"
-										},
-										{
-											"key": "Access-Control-Expose-Headers",
-											"value": "x-encryption-key,x-encryption-iv"
-										},
-										{
-											"key": "Content-Security-Policy",
-											"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-										},
-										{
-											"key": "Cross-Origin-Opener-Policy",
-											"value": "same-origin"
-										},
-										{
-											"key": "Cross-Origin-Resource-Policy",
-											"value": "cross-origin"
-										},
-										{
-											"key": "X-DNS-Prefetch-Control",
-											"value": "off"
-										},
-										{
-											"key": "X-Frame-Options",
-											"value": "SAMEORIGIN"
-										},
-										{
-											"key": "Strict-Transport-Security",
-											"value": "max-age=15552000; includeSubDomains"
-										},
-										{
-											"key": "X-Download-Options",
-											"value": "noopen"
-										},
-										{
-											"key": "X-Content-Type-Options",
-											"value": "nosniff"
-										},
-										{
-											"key": "Origin-Agent-Cluster",
-											"value": "?1"
-										},
-										{
-											"key": "X-Permitted-Cross-Domain-Policies",
-											"value": "none"
-										},
-										{
-											"key": "Referrer-Policy",
-											"value": "no-referrer"
-										},
-										{
-											"key": "X-XSS-Protection",
-											"value": "0"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json; charset=utf-8"
-										},
-										{
-											"key": "Content-Length",
-											"value": "308"
-										},
-										{
-											"key": "ETag",
-											"value": "W/\"134-pk5hUHy0URj4cg9Cxx4NBwIdCwA\""
-										},
-										{
-											"key": "Date",
-											"value": "Tue, 03 Jun 2025 21:27:04 GMT"
-										},
-										{
-											"key": "Connection",
-											"value": "keep-alive"
-										},
-										{
-											"key": "Keep-Alive",
-											"value": "timeout=5"
-										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer retrieved successfully\",\n    \"data\": {\n        \"id\": 1,\n        \"first_name\": \"lanre\",\n        \"last_name\": \"lanre\",\n        \"email\": \"preciousolanrewaju1998@gmail.com\",\n        \"phone_number\": \"+2348160314935\",\n        \"status\": \"pending\",\n        \"last_login_at\": \"2025-06-03 17:50:25\",\n        \"isVerified\": true,\n        \"subscriptions\": [],\n        \"transactions\": []\n    }\n}"
-								}
-							]
-						},
-						{
-							"name": "deactivate customer account",
-							"id": "86c1fcf8-07ff-4708-88a3-adefaaa4144d",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\r\n    \"reason\": \"I am tired\"\r\n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": "{{base_url}}/admin/customers/1/deactivate"
-							},
-							"response": [
-								{
-									"id": "26fa6920-ef91-4f26-bf66-761350208b6f",
-									"name": "deactivate customer",
-									"originalRequest": {
-										"method": "POST",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\r\n    \"reason\": \"I am tired\"\r\n}",
-											"options": {
-												"raw": {
-													"language": "json"
+											"id": "8963b285-1a74-4ee3-8aeb-f48ea0a9b7fb",
+											"name": "fetch customer by id",
+											"originalRequest": {
+												"method": "GET",
+												"header": [],
+												"url": "{{base_url}}/admin/customers/1"
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "308"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"134-pk5hUHy0URj4cg9Cxx4NBwIdCwA\""
+												},
+												{
+													"key": "Date",
+													"value": "Tue, 03 Jun 2025 21:27:04 GMT"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Keep-Alive",
+													"value": "timeout=5"
 												}
-											}
-										},
-										"url": "{{base_url}}/admin/customers/1/deactivate"
-									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
-										{
-											"key": "Access-Control-Allow-Origin",
-											"value": "*"
-										},
-										{
-											"key": "Access-Control-Allow-Credentials",
-											"value": "true"
-										},
-										{
-											"key": "Access-Control-Expose-Headers",
-											"value": "x-encryption-key,x-encryption-iv"
-										},
-										{
-											"key": "Content-Security-Policy",
-											"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-										},
-										{
-											"key": "Cross-Origin-Opener-Policy",
-											"value": "same-origin"
-										},
-										{
-											"key": "Cross-Origin-Resource-Policy",
-											"value": "cross-origin"
-										},
-										{
-											"key": "X-DNS-Prefetch-Control",
-											"value": "off"
-										},
-										{
-											"key": "X-Frame-Options",
-											"value": "SAMEORIGIN"
-										},
-										{
-											"key": "Strict-Transport-Security",
-											"value": "max-age=15552000; includeSubDomains"
-										},
-										{
-											"key": "X-Download-Options",
-											"value": "noopen"
-										},
-										{
-											"key": "X-Content-Type-Options",
-											"value": "nosniff"
-										},
-										{
-											"key": "Origin-Agent-Cluster",
-											"value": "?1"
-										},
-										{
-											"key": "X-Permitted-Cross-Domain-Policies",
-											"value": "none"
-										},
-										{
-											"key": "Referrer-Policy",
-											"value": "no-referrer"
-										},
-										{
-											"key": "X-XSS-Protection",
-											"value": "0"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json; charset=utf-8"
-										},
-										{
-											"key": "Content-Length",
-											"value": "74"
-										},
-										{
-											"key": "ETag",
-											"value": "W/\"4a-jmCyB7a8Ap+sbZZE8gM/lysl+/w\""
-										},
-										{
-											"key": "Date",
-											"value": "Tue, 03 Jun 2025 22:45:49 GMT"
-										},
-										{
-											"key": "Connection",
-											"value": "keep-alive"
-										},
-										{
-											"key": "Keep-Alive",
-											"value": "timeout=5"
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer retrieved successfully\",\n    \"data\": {\n        \"id\": 1,\n        \"first_name\": \"lanre\",\n        \"last_name\": \"lanre\",\n        \"email\": \"preciousolanrewaju1998@gmail.com\",\n        \"phone_number\": \"+2348160314935\",\n        \"status\": \"pending\",\n        \"last_login_at\": \"2025-06-03 17:50:25\",\n        \"isVerified\": true,\n        \"subscriptions\": [],\n        \"transactions\": []\n    }\n}"
 										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer account deactivated successfully\"\n}"
+									]
 								}
-							]
+							],
+							"id": "0f1582b9-652f-418b-9ad0-06f50e8a9b52"
 						},
 						{
 							"name": "activate customer account",
-							"id": "0790ec6a-e1c8-4265-8644-8ba705857769",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": "{{base_url}}/admin/customers/1/activate"
-							},
-							"response": [
+							"item": [
 								{
-									"id": "f8d92883-e2bb-463a-9b21-0d550516d8fc",
 									"name": "activate customer account",
-									"originalRequest": {
+									"id": "0790ec6a-e1c8-4265-8644-8ba705857769",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
 										"method": "POST",
 										"header": [],
 										"body": {
@@ -17424,100 +17288,266 @@
 										},
 										"url": "{{base_url}}/admin/customers/1/activate"
 									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
+									"response": [
 										{
-											"key": "Access-Control-Allow-Origin",
-											"value": "*"
-										},
-										{
-											"key": "Access-Control-Allow-Credentials",
-											"value": "true"
-										},
-										{
-											"key": "Access-Control-Expose-Headers",
-											"value": "x-encryption-key,x-encryption-iv"
-										},
-										{
-											"key": "Content-Security-Policy",
-											"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
-										},
-										{
-											"key": "Cross-Origin-Opener-Policy",
-											"value": "same-origin"
-										},
-										{
-											"key": "Cross-Origin-Resource-Policy",
-											"value": "cross-origin"
-										},
-										{
-											"key": "X-DNS-Prefetch-Control",
-											"value": "off"
-										},
-										{
-											"key": "X-Frame-Options",
-											"value": "SAMEORIGIN"
-										},
-										{
-											"key": "Strict-Transport-Security",
-											"value": "max-age=15552000; includeSubDomains"
-										},
-										{
-											"key": "X-Download-Options",
-											"value": "noopen"
-										},
-										{
-											"key": "X-Content-Type-Options",
-											"value": "nosniff"
-										},
-										{
-											"key": "Origin-Agent-Cluster",
-											"value": "?1"
-										},
-										{
-											"key": "X-Permitted-Cross-Domain-Policies",
-											"value": "none"
-										},
-										{
-											"key": "Referrer-Policy",
-											"value": "no-referrer"
-										},
-										{
-											"key": "X-XSS-Protection",
-											"value": "0"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json; charset=utf-8"
-										},
-										{
-											"key": "Content-Length",
-											"value": "72"
-										},
-										{
-											"key": "ETag",
-											"value": "W/\"48-3wQe0hFcPy5q5+bBS+oIbhDjtH8\""
-										},
-										{
-											"key": "Date",
-											"value": "Tue, 03 Jun 2025 22:53:33 GMT"
-										},
-										{
-											"key": "Connection",
-											"value": "keep-alive"
-										},
-										{
-											"key": "Keep-Alive",
-											"value": "timeout=5"
+											"id": "f8d92883-e2bb-463a-9b21-0d550516d8fc",
+											"name": "activate customer account",
+											"originalRequest": {
+												"method": "POST",
+												"header": [],
+												"body": {
+													"mode": "raw",
+													"raw": "",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/admin/customers/1/activate"
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "72"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"48-3wQe0hFcPy5q5+bBS+oIbhDjtH8\""
+												},
+												{
+													"key": "Date",
+													"value": "Tue, 03 Jun 2025 22:53:33 GMT"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Keep-Alive",
+													"value": "timeout=5"
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer account activated successfully\"\n}"
 										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer account activated successfully\"\n}"
+									]
 								}
-							]
+							],
+							"id": "34fe0baa-54ce-4e7b-84e6-369f1e0252d7"
+						},
+						{
+							"name": "Deactivate customer account",
+							"item": [
+								{
+									"name": "deactivate customer account",
+									"id": "86c1fcf8-07ff-4708-88a3-adefaaa4144d",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "POST",
+										"header": [],
+										"body": {
+											"mode": "raw",
+											"raw": "{\r\n    \"reason\": \"I am tired\"\r\n}",
+											"options": {
+												"raw": {
+													"language": "json"
+												}
+											}
+										},
+										"url": "{{base_url}}/admin/customers/1/deactivate"
+									},
+									"response": [
+										{
+											"id": "26fa6920-ef91-4f26-bf66-761350208b6f",
+											"name": "deactivate customer",
+											"originalRequest": {
+												"method": "POST",
+												"header": [],
+												"body": {
+													"mode": "raw",
+													"raw": "{\r\n    \"reason\": \"I am tired\"\r\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/admin/customers/1/deactivate"
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "74"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"4a-jmCyB7a8Ap+sbZZE8gM/lysl+/w\""
+												},
+												{
+													"key": "Date",
+													"value": "Tue, 03 Jun 2025 22:45:49 GMT"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Keep-Alive",
+													"value": "timeout=5"
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"Customer account deactivated successfully\"\n}"
+										}
+									]
+								}
+							],
+							"id": "71d087f6-b70f-433f-b041-a90b36574f3c"
 						}
 					],
 					"id": "1b2844b9-c683-4994-9413-606534738520"
