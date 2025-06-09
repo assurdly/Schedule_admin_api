@@ -19237,7 +19237,7 @@
 							"name": "Get Promotion by ID",
 							"item": [
 								{
-									"name": "Get Promotion By ID",
+									"name": "Get Promotion By ID - Success",
 									"id": "b7b0f7f8-c2ec-4fd7-b0ec-17fc4b6f7d70",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
@@ -19273,6 +19273,456 @@
 									"response": [
 										{
 											"id": "9878f9f6-ed2a-4d59-9184-531055736a85",
+											"name": "Get Promotion By ID - Success",
+											"originalRequest": {
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{base_url}}/admin/promotions/:id",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"admin",
+														"promotions",
+														":id"
+													],
+													"variable": [
+														{
+															"key": "id",
+															"value": "1"
+														}
+													]
+												}
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Date",
+													"value": "Fri, 06 Jun 2025 09:17:01 GMT"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "1369"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"559-2tS6MY9k2OhABW/+1rl+i6sgJBk\""
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"id\": 1,\n        \"created_on\": \"2025-06-03 20:25:59\",\n        \"created_by\": 1,\n        \"modified_on\": \"2025-06-03 20:25:59\",\n        \"modified_by\": null,\n        \"title\": \"MTN Airtime ₦100 Cashback\",\n        \"description\": \"Top up ₦1,000 airtime & get ₦100 cashback instantly\",\n        \"type\": \"offer\",\n        \"active\": 1,\n        \"number_of_subscribers\": 100,\n        \"product_id\": 1,\n        \"image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/qgDn89w20g839Cm.png?Expires=1749287821&Key-Pair-Id=K114CL2FVB9II8&Signature=UJ8icP7cGhabYxNzjuVQyyz7r5FlA8m7Cgw7jki9G1JXRNcfqpvBo3JyRW7SZd3XJ8lYLMnE8jOYojZDsBfCcqvUFo4hI0-JP3n-ki6qwXLEm8iibzp41at7NHR66DQ7FJ32kK-8U5xCjcJiegjDX1x1ZX9ldCJFJttvT-5L0heKM0JWKlgECV~ozjZMjOBaMLf6i9z9idRl745q7Va8Q2edCx4N6oSPwJfvi5hUE~1QPW4XUZyr-fj3WZ7GF-9VXNMc3mBJIwStMZybuH9QHPtbcLy1SKGNm9lATVMt1b6AfzN8-Oxq3t1Jl6TjfBqi-Z2CXkwIuqkXUM79I~vSWw__\",\n        \"mobile_image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/lFoM3pKzHyQbxtT.png?Expires=1749287821&Key-Pair-Id=K114CL2FVB9II8&Signature=qlj92HRb1cDCLAF2yJ2A0BoeYkjiUU2OaQQqdXevZUJrt0-TJ-zvQ2L17XQXC-0rLNM-x4AZlqpe7j-aUc0tzCVoK51-yu2cl~JKRYGZq~RkgLO4~23ND4rm2Em6fJulKdlh~iTnokyns1I7agIHaMBIBFomnyaSirMtsefLMG5sSBv20So5EUn79NdVYl49ZfTHYtg-C6Nhcl4hDvh2pBElOW5NLmsXJE6jyZpqqmBb03ocHO-iiFO6q-UXrKZqOZjlw6JyZTwU1AXNyOuOXgPfMG0AD7cykoT9gvr5SVPWW8oNn--RVMdHWrTnxyDz0ksayvCLEdkzyRYK-p-rpQ__\",\n        \"action_url\": \"https://google.com\",\n        \"extra_data\": \"\"\n    }\n}"
+										}
+									]
+								},
+								{
+									"name": "Get Promotion By ID - Invalid ID",
+									"id": "a3ff9d0a-ed6b-415d-9a4e-9ce81e5dce4c",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/promotions/:id",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"promotions",
+												":id"
+											],
+											"variable": [
+												{
+													"id": "0b251c46-a929-4bb9-8a8e-130051b73b80",
+													"key": "id",
+													"value": "1"
+												}
+											]
+										}
+									},
+									"response": [
+										{
+											"id": "5020fd02-97bf-4c79-b808-8592916ddbb6",
+											"name": "Get Promotion By ID - Success",
+											"originalRequest": {
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{base_url}}/admin/promotions/:id",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"admin",
+														"promotions",
+														":id"
+													],
+													"variable": [
+														{
+															"key": "id",
+															"value": "1"
+														}
+													]
+												}
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Date",
+													"value": "Fri, 06 Jun 2025 09:17:01 GMT"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "1369"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"559-2tS6MY9k2OhABW/+1rl+i6sgJBk\""
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"id\": 1,\n        \"created_on\": \"2025-06-03 20:25:59\",\n        \"created_by\": 1,\n        \"modified_on\": \"2025-06-03 20:25:59\",\n        \"modified_by\": null,\n        \"title\": \"MTN Airtime ₦100 Cashback\",\n        \"description\": \"Top up ₦1,000 airtime & get ₦100 cashback instantly\",\n        \"type\": \"offer\",\n        \"active\": 1,\n        \"number_of_subscribers\": 100,\n        \"product_id\": 1,\n        \"image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/qgDn89w20g839Cm.png?Expires=1749287821&Key-Pair-Id=K114CL2FVB9II8&Signature=UJ8icP7cGhabYxNzjuVQyyz7r5FlA8m7Cgw7jki9G1JXRNcfqpvBo3JyRW7SZd3XJ8lYLMnE8jOYojZDsBfCcqvUFo4hI0-JP3n-ki6qwXLEm8iibzp41at7NHR66DQ7FJ32kK-8U5xCjcJiegjDX1x1ZX9ldCJFJttvT-5L0heKM0JWKlgECV~ozjZMjOBaMLf6i9z9idRl745q7Va8Q2edCx4N6oSPwJfvi5hUE~1QPW4XUZyr-fj3WZ7GF-9VXNMc3mBJIwStMZybuH9QHPtbcLy1SKGNm9lATVMt1b6AfzN8-Oxq3t1Jl6TjfBqi-Z2CXkwIuqkXUM79I~vSWw__\",\n        \"mobile_image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/lFoM3pKzHyQbxtT.png?Expires=1749287821&Key-Pair-Id=K114CL2FVB9II8&Signature=qlj92HRb1cDCLAF2yJ2A0BoeYkjiUU2OaQQqdXevZUJrt0-TJ-zvQ2L17XQXC-0rLNM-x4AZlqpe7j-aUc0tzCVoK51-yu2cl~JKRYGZq~RkgLO4~23ND4rm2Em6fJulKdlh~iTnokyns1I7agIHaMBIBFomnyaSirMtsefLMG5sSBv20So5EUn79NdVYl49ZfTHYtg-C6Nhcl4hDvh2pBElOW5NLmsXJE6jyZpqqmBb03ocHO-iiFO6q-UXrKZqOZjlw6JyZTwU1AXNyOuOXgPfMG0AD7cykoT9gvr5SVPWW8oNn--RVMdHWrTnxyDz0ksayvCLEdkzyRYK-p-rpQ__\",\n        \"action_url\": \"https://google.com\",\n        \"extra_data\": \"\"\n    }\n}"
+										}
+									]
+								},
+								{
+									"name": "Get Promotion By ID - Invalid Token",
+									"id": "68feb8f1-a95a-4f0c-b1d2-e227779ce996",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/promotions/:id",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"promotions",
+												":id"
+											],
+											"variable": [
+												{
+													"id": "0b251c46-a929-4bb9-8a8e-130051b73b80",
+													"key": "id",
+													"value": "1"
+												}
+											]
+										}
+									},
+									"response": [
+										{
+											"id": "0e5084f2-00bc-4ce6-8230-3b96809adf59",
+											"name": "Get Promotion By ID - Success",
+											"originalRequest": {
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{base_url}}/admin/promotions/:id",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"admin",
+														"promotions",
+														":id"
+													],
+													"variable": [
+														{
+															"key": "id",
+															"value": "1"
+														}
+													]
+												}
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Date",
+													"value": "Fri, 06 Jun 2025 09:17:01 GMT"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "1369"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"559-2tS6MY9k2OhABW/+1rl+i6sgJBk\""
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"id\": 1,\n        \"created_on\": \"2025-06-03 20:25:59\",\n        \"created_by\": 1,\n        \"modified_on\": \"2025-06-03 20:25:59\",\n        \"modified_by\": null,\n        \"title\": \"MTN Airtime ₦100 Cashback\",\n        \"description\": \"Top up ₦1,000 airtime & get ₦100 cashback instantly\",\n        \"type\": \"offer\",\n        \"active\": 1,\n        \"number_of_subscribers\": 100,\n        \"product_id\": 1,\n        \"image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/qgDn89w20g839Cm.png?Expires=1749287821&Key-Pair-Id=K114CL2FVB9II8&Signature=UJ8icP7cGhabYxNzjuVQyyz7r5FlA8m7Cgw7jki9G1JXRNcfqpvBo3JyRW7SZd3XJ8lYLMnE8jOYojZDsBfCcqvUFo4hI0-JP3n-ki6qwXLEm8iibzp41at7NHR66DQ7FJ32kK-8U5xCjcJiegjDX1x1ZX9ldCJFJttvT-5L0heKM0JWKlgECV~ozjZMjOBaMLf6i9z9idRl745q7Va8Q2edCx4N6oSPwJfvi5hUE~1QPW4XUZyr-fj3WZ7GF-9VXNMc3mBJIwStMZybuH9QHPtbcLy1SKGNm9lATVMt1b6AfzN8-Oxq3t1Jl6TjfBqi-Z2CXkwIuqkXUM79I~vSWw__\",\n        \"mobile_image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/lFoM3pKzHyQbxtT.png?Expires=1749287821&Key-Pair-Id=K114CL2FVB9II8&Signature=qlj92HRb1cDCLAF2yJ2A0BoeYkjiUU2OaQQqdXevZUJrt0-TJ-zvQ2L17XQXC-0rLNM-x4AZlqpe7j-aUc0tzCVoK51-yu2cl~JKRYGZq~RkgLO4~23ND4rm2Em6fJulKdlh~iTnokyns1I7agIHaMBIBFomnyaSirMtsefLMG5sSBv20So5EUn79NdVYl49ZfTHYtg-C6Nhcl4hDvh2pBElOW5NLmsXJE6jyZpqqmBb03ocHO-iiFO6q-UXrKZqOZjlw6JyZTwU1AXNyOuOXgPfMG0AD7cykoT9gvr5SVPWW8oNn--RVMdHWrTnxyDz0ksayvCLEdkzyRYK-p-rpQ__\",\n        \"action_url\": \"https://google.com\",\n        \"extra_data\": \"\"\n    }\n}"
+										}
+									]
+								},
+								{
+									"name": "Get Promotion By ID - No Auth Token",
+									"id": "1f4d410f-8762-4594-933f-743b4b9e2217",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/promotions/:id",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"promotions",
+												":id"
+											],
+											"variable": [
+												{
+													"id": "0b251c46-a929-4bb9-8a8e-130051b73b80",
+													"key": "id",
+													"value": "1"
+												}
+											]
+										}
+									},
+									"response": [
+										{
+											"id": "72c64256-094f-45d2-9d3e-fd7e9754e942",
 											"name": "Get Promotion By ID - Success",
 											"originalRequest": {
 												"method": "GET",
