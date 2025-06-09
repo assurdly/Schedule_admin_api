@@ -1,8 +1,0 @@
-{
-    "name": "MTNDatagold",
-    "short_name": "MTN utilities",
-    "description": "Guatemala",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}

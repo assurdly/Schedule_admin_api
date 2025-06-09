@@ -1,6 +1,0 @@
-{
-    "name": "Sleek Cotton Gloves",
-    "description": "Assumenda sequi ut ipsum voluptatem. Est eum sint aut. Aut velit rerum earum dolore praesentium velit consequuntur ullam sunt. Maiores neque est.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

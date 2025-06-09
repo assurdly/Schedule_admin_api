@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Wooden Pizza",
+    "description": "Autem dolorum sunt. Aut architecto placeat necessitatibus qui eos voluptatem aut. Suscipit inventore itaque laudantium. Voluptatem nulla repellendus.",
+    "icon_url": "http://placeimg.com/640/480"
+}

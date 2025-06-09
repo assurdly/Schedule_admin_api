@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Rubber Pizza",
-    "description": "A incidunt fugit quia. Sit temporibus nisi harum omnis veritatis. Ea est est debitis temporibus voluptatem voluptates sed perspiciatis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

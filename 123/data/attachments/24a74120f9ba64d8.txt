@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://gonzalo.net",
+    "api_key": "4",
+    "secret_key": "7",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "341",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "4b9084c8-fc30-48a8-89c0-4aa3c7971623",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749491803"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
