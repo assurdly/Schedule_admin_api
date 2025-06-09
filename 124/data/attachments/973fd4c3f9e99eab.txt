@@ -1,0 +1,20 @@
+{
+    "name": "Weissnat, Muller and Schmidt",
+    "base_url": "https://angelo.com",
+    "api_key": "c",
+    "secret_key": "k",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "142",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "929c95f9-9e01-4f5d-a952-67d90b1fb345",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749492004"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

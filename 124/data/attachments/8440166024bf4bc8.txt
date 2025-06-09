@@ -1,0 +1,20 @@
+{
+    "name": "Generic Fresh Gloves",
+    "base_url": "",
+    "api_key": "6",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "645",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "67b8a0f2-6302-4246-af48-583fbf143f79",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749492004"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
