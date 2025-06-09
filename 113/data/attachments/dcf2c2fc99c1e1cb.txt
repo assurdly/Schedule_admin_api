@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Wooden Shirt",
+    "description": "Natus iure dicta in sint sapiente. Ab quisquam error atque odit non omnis consequuntur sunt officia. Et labore aliquid quia voluptate eaque ut minima. Eligendi totam temporibus odio laborum repellat velit fuga sint.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Rubber Tuna",
+    "description": "Est aut enim illum deleniti. Explicabo aut totam tempore omnis voluptatem dolorum. At magnam quia. Et recusandae dolor ut aut et mollitia.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Olson LLC",
+    "base_url": "https://aliya.com",
+    "api_key": "w",
+    "secret_key": "w",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "813",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "4485886e-8ef8-457d-b37a-8a46fb28d73f",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749489677"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

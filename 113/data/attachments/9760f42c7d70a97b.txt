@@ -1,0 +1,20 @@
+{
+    "name": "Tasty Plastic Chicken",
+    "base_url": "",
+    "api_key": "r",
+    "secret_key": "v",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "113",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2fb1f068-9ce4-44cd-90eb-bc342491dfb6",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749489678"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

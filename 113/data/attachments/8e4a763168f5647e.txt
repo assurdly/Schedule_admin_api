@@ -1,0 +1,6 @@
+{
+    "name": "Practical Rubber Chips",
+    "description": "Vel consequatur eaque veniam. Et iusto ullam totam suscipit. Qui recusandae eum aut magnam ipsam laudantium maxime. Vel est cupiditate sequi ex illo perferendis. Consequuntur doloribus illo accusantium vitae.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

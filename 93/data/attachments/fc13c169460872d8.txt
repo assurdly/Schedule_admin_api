@@ -1,6 +1,0 @@
-{
-    "name": "Practical Fresh Pants",
-    "description": "Deleniti numquam sit adipisci repellendus voluptatibus veritatis. Officiis deleniti distinctio vitae voluptas porro dolor est. Explicabo magnam laboriosam. Delectus error nulla corrupti porro ut dolorum et pariatur. Doloremque sapiente modi eos tenetur aut vitae nihil optio corrupti. Eos nisi dolorem illum.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

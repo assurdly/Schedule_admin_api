@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Concrete Mouse",
-    "description": "Omnis recusandae itaque quia non iste. Nihil delectus velit. Nemo quia nisi autem. Alias voluptatem veniam odit esse occaecati sequi. Asperiores dolorem et.",
-    "icon_url": "http://placeimg.com/640/480"
-}
