@@ -17163,7 +17163,7 @@
 											"variable": [
 												{
 													"key": "id",
-													"value": "7"
+													"value": "22"
 												}
 											]
 										}
@@ -17447,7 +17447,24 @@
 												}
 											}
 										},
-										"url": "{{base_url}}/admin/customers/1/deactivate"
+										"url": {
+											"raw": "{{base_url}}/admin/customers/:id/deactivate",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"customers",
+												":id",
+												"deactivate"
+											],
+											"variable": [
+												{
+													"key": "id",
+													"value": "22"
+												}
+											]
+										}
 									},
 									"response": [
 										{
