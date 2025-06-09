@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Concrete Pants",
-    "description": "Quam temporibus vel voluptatem. Ipsam dolorem voluptatem minus. Velit incidunt autem ut voluptas at reprehenderit quod similique. Alias eveniet consequatur architecto at libero quis fugit nihil. Minus suscipit voluptatem ut ullam atque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

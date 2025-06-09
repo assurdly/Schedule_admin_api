@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Plastic Gloves",
-    "description": "Impedit iste et in dolore. Quam totam nobis ut quia ut delectus corrupti. Quo adipisci qui quas repudiandae ipsa repudiandae numquam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

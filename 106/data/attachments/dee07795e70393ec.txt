@@ -1,0 +1,5 @@
+{
+    "name": "Rustic Wooden Bike",
+    "description": "Distinctio id qui magni aut aperiam. Nobis sit molestias ullam quis voluptatem in. Ut sint optio molestiae in deleniti omnis qui velit. Occaecati iure eaque ipsa ut. Beatae quas commodi neque mollitia voluptates eveniet dicta voluptatem et.",
+    "icon_url": "http://placeimg.com/640/480"
+}
