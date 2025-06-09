@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://fermin.net",
+    "api_key": "z",
+    "secret_key": "5",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "624",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "32ad01bf-b334-4b21-8c22-06e00ff9feff",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749461995"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

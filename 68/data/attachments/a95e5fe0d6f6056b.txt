@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Frozen Fish",
-    "description": "Et pariatur corporis qui a quis et pariatur sit. Ipsam debitis aliquid recusandae accusantium placeat magnam rerum. Corrupti esse possimus veritatis. Aspernatur sint est et fugit autem eaque minus aut. Tempora minima totam enim eum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

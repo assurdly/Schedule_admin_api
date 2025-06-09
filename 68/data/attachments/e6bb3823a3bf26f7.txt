@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Steel Bacon",
-    "description": "Recusandae et accusantium impedit tempora. Id libero earum ut. Explicabo saepe ex aspernatur doloremque tempore autem nam. Libero modi est quia non veniam. Omnis adipisci iste exercitationem amet sint id blanditiis ducimus vel.",
-    "icon_url": "http://placeimg.com/640/480"
-}
