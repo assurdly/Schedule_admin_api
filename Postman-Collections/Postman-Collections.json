@@ -18202,6 +18202,40 @@
 								}
 							],
 							"id": "94816ff7-a03b-4286-8821-ce3d81b68271"
+						},
+						{
+							"name": "Send PC Promotion",
+							"item": [
+								{
+									"name": "Send PC Batch Promotion",
+									"id": "a10e1a32-c465-43de-9efc-d6b3c2979e5e",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "POST",
+										"header": [],
+										"body": {
+											"mode": "raw",
+											"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
+											"options": {
+												"raw": {
+													"language": "json"
+												}
+											}
+										},
+										"url": "{{base_url}}/admin/potential-customer-batches"
+									},
+									"response": []
+								}
+							],
+							"id": "adfe8c39-9695-4b81-a16b-a872eca9d95e"
 						}
 					],
 					"id": "1e2889ea-42ef-4151-bae2-e2dc2553061c"
