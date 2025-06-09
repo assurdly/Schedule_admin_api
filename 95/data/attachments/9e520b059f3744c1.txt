@@ -1,0 +1,5 @@
+{
+    "name": "Small Soft Salad",
+    "description": "Blanditiis dolor et velit quia. Sapiente nisi architecto aut. Assumenda accusantium nihil molestiae dolores natus. Facere sunt totam.",
+    "icon_url": "http://placeimg.com/640/480"
+}

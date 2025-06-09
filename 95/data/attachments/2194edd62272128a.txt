@@ -1,0 +1,6 @@
+{
+    "name": "Generic Frozen Chips",
+    "description": "",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

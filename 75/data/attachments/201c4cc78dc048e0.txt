@@ -1,5 +1,0 @@
-{
-    "name": "Generic Steel Shirt",
-    "description": "Earum illo dolor quia eum. Voluptatem praesentium consequatur ut non laboriosam occaecati. Iste blanditiis numquam nam pariatur laborum enim corrupti voluptatem quas.",
-    "icon_url": "http://placeimg.com/640/480"
-}

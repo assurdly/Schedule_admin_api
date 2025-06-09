@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Plastic Chips",
+    "description": "In voluptatibus est qui asperiores tempore pariatur aperiam consequatur saepe. Voluptatem tempora quo qui quo omnis id nobis est magnam. Deleniti officia nemo enim. Ut consequatur voluptatem debitis.",
+    "icon_url": "http://placeimg.com/640/480"
+}
