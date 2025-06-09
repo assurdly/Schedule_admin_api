@@ -1,5 +1,0 @@
-{
-    "name": "Generic Concrete Table",
-    "description": "Non enim voluptatem aspernatur esse et atque excepturi minus. Assumenda eos reprehenderit rerum. Id pariatur repellat et.",
-    "icon_url": "http://placeimg.com/640/480"
-}
