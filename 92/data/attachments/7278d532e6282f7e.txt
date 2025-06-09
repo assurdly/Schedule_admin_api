@@ -1,6 +1,0 @@
-{
-    "name": "Incredible Wooden Bike",
-    "description": "Fuga dolor enim placeat natus non modi vel deleniti. Optio libero harum voluptates velit hic et odit. Vitae voluptate qui repellat fugit officia ea harum fugit illum.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

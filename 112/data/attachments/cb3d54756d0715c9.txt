@@ -1,0 +1,20 @@
+{
+    "name": "Ortiz LLC",
+    "base_url": "http://abdiel.org",
+    "api_key": "j",
+    "secret_key": "b",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "273",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "54c898e5-7cbb-4643-a07e-1a42f68d0f78",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749489477"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

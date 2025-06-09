@@ -1,5 +1,0 @@
-{
-    "name": "Generic Rubber Ball",
-    "description": "Autem accusantium voluptatibus non. Iure ipsa nihil. Adipisci itaque ad qui. Optio ducimus doloribus fuga eius est et in sed numquam. Voluptas ut in optio dolores et praesentium mollitia. Eligendi ut illum voluptatem et omnis vel minus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

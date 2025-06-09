@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Frozen Ball",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

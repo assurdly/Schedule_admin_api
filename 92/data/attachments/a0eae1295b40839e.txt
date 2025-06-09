@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Frozen Computer",
-    "description": "Voluptatem accusamus totam rerum dolor laboriosam sequi qui ut perspiciatis. Culpa atque et eaque nam nesciunt dolor est est. Ut et occaecati. Dolores ipsum doloremque non similique repellendus porro reprehenderit maiores.",
-    "icon_url": "http://placeimg.com/640/480"
-}

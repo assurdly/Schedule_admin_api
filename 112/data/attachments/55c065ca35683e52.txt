@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Plastic Towels",
+    "description": "Omnis quia officiis ipsum dolor accusamus. Est accusamus aut voluptates totam magni aut quia est ipsam. Ut dolorem quibusdam porro eius nihil impedit. Autem vel et suscipit quam aspernatur. Officiis itaque aut ut qui provident ipsa temporibus.",
+    "icon_url": "http://placeimg.com/640/480"
+}
