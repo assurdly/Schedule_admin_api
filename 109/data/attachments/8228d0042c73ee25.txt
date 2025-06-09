@@ -1,6 +1,0 @@
-{
-    "name": "Sleek Concrete Pizza",
-    "description": "Tenetur molestias voluptas ea. Beatae tenetur dolore qui ratione quo sed omnis. Aut non fuga dolorem sed quis delectus sit.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

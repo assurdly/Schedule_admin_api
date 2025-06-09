@@ -1,0 +1,20 @@
+{
+    "name": "Dietrich - Balistreri",
+    "base_url": "http://lupe.org",
+    "api_key": "6",
+    "secret_key": "m",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "147",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2c43d368-de2b-4fb6-97b2-0d83d186051c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749497136"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
