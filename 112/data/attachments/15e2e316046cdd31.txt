@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Frozen Shirt",
-    "description": "Soluta illo nisi amet nulla. Nam possimus eligendi assumenda sunt repellendus omnis odit alias distinctio. Magnam voluptas quod. Dicta omnis iure aut ut dolore similique.",
-    "icon_url": "http://placeimg.com/640/480"
-}

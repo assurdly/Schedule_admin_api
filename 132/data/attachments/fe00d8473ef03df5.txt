@@ -1,0 +1,20 @@
+{
+    "name": "Gerhold - Nolan",
+    "base_url": "https://lina.biz",
+    "api_key": "y",
+    "secret_key": "z",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "525",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e36a5daa-6cca-4524-b078-013b48274743",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749500651"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

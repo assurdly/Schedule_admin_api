@@ -1,0 +1,6 @@
+{
+    "name": "Sleek Metal Bike",
+    "description": "Aut ex expedita. Voluptate molestiae temporibus corrupti iste tenetur. Minus velit quasi adipisci voluptas velit.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
