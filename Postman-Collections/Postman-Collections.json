@@ -17771,15 +17771,35 @@
 												"method": "POST",
 												"header": [],
 												"body": {
-													"mode": "raw",
-													"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
-													"options": {
-														"raw": {
-															"language": "json"
+													"mode": "formdata",
+													"formdata": [
+														{
+															"key": "file",
+															"type": "file",
+															"uuid": "e9d69e19-8651-483f-a77e-d5275a531781",
+															"src": "/Users/pc/Downloads/potential_customers_sample.csv"
 														}
-													}
+													]
 												},
-												"url": "{{base_url}}/admin/potential-customer-batches"
+												"url": {
+													"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id/customers/upload",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"admin",
+														"potential-customer-batches",
+														":potential_customer_batch_id",
+														"customers",
+														"upload"
+													],
+													"variable": [
+														{
+															"key": "potential_customer_batch_id",
+															"value": "2"
+														}
+													]
+												}
 											},
 											"response": []
 										}
@@ -18219,11 +18239,11 @@
 												"token": "{{admin_access_token}}"
 											}
 										},
-										"method": "GET",
+										"method": "POST",
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"batch_id\": \"1\",\n    \"potential_customer_id\": \"1\",\n    \"channel\": \"email\",\n    \"message_subject\": \"Test batch messaging\",\n    \"message_body\": \"Test batch messaging batch...\",\n    \"recipient_status\": \"active\"\n}",
+											"raw": "{\n    \"batch_id\": \"2\",\n    \"potential_customer_id\": \"1\",\n    \"channel\": \"email\",\n    \"message_subject\": \"Test batch messaging\",\n    \"message_body\": \"Test batch messaging batch...\",\n    \"recipient_status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
