@@ -19238,6 +19238,38 @@
 							"item": [
 								{
 									"name": "Get Promotion By ID - Success",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "68e1e5e0-3dc5-4fed-9ae3-f8a0297505d6",
+												"exec": [
+													"const response = pm.response.json();\r",
+													"\r",
+													"pm.test(\"Validate response status\", function () {\r",
+													"    pm.response.to.have.status(200);\r",
+													"});\r",
+													"\r",
+													"\r",
+													"// Validate response structure\r",
+													"pm.test(\"Validate response structure\", function () {\r",
+													"    pm.expect(response).to.have.property('message');\r",
+													"    pm.expect(response).to.have.property('data').and.not.empty;\r",
+													"});\r",
+													"\r",
+													"// Validate response data types\r",
+													"pm.test(\"Validate response data types\", function () {\r",
+													"    pm.expect(response.status).to.be.a('string');\r",
+													"    pm.expect(response.message).to.be.a('string');\r",
+													"    pm.expect(response.data).to.be.an('object');\r",
+													"});\r",
+													""
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
 									"id": "b7b0f7f8-c2ec-4fd7-b0ec-17fc4b6f7d70",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
@@ -19263,9 +19295,8 @@
 											],
 											"variable": [
 												{
-													"id": "0b251c46-a929-4bb9-8a8e-130051b73b80",
 													"key": "id",
-													"value": "1"
+													"value": "2"
 												}
 											]
 										}
