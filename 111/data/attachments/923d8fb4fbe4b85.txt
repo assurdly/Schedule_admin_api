@@ -1,0 +1,6 @@
+{
+    "name": "Generic Plastic Chicken",
+    "description": "Atque sint voluptas possimus et. Iure animi doloremque nam error. Blanditiis corporis sequi corporis atque et libero natus est et. Iure dolor optio dignissimos qui omnis excepturi ex quasi ducimus. Officiis nam illo doloremque. In veritatis ut.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

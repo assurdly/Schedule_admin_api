@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Wooden Chips",
-    "description": "Voluptates quia eum. Nulla laudantium veniam. Magnam tenetur omnis est illum repellendus. Hic vero odit ut repudiandae quaerat enim neque nihil exercitationem. Ratione sunt molestiae labore aut molestiae. Ut nihil quia inventore delectus excepturi.",
-    "icon_url": "http://placeimg.com/640/480"
-}
