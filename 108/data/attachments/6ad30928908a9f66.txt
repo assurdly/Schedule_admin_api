@@ -1,0 +1,5 @@
+{
+    "name": "Small Granite Bike",
+    "description": "Cumque accusamus maiores molestias ducimus quae esse repellat molestiae. Provident voluptatibus molestiae magni occaecati facere ipsum. Quaerat delectus eveniet explicabo eaque et hic ut.",
+    "icon_url": "http://placeimg.com/640/480"
+}

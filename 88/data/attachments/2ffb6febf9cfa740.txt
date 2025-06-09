@@ -1,6 +1,0 @@
-{
-    "name": "Unbranded Wooden Ball",
-    "description": "Non necessitatibus eius ad blanditiis nostrum. Quis modi praesentium repellendus voluptatem enim tempora. Ea distinctio culpa corrupti. Saepe ducimus velit id delectus velit. Omnis sit ab est distinctio ut officia rerum fugiat. Et atque alias quo architecto rerum optio.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
