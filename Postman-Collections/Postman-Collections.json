@@ -17559,7 +17559,7 @@
 							"name": "Create Potential Customer Batch",
 							"item": [
 								{
-									"name": "New Folder",
+									"name": "Create PC batch",
 									"item": [
 										{
 											"name": "Create PC Batch",
@@ -17593,7 +17593,7 @@
 									"id": "cb12d6af-ba5b-4b16-86b7-1a6bd5f57d5c"
 								},
 								{
-									"name": "New Folder",
+									"name": "Upload PC batch",
 									"item": [
 										{
 											"name": "Upload PC Batch",
@@ -17627,34 +17627,35 @@
 									"id": "bfe33209-015a-49ea-b08e-77f8b4f92419"
 								},
 								{
-									"name": "New Folder",
-									"item": [],
+									"name": "Fetch potential customers",
+									"item": [
+										{
+											"name": "Potential Customers",
+											"id": "f008b7ce-aa91-45a1-9764-4959a5771245",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{admin_access_token}}"
+													}
+												},
+												"method": "GET",
+												"header": [],
+												"url": "{{base_url}}/admin/potential-customer-batches"
+											},
+											"response": []
+										}
+									],
 									"id": "d418ea32-0c89-45ed-8578-528a1045bfe5"
-								},
-								{
-									"name": "Potential Customers",
-									"id": "f008b7ce-aa91-45a1-9764-4959a5771245",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "GET",
-										"header": [],
-										"url": "{{base_url}}/admin/potential-customer-batches"
-									},
-									"response": []
 								}
 							],
 							"id": "94fc7ab7-fbf1-4d67-840a-4ab3c706451a"
 						},
 						{
-							"name": "New Folder",
+							"name": "Fetch a potential customer",
 							"item": [
 								{
 									"name": "Fetch a Potential Customer By Batch",
@@ -17734,7 +17735,7 @@
 							"id": "d59cce1e-08ba-4feb-a9d5-51097fc477b2"
 						},
 						{
-							"name": "New Folder",
+							"name": "Export a PC batch",
 							"item": [
 								{
 									"name": "Export a Batch of Potential Customers",
@@ -17810,7 +17811,7 @@
 							"id": "68bda91e-0c4e-473f-a028-fe0a767590b6"
 						},
 						{
-							"name": "New Folder",
+							"name": "Remove PC from batch",
 							"item": [
 								{
 									"name": "Remove Potential Customer from Batch",
@@ -17968,78 +17969,79 @@
 						},
 						{
 							"name": "New Folder",
-							"item": [],
-							"id": "94816ff7-a03b-4286-8821-ce3d81b68271"
-						},
-						{
-							"name": "Fetch a Potential Customer Batch Copy",
-							"id": "61ef2598-5c52-4414-ac7d-4f41edb10e5c",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "GET",
-								"header": [],
-								"url": {
-									"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id",
-									"host": [
-										"{{base_url}}"
-									],
-									"path": [
-										"admin",
-										"potential-customer-batches",
-										":potential_customer_batch_id"
-									],
-									"query": [
-										{
-											"key": "limit",
-											"value": "3",
-											"disabled": true
+							"item": [
+								{
+									"name": "Fetch a Potential Customer Batch Copy",
+									"id": "61ef2598-5c52-4414-ac7d-4f41edb10e5c",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
 										},
-										{
-											"key": "page",
-											"value": "1",
-											"disabled": true
-										},
-										{
-											"key": "search",
-											"value": "critical",
-											"disabled": true
-										},
-										{
-											"key": "search_fields",
-											"value": "name",
-											"disabled": true
-										},
-										{
-											"key": "start_date",
-											"value": "2025-05-02",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "end_date",
-											"value": "2025-05-03",
-											"type": "text",
-											"disabled": true
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"potential-customer-batches",
+												":potential_customer_batch_id"
+											],
+											"query": [
+												{
+													"key": "limit",
+													"value": "3",
+													"disabled": true
+												},
+												{
+													"key": "page",
+													"value": "1",
+													"disabled": true
+												},
+												{
+													"key": "search",
+													"value": "critical",
+													"disabled": true
+												},
+												{
+													"key": "search_fields",
+													"value": "name",
+													"disabled": true
+												},
+												{
+													"key": "start_date",
+													"value": "2025-05-02",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "end_date",
+													"value": "2025-05-03",
+													"type": "text",
+													"disabled": true
+												}
+											],
+											"variable": [
+												{
+													"id": "c46177d0-7f4e-47b1-b548-d2fbbdf6f8b0",
+													"key": "potential_customer_batch_id",
+													"value": "2"
+												}
+											]
 										}
-									],
-									"variable": [
-										{
-											"id": "c46177d0-7f4e-47b1-b548-d2fbbdf6f8b0",
-											"key": "potential_customer_batch_id",
-											"value": "2"
-										}
-									]
+									},
+									"response": []
 								}
-							},
-							"response": []
+							],
+							"id": "94816ff7-a03b-4286-8821-ce3d81b68271"
 						}
 					],
 					"id": "1e2889ea-42ef-4151-bae2-e2dc2553061c"
