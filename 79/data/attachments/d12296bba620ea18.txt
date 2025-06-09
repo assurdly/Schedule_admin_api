@@ -1,0 +1,20 @@
+{
+    "name": "Steuber - Pfannerstill",
+    "base_url": "https://dolores.biz",
+    "api_key": "8",
+    "secret_key": "q",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "345",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0fcbaf8f-1b53-494e-a844-e380026a793e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749458579"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

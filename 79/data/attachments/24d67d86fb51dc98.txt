@@ -1,0 +1,5 @@
+{
+    "name": "Generic Metal Hat",
+    "description": "Occaecati ex dolores in laudantium. Autem ut qui officiis ea et. Ut fuga rerum ut. Nam quam sit adipisci assumenda ab. Et harum sed voluptatibus facere labore impedit sint.",
+    "icon_url": "http://placeimg.com/640/480"
+}

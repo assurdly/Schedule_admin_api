@@ -1,0 +1,5 @@
+{
+    "name": "Gorgeous Metal Gloves",
+    "description": "Ipsam veniam et sit. Voluptatem sint non nesciunt ut similique dignissimos. Dolorem et sapiente reiciendis et consequuntur placeat. Id beatae voluptatem nesciunt fugiat ut eum sunt. Temporibus aut delectus voluptatum aut sint ipsa qui porro.",
+    "icon_url": "http://placeimg.com/640/480"
+}

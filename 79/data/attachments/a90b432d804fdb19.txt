@@ -1,0 +1,6 @@
+{
+    "name": "Unbranded Plastic Keyboard",
+    "description": "Et amet optio natus. Aliquid rerum voluptatem rerum possimus qui similique. Cum nobis quis quidem ipsum incidunt sint. Repellat quia iusto similique ea. Hic facere eum incidunt enim magnam nisi.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
