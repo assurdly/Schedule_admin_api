@@ -1,0 +1,20 @@
+{
+    "name": "Crist and Sons",
+    "base_url": "https://domenica.name",
+    "api_key": "a",
+    "secret_key": "z",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "996",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "5d527590-2cd5-414a-944f-e23d9ae376aa",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749497319"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

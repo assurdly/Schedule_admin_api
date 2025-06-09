@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Granite Chair",
-    "description": "Atque consequatur et ullam enim qui. Blanditiis enim pariatur est odit non praesentium. Aspernatur officia sit non et aliquid voluptas similique. Autem hic in laborum dolorum voluptates. Velit et officiis ut quis nostrum aliquid.",
-    "icon_url": "http://placeimg.com/640/480"
-}

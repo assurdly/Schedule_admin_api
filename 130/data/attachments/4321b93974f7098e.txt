@@ -1,0 +1,6 @@
+{
+    "name": "Small Wooden Keyboard",
+    "description": "Deleniti id vitae quos magni eaque qui consequuntur. Ex ipsam possimus vitae ipsa. Voluptas ea non quo quisquam distinctio doloremque odio sunt consequatur. Expedita sint et sit libero quod culpa perferendis error. Esse id animi.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

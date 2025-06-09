@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://mozelle.biz",
+    "api_key": "h",
+    "secret_key": "3",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "809",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "ded42133-dc53-4ab9-9725-fb32073c63b5",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749497319"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

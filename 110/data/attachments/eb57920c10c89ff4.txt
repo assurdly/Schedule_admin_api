@@ -1,6 +1,0 @@
-{
-    "name": "Handmade Soft Bike",
-    "description": "Possimus beatae aspernatur adipisci quia consequatur aliquid. Recusandae fuga ut praesentium laudantium aut provident voluptate reprehenderit recusandae. Voluptatum ipsum autem quia. Modi ut et quo rem voluptatum facilis quod. Deleniti excepturi quidem officiis voluptatem adipisci.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
