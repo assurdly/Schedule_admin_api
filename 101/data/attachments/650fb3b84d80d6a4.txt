@@ -1,0 +1,5 @@
+{
+    "name": "Practical Fresh Salad",
+    "description": "Quia aut similique quod velit velit dicta eligendi iusto error. Aut aut ratione quasi consequatur expedita cumque. Ipsum velit laboriosam quia error aliquid inventore excepturi. Voluptatem cumque omnis est expedita tenetur optio ea error cupiditate. Ex aut doloribus modi.",
+    "icon_url": "http://placeimg.com/640/480"
+}
