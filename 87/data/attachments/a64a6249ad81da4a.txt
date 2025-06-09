@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Plastic Shoes",
-    "description": "Tenetur asperiores architecto excepturi non ut nam officiis dignissimos pariatur. Unde et sit voluptates. Molestias quam expedita natus reprehenderit iusto repellendus voluptatem quidem.",
-    "icon_url": "http://placeimg.com/640/480"
-}
