@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Metal Soap",
+    "description": "Doloremque possimus dolores iure eum iste et voluptate corrupti libero. Vel explicabo eos facere doloremque illum. Accusamus corrupti voluptate sed nam ex. Perferendis quis aliquam expedita et eaque voluptatibus quidem repudiandae. Blanditiis sed est ut tempore tempora provident facilis. Optio error corporis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

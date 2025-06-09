@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Wooden Computer",
-    "description": "Aut error sit. Sunt dicta debitis possimus id voluptas non ullam. Quos aut et non eligendi ea similique repudiandae cumque quidem.",
-    "icon_url": "http://placeimg.com/640/480"
-}
