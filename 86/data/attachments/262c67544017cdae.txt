@@ -1,0 +1,20 @@
+{
+    "name": "Refined Frozen Towels",
+    "base_url": "",
+    "api_key": "2",
+    "secret_key": "z",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "395",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "08e567b8-3618-4199-a86c-6786c7b7b5aa",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749461384"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

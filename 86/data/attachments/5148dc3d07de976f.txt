@@ -1,0 +1,6 @@
+{
+    "name": "Handmade Fresh Mouse",
+    "description": "Autem vel et accusamus. Consectetur eveniet quas beatae fugit et iusto. Voluptatibus cumque suscipit in accusantium delectus. Neque nobis fuga nemo laborum aut sit quos. Et deserunt ut et.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
