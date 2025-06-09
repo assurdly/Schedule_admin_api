@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Steel Hat",
+    "description": "Fugit sit voluptatibus voluptates rem. Omnis expedita sed fugiat repellat. Sequi suscipit et necessitatibus natus accusantium eum quis dolorem eum. Ratione eos voluptas vel nobis consequatur est voluptas vitae et.",
+    "icon_url": "http://placeimg.com/640/480"
+}

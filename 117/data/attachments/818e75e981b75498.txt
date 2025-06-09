@@ -1,0 +1,1 @@
+{"status":"error","message":"POST /v1/admin/potential-customer/batches/:potential_customer_batch_id/send-message Not Found"}

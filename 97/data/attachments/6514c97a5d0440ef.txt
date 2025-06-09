@@ -1,5 +1,0 @@
-{
-    "name": "Small Rubber Tuna",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

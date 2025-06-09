@@ -1,6 +1,0 @@
-{
-    "name": "Small Cotton Ball",
-    "description": "Enim pariatur atque quo rem dolorum ab. Non commodi quisquam eveniet eveniet mollitia cum saepe rerum. Sapiente voluptatem soluta rem accusamus suscipit tenetur labore. Ratione cupiditate beatae recusandae dignissimos rerum numquam.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

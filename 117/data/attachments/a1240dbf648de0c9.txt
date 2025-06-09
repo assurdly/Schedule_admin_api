@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://mckayla.net",
+    "api_key": "2",
+    "secret_key": "s",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "513",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2fd5ea78-7aed-440e-9795-ccd6aa13d69f",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749490652"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
