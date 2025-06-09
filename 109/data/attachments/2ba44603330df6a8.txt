@@ -1,0 +1,20 @@
+{
+    "name": "Ergonomic Soft Pizza",
+    "base_url": "",
+    "api_key": "c",
+    "secret_key": "d",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "675",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "235f196c-55e0-48aa-aeda-45a37478b951",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749488506"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

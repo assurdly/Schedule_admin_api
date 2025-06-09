@@ -1,6 +1,0 @@
-{
-    "name": "Unbranded Rubber Computer",
-    "description": "Blanditiis eos sapiente natus corporis porro hic nam autem. Libero nemo qui nostrum sed non. Excepturi ullam quisquam eum dolore optio modi.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

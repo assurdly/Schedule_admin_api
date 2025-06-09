@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://berta.info",
+    "api_key": "h",
+    "secret_key": "r",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "332",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "20c46164-373a-4633-a939-3e8d1cae40a3",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749488506"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

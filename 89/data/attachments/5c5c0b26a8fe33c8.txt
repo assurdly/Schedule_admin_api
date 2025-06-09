@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Granite Computer",
-    "description": "Molestiae fugiat modi esse similique minus. Placeat magni libero hic aperiam velit necessitatibus maxime dolorem iure. Voluptatem qui excepturi dolores veniam suscipit doloribus. Quasi dolorem et magnam modi. Et blanditiis sint et molestiae praesentium ducimus doloribus natus.",
-    "icon_url": "http://placeimg.com/640/480"
-}
