@@ -1,0 +1,6 @@
+{
+    "name": "Handmade Granite Fish",
+    "description": "Necessitatibus quidem beatae aliquam sequi nihil sint et. Quo ipsa voluptates impedit ab ducimus quis ut quam eum. Voluptas suscipit unde. Nihil culpa dolor in voluptatibus expedita impedit.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

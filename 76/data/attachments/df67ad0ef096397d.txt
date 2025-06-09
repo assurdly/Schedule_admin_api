@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Cotton Pants",
-    "description": "Ab quaerat omnis officia quia quia. Vel similique illum. Expedita eum sit atque iure quas ut consequuntur aspernatur. Doloribus minus explicabo alias officia deleniti omnis amet saepe reiciendis. Harum adipisci repellendus excepturi at fuga rerum. Laudantium corporis itaque quaerat omnis aut quos non.",
-    "icon_url": "http://placeimg.com/640/480"
-}
