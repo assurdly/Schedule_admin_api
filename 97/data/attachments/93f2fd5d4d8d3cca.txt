@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Fresh Soap",
+    "description": "Omnis soluta sit quos ut. Sint quos excepturi omnis similique qui vero quod alias laboriosam. Aut qui temporibus aliquam rerum ipsum voluptate dolorum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

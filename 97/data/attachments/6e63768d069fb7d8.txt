@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Fresh Salad",
+    "description": "Nemo voluptate quia. Sit similique veniam et eum ipsum. Fuga odio inventore consectetur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

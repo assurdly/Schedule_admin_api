@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Soft Bacon",
-    "description": "Magni praesentium alias. Maxime aut harum dicta recusandae tempore aut. Provident omnis cupiditate rerum quos. Minima quos quasi aliquam nesciunt mollitia placeat quia laudantium autem. Est saepe officia nobis hic sint quo et doloribus. Vel voluptatem omnis alias provident adipisci minus odio.",
-    "icon_url": "http://placeimg.com/640/480"
-}
