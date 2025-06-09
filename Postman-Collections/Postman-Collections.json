@@ -19419,6 +19419,30 @@
 								},
 								{
 									"name": "Get Promotion By ID - Invalid ID",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "4c4baadc-3e45-4f25-ac82-bde313c3aefb",
+												"exec": [
+													"const jsonData = pm.response.json();\r",
+													"\r",
+													"pm.test('response code should be 404', function () {\r",
+													" pm.response.to.have.status(404);\r",
+													"});\r",
+													"\r",
+													"pm.test('Validate response structure', function () {\r",
+													" pm.expect(jsonData).to.be.an('object');\r",
+													" pm.expect(jsonData).to.have.property('status').that.equals('error');\r",
+													" pm.expect(jsonData).to.have.property('message').that.equals('Promotion not found');\r",
+													"});\r",
+													""
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
 									"id": "a3ff9d0a-ed6b-415d-9a4e-9ce81e5dce4c",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
@@ -19444,9 +19468,8 @@
 											],
 											"variable": [
 												{
-													"id": "0b251c46-a929-4bb9-8a8e-130051b73b80",
 													"key": "id",
-													"value": "1"
+													"value": "100"
 												}
 											]
 										}
