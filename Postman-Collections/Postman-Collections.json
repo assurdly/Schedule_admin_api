@@ -16759,7 +16759,7 @@
 					"name": "Customers",
 					"item": [
 						{
-							"name": "New Folder",
+							"name": "Export customer details",
 							"item": [
 								{
 									"name": "export customers details",
@@ -17559,60 +17559,77 @@
 							"name": "Create Potential Customer Batch",
 							"item": [
 								{
-									"name": "Create PC Batch",
-									"id": "2212caf4-d5ac-4e7c-9398-d8f8ec6fef9a",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "POST",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": "{{base_url}}/admin/potential-customer-batches"
-									},
-									"response": []
+									"name": "New Folder",
+									"item": [
+										{
+											"name": "Create PC Batch",
+											"id": "2212caf4-d5ac-4e7c-9398-d8f8ec6fef9a",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{admin_access_token}}"
+													}
+												},
+												"method": "POST",
+												"header": [],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/admin/potential-customer-batches"
+											},
+											"response": []
+										}
+									],
+									"id": "cb12d6af-ba5b-4b16-86b7-1a6bd5f57d5c"
 								},
 								{
-									"name": "Upload PC Batch",
-									"id": "9354e848-ca04-4a73-b052-4bb2bc82686c",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "POST",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": "{{base_url}}/admin/potential-customer-batches"
-									},
-									"response": []
+									"name": "New Folder",
+									"item": [
+										{
+											"name": "Upload PC Batch",
+											"id": "9354e848-ca04-4a73-b052-4bb2bc82686c",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{admin_access_token}}"
+													}
+												},
+												"method": "POST",
+												"header": [],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/admin/potential-customer-batches"
+											},
+											"response": []
+										}
+									],
+									"id": "bfe33209-015a-49ea-b08e-77f8b4f92419"
+								},
+								{
+									"name": "New Folder",
+									"item": [],
+									"id": "d418ea32-0c89-45ed-8578-528a1045bfe5"
 								},
 								{
 									"name": "Potential Customers",
@@ -17637,223 +17654,322 @@
 							"id": "94fc7ab7-fbf1-4d67-840a-4ab3c706451a"
 						},
 						{
-							"name": "Fetch a Potential Customer By Batch",
-							"id": "8f37a6a7-801d-42f6-90ba-a7a15cc9171f",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "GET",
-								"header": [],
-								"url": {
-									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id?status=active",
-									"host": [
-										"{{base_url}}"
-									],
-									"path": [
-										"admin",
-										"potential-customers",
-										":potential_customer_batch_id"
-									],
-									"query": [
-										{
-											"key": "limit",
-											"value": "3",
-											"disabled": true
+							"name": "New Folder",
+							"item": [
+								{
+									"name": "Fetch a Potential Customer By Batch",
+									"id": "8f37a6a7-801d-42f6-90ba-a7a15cc9171f",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
 										},
-										{
-											"key": "page",
-											"value": "10",
-											"disabled": true
-										},
-										{
-											"key": "search",
-											"value": "critical",
-											"disabled": true
-										},
-										{
-											"key": "search_fields",
-											"value": "name",
-											"disabled": true
-										},
-										{
-											"key": "start_date",
-											"value": "2025-05-02",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "end_date",
-											"value": "2025-05-03",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "status",
-											"value": "active",
-											"type": "text"
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id?status=active",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"potential-customers",
+												":potential_customer_batch_id"
+											],
+											"query": [
+												{
+													"key": "limit",
+													"value": "3",
+													"disabled": true
+												},
+												{
+													"key": "page",
+													"value": "10",
+													"disabled": true
+												},
+												{
+													"key": "search",
+													"value": "critical",
+													"disabled": true
+												},
+												{
+													"key": "search_fields",
+													"value": "name",
+													"disabled": true
+												},
+												{
+													"key": "start_date",
+													"value": "2025-05-02",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "end_date",
+													"value": "2025-05-03",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "status",
+													"value": "active",
+													"type": "text"
+												}
+											],
+											"variable": [
+												{
+													"key": "potential_customer_batch_id",
+													"value": "1"
+												}
+											]
 										}
-									],
-									"variable": [
-										{
-											"key": "potential_customer_batch_id",
-											"value": "1"
-										}
-									]
+									},
+									"response": []
 								}
-							},
-							"response": []
+							],
+							"id": "d59cce1e-08ba-4feb-a9d5-51097fc477b2"
 						},
 						{
-							"name": "Export a Batch of Potential Customers",
-							"id": "ac828b40-03c0-40b5-843b-6bc0b713c165",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "GET",
-								"header": [],
-								"url": {
-									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id/export",
-									"host": [
-										"{{base_url}}"
-									],
-									"path": [
-										"admin",
-										"potential-customers",
-										":potential_customer_batch_id",
-										"export"
-									],
-									"query": [
-										{
-											"key": "limit",
-											"value": "3",
-											"disabled": true
+							"name": "New Folder",
+							"item": [
+								{
+									"name": "Export a Batch of Potential Customers",
+									"id": "ac828b40-03c0-40b5-843b-6bc0b713c165",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
 										},
-										{
-											"key": "page",
-											"value": "10",
-											"disabled": true
-										},
-										{
-											"key": "search",
-											"value": "critical",
-											"disabled": true
-										},
-										{
-											"key": "search_fields",
-											"value": "name",
-											"disabled": true
-										},
-										{
-											"key": "start_date",
-											"value": "2025-05-02",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "end_date",
-											"value": "2025-05-03",
-											"type": "text",
-											"disabled": true
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id/export",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"potential-customers",
+												":potential_customer_batch_id",
+												"export"
+											],
+											"query": [
+												{
+													"key": "limit",
+													"value": "3",
+													"disabled": true
+												},
+												{
+													"key": "page",
+													"value": "10",
+													"disabled": true
+												},
+												{
+													"key": "search",
+													"value": "critical",
+													"disabled": true
+												},
+												{
+													"key": "search_fields",
+													"value": "name",
+													"disabled": true
+												},
+												{
+													"key": "start_date",
+													"value": "2025-05-02",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "end_date",
+													"value": "2025-05-03",
+													"type": "text",
+													"disabled": true
+												}
+											],
+											"variable": [
+												{
+													"key": "potential_customer_batch_id",
+													"value": "1"
+												}
+											]
 										}
-									],
-									"variable": [
-										{
-											"key": "potential_customer_batch_id",
-											"value": "1"
-										}
-									]
+									},
+									"response": []
 								}
-							},
-							"response": []
+							],
+							"id": "68bda91e-0c4e-473f-a028-fe0a767590b6"
 						},
 						{
-							"name": "Remove Potential Customer from Batch",
-							"id": "7b81155a-b4d0-45ab-bea6-6ebec6c1ec1b",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "DELETE",
-								"header": [],
-								"url": {
-									"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id/customers/:potential_customer_id",
-									"host": [
-										"{{base_url}}"
-									],
-									"path": [
-										"admin",
-										"potential-customers",
-										":potential_customer_batch_id",
-										"customers",
-										":potential_customer_id"
-									],
-									"query": [
-										{
-											"key": "limit",
-											"value": "3",
-											"disabled": true
+							"name": "New Folder",
+							"item": [
+								{
+									"name": "Remove Potential Customer from Batch",
+									"id": "7b81155a-b4d0-45ab-bea6-6ebec6c1ec1b",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
 										},
-										{
-											"key": "page",
-											"value": "10",
-											"disabled": true
-										},
-										{
-											"key": "search",
-											"value": "critical",
-											"disabled": true
-										},
-										{
-											"key": "search_fields",
-											"value": "name",
-											"disabled": true
-										},
-										{
-											"key": "start_date",
-											"value": "2025-05-02",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "end_date",
-											"value": "2025-05-03",
-											"type": "text",
-											"disabled": true
+										"method": "DELETE",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/potential-customers/:potential_customer_batch_id/customers/:potential_customer_id",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"potential-customers",
+												":potential_customer_batch_id",
+												"customers",
+												":potential_customer_id"
+											],
+											"query": [
+												{
+													"key": "limit",
+													"value": "3",
+													"disabled": true
+												},
+												{
+													"key": "page",
+													"value": "10",
+													"disabled": true
+												},
+												{
+													"key": "search",
+													"value": "critical",
+													"disabled": true
+												},
+												{
+													"key": "search_fields",
+													"value": "name",
+													"disabled": true
+												},
+												{
+													"key": "start_date",
+													"value": "2025-05-02",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "end_date",
+													"value": "2025-05-03",
+													"type": "text",
+													"disabled": true
+												}
+											],
+											"variable": [
+												{
+													"key": "potential_customer_batch_id",
+													"value": "1"
+												},
+												{
+													"key": "potential_customer_id",
+													"value": "1"
+												}
+											]
 										}
-									],
-									"variable": [
-										{
-											"key": "potential_customer_batch_id",
-											"value": "1"
-										},
-										{
-											"key": "potential_customer_id",
-											"value": "1"
-										}
-									]
+									},
+									"response": []
 								}
-							},
-							"response": []
+							],
+							"id": "a49f617a-1c7a-4e99-b246-42319ca6e065"
+						},
+						{
+							"name": "New Folder",
+							"item": [
+								{
+									"name": "Fetch a Potential Customer In Batch",
+									"id": "2885e72a-94fb-42b7-8c76-6e4cf6afdd7d",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "GET",
+										"header": [],
+										"url": {
+											"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id/customers",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"potential-customer-batches",
+												":potential_customer_batch_id",
+												"customers"
+											],
+											"query": [
+												{
+													"key": "limit",
+													"value": "3",
+													"disabled": true
+												},
+												{
+													"key": "page",
+													"value": "1",
+													"disabled": true
+												},
+												{
+													"key": "search",
+													"value": "critical",
+													"disabled": true
+												},
+												{
+													"key": "search_fields",
+													"value": "name",
+													"disabled": true
+												},
+												{
+													"key": "start_date",
+													"value": "2025-05-02",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "end_date",
+													"value": "2025-05-03",
+													"type": "text",
+													"disabled": true
+												}
+											],
+											"variable": [
+												{
+													"key": "potential_customer_batch_id",
+													"value": "2"
+												}
+											]
+										}
+									},
+									"response": []
+								}
+							],
+							"id": "57848f7d-2564-4419-adf8-0e832d163d88"
+						},
+						{
+							"name": "New Folder",
+							"item": [],
+							"id": "94816ff7-a03b-4286-8821-ce3d81b68271"
 						},
 						{
 							"name": "Fetch a Potential Customer Batch Copy",
@@ -17917,76 +18033,6 @@
 									"variable": [
 										{
 											"id": "c46177d0-7f4e-47b1-b548-d2fbbdf6f8b0",
-											"key": "potential_customer_batch_id",
-											"value": "2"
-										}
-									]
-								}
-							},
-							"response": []
-						},
-						{
-							"name": "Fetch a Potential Customer In Batch",
-							"id": "2885e72a-94fb-42b7-8c76-6e4cf6afdd7d",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": "{{admin_access_token}}"
-									}
-								},
-								"method": "GET",
-								"header": [],
-								"url": {
-									"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id/customers",
-									"host": [
-										"{{base_url}}"
-									],
-									"path": [
-										"admin",
-										"potential-customer-batches",
-										":potential_customer_batch_id",
-										"customers"
-									],
-									"query": [
-										{
-											"key": "limit",
-											"value": "3",
-											"disabled": true
-										},
-										{
-											"key": "page",
-											"value": "1",
-											"disabled": true
-										},
-										{
-											"key": "search",
-											"value": "critical",
-											"disabled": true
-										},
-										{
-											"key": "search_fields",
-											"value": "name",
-											"disabled": true
-										},
-										{
-											"key": "start_date",
-											"value": "2025-05-02",
-											"type": "text",
-											"disabled": true
-										},
-										{
-											"key": "end_date",
-											"value": "2025-05-03",
-											"type": "text",
-											"disabled": true
-										}
-									],
-									"variable": [
-										{
 											"key": "potential_customer_batch_id",
 											"value": "2"
 										}
