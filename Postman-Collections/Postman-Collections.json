@@ -18284,7 +18284,7 @@
 							"name": "Create Promotion",
 							"item": [
 								{
-									"name": "Create Promotion",
+									"name": "Create Promotion - Success",
 									"id": "8bf84a2a-2a89-4462-9593-e5492c8f7e81",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
