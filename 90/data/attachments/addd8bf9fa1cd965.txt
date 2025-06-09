@@ -1,0 +1,6 @@
+{
+    "name": "Practical Frozen Chair",
+    "description": "Nulla aut libero eos sed. Eligendi nisi aspernatur voluptatem possimus id. Error aut placeat labore dolorum. Quia ullam itaque quos omnis itaque veritatis nihil accusantium in.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

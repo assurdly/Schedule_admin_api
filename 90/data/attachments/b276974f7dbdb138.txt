@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Steel Computer",
+    "description": "Porro inventore tempore aliquam consequatur. Soluta et nisi vel officiis magnam et. Laborum deserunt ipsam non. Esse qui nesciunt distinctio sint nihil optio.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Practical Soft Gloves",
-    "description": "Eos voluptatem aspernatur asperiores non doloribus ad iusto. Officia quo et doloribus nostrum. Eos dolorum dolor et. Illo accusamus facere et cum exercitationem aut. Itaque iusto deleniti sed incidunt autem aspernatur velit voluptatum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

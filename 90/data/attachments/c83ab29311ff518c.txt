@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://lou.name",
+    "api_key": "i",
+    "secret_key": "r",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "52",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b80899df-d3d4-4f1e-9755-c6524229b775",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749462386"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
