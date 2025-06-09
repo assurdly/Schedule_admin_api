@@ -1,5 +1,0 @@
-{
-    "name": "Practical Soft Sausages",
-    "description": "Vel explicabo exercitationem et voluptatem quia veniam odit. Dicta voluptates aut. Natus rerum aut et cupiditate fugiat explicabo minima eos. In totam cupiditate repellendus. Et et inventore accusamus quia.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Generic Plastic Shoes",
+    "description": "Officia omnis aliquam perferendis recusandae quae ea dolor. Ratione aliquid quod similique esse qui vel. Dolores officiis maiores at.",
+    "icon_url": "http://placeimg.com/640/480"
+}

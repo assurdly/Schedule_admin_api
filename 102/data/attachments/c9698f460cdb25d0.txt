@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://joyce.biz",
+    "api_key": "l",
+    "secret_key": "i",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "741",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1d69c7ef-d54f-4f42-957f-7a431b4acd8c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749480042"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

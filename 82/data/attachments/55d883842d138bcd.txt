@@ -1,6 +1,0 @@
-{
-    "name": "Handcrafted Wooden Salad",
-    "description": "Non eligendi cupiditate laudantium expedita iste nesciunt. Labore id omnis. Animi sunt et odio pariatur molestiae qui cupiditate. Harum qui occaecati totam consequatur id rerum in sint voluptatem. Saepe veniam facere veniam accusantium et autem quia quasi. Nesciunt vitae sint.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

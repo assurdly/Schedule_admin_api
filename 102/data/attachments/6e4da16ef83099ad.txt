@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://rebeka.name",
+    "api_key": "8",
+    "secret_key": "q",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "295",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "00a798d5-1fdc-43b8-85e7-5b38a083ab89",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749480042"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Balistreri - Schumm",
+    "base_url": "http://naomie.com",
+    "api_key": "t",
+    "secret_key": "7",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "236",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "be69ba9d-9294-4525-b112-fff80f9501da",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749480041"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
