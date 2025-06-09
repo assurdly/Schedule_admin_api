@@ -17150,7 +17150,23 @@
 										},
 										"method": "GET",
 										"header": [],
-										"url": "{{base_url}}/admin/customers/1"
+										"url": {
+											"raw": "{{base_url}}/admin/customers/:id",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"customers",
+												":id"
+											],
+											"variable": [
+												{
+													"key": "id",
+													"value": "7"
+												}
+											]
+										}
 									},
 									"response": [
 										{
