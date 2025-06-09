@@ -18219,18 +18219,35 @@
 												"token": "{{admin_access_token}}"
 											}
 										},
-										"method": "POST",
+										"method": "GET",
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"{{$randomNoun}}\",\n    \"description\": \"Potential customer batch\",\n    \"product_group_id\": \"1\",\n    \"product_id\": \"1\"\n}",
+											"raw": "{\n    \"batch_id\": \"1\",\n    \"potential_customer_id\": \"1\",\n    \"channel\": \"email\",\n    \"message_subject\": \"Test batch messaging\",\n    \"message_body\": \"Test batch messaging batch...\",\n    \"recipient_status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
 												}
 											}
 										},
-										"url": "{{base_url}}/admin/potential-customer-batches"
+										"url": {
+											"raw": "{{base_url}}/admin/potential-customer-batches/:potential_customer_batch_id/send-message",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"potential-customer-batches",
+												":potential_customer_batch_id",
+												"send-message"
+											],
+											"variable": [
+												{
+													"key": "potential_customer_batch_id",
+													"value": ""
+												}
+											]
+										}
 									},
 									"response": []
 								}
