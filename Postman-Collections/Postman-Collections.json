@@ -18684,40 +18684,14 @@
 													"const jsonData = pm.response.json();\r",
 													"\r",
 													"pm.test(\"Validate response status\", function () {\r",
-													"    pm.response.to.have.status(200);\r",
+													"    pm.response.to.have.status(401);\r",
 													"});\r",
 													"\r",
-													"const response = pm.response.json();\r",
-													"\r",
-													"// Validate the structure of the response\r",
-													"pm.test(\"Validate response structure\", function () {\r",
-													"    pm.expect(response).to.have.property('status').that.equals('success');\r",
-													"    pm.expect(response).to.have.property('message').that.equals('success');\r",
-													"    pm.expect(response).to.have.property('data').that.is.an('object');\r",
-													"    pm.expect(response.data).to.have.property('data').that.is.an('array');\r",
-													"    pm.expect(response.data).to.have.property('meta').that.is.an('object');\r",
-													"\r",
-													"    \r",
-													"    response.data.data.forEach(promotion => {\r",
-													"        pm.expect(promotion).to.have.all.keys(\r",
-													"            'id', 'created_on', 'created_by', 'modified_on', \r",
-													"            'modified_by', 'title', 'description', 'type', \r",
-													"            'active', 'number_of_subscribers', 'product_id', \r",
-													"            'image', 'mobile_image', 'action_url', 'extra_data', \r",
-													"            'product'\r",
-													"        );\r",
-													"\r",
-													"        pm.expect(promotion.product).to.have.all.keys(\r",
-													"            'id', 'created_on', 'created_by', 'modified_on', \r",
-													"            'modified_by', 'deleted_by', 'deleted_flag', \r",
-													"            'name', 'description', 'icon_url', 'status', \r",
-													"            'amount', 'meta', 'product_group_id', 'category_id'\r",
-													"        );\r",
-													"    });\r",
-													"\r",
-													"});\r",
-													"\r",
-													""
+													"pm.test(\"Validate response body\", function () {\r",
+													"    pm.expect(jsonData.status).to.eql(\"error\");\r",
+													"    pm.expect(jsonData.message).to.exist;\r",
+													"    pm.expect(jsonData.data).to.eql({});\r",
+													"});"
 												],
 												"type": "text/javascript",
 												"packages": {}
@@ -18732,7 +18706,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{admin_access_token}}"
+												"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidHlwZSI6ImF1dGgiLCJpYXQiOjE3NDk0NTk0NTksImV4cCI6MTc0OTQ2MzA1OX0.tCFUZYU-8uNKNV-Ho_38KqXZpSTaFpLY3XPwRUTZ2t0"
 											}
 										},
 										"method": "GET",
@@ -18812,6 +18786,283 @@
 									"response": [
 										{
 											"id": "a7835ac3-76fe-4d1c-85a3-142c26f9508c",
+											"name": "Get Promotions - Success",
+											"originalRequest": {
+												"method": "GET",
+												"header": [],
+												"body": {
+													"mode": "raw",
+													"raw": ""
+												},
+												"url": {
+													"raw": "{{base_url}}/admin/promotions",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"admin",
+														"promotions"
+													],
+													"query": [
+														{
+															"key": "limit",
+															"value": "10",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "page",
+															"value": "1",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "search",
+															"value": "mtn",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "search_fields",
+															"value": "title",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "start_date",
+															"value": "2025-05-25",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "end_date",
+															"value": "2025-05-26",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "product_id",
+															"value": "1",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "active",
+															"value": "1",
+															"type": "text",
+															"disabled": true
+														},
+														{
+															"key": "type",
+															"value": "offer",
+															"description": "offer or advertisement",
+															"type": "text",
+															"disabled": true
+														}
+													]
+												}
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Date",
+													"value": "Thu, 05 Jun 2025 17:53:27 GMT"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "2757"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"ac5-wJPMnlQhq3p/s1V7nn6d610Vm98\""
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"data\": [\n            {\n                \"id\": 2,\n                \"created_on\": \"2025-06-05 17:36:34\",\n                \"created_by\": 1,\n                \"modified_on\": \"2025-06-05 17:36:34\",\n                \"modified_by\": null,\n                \"title\": \"MTN Airtime ₦100 Cashback\",\n                \"description\": \"Top up ₦1,000 airtime & get ₦100 cashback instantly\",\n                \"type\": \"offer\",\n                \"active\": 1,\n                \"number_of_subscribers\": 100,\n                \"product_id\": 1,\n                \"image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/LwvXT2HvdbV0oPG.png?Expires=1749232407&Key-Pair-Id=K114CL2FVB9II8&Signature=oPjG~CSF65y6CdvkpHF1z8IPWg2MScNzoafDVWyvoNXrFsXt~Dmt36-wDNsPHkqYsefiIULzn27k4nBxw8hTJvZNydzlXORwKQAG6audMcTGnT02LyTJyVR64UsofTxZLtw-5ln0AMS1g4z9XaNxZ1Ob1tpmirGHP1h5j-nkNCHY9uNfrPyixjPZZhu4l0c8mTp1fgpK9BjPpI6AR2k8j0WLr0BODzuxYAPE7H6UbVNyQ1LW-y3xnKSmU6awTciiQFzcnwhr7oluahRoR7P6D-V4IVw0i70Lyd7AaVd0rja0tHwwfSr2YgGM~0RpETrxMbOClvHVlWKx7Xi4YzB4lA__\",\n                \"mobile_image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/vjikCTCsYM3on80.png?Expires=1749232407&Key-Pair-Id=K114CL2FVB9II8&Signature=cFZgCxPj6q-jMxci8GCFm5IZW5EvIWz8Mmmdsn8L~Oi0S6kLZ78y~nepaMF7CZ3E2Gwtk6V7AdwphX5BtJM8op-155e2f9fLZ~FSCJgn-v6-l5JiQum3RI-GRQa-VKliFGuRlv-jXuyeSPO8jFPF1VFUIN~noB2UerzAEE-fJBpniqMlYCyr~BmJG1cpE57x-BGuNVMa1x1gerGXtB28dTk2CfHxj5dcnWmu4wYqSLev-KbTOrxnJ63~hk9p~vysBf2PUwTEsUiaS57arMaLeQev7jT2sxPWPgdxszYywrWb~I0hBjJzCrGptbt6Cuwk1OSXzgre~S-0STihiCvd-Q__\",\n                \"action_url\": \"https://google.com\",\n                \"extra_data\": \"\"\n            },\n            {\n                \"id\": 1,\n                \"created_on\": \"2025-06-03 20:25:59\",\n                \"created_by\": 1,\n                \"modified_on\": \"2025-06-03 20:25:59\",\n                \"modified_by\": null,\n                \"title\": \"MTN Airtime ₦100 Cashback\",\n                \"description\": \"Top up ₦1,000 airtime & get ₦100 cashback instantly\",\n                \"type\": \"offer\",\n                \"active\": 1,\n                \"number_of_subscribers\": 100,\n                \"product_id\": 1,\n                \"image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/qgDn89w20g839Cm.png?Expires=1749232407&Key-Pair-Id=K114CL2FVB9II8&Signature=Xw1CQ9CI4ucluwOsIqrcuIvUu9f-2p8nvYw~m3xnFuxeOTjpb-ba8TPkJoIFN2MIQOzx3ZtvXBN8C~iLPKot9H-hsT2Mbu6s--sazBwvi2mP2vL6tLFNucW0ig0LAQsatpmPdNjAJnHfBCWRl7gg5WYbwwaqfS7U2BNnzv9cA-wwGAVcKtyWbrlKgixtrVm7fSMGlVxXEeABhAoeK5gn1MTTKW-1kWfCKUfOHDz8973SYeQIwgzLUmscsBtXA~95L8ibcPr4PL7GZUcDmweVB5Ue3hGWlGJZ3d2LHsG2gAa7LjYGFS2zD0cXDgdJWNIdbuL1SZKK92ZvpH8lfqdlaQ__\",\n                \"mobile_image\": \"https://d3epu08y1t6l4j.cloudfront.net/promotions/offer/lFoM3pKzHyQbxtT.png?Expires=1749232407&Key-Pair-Id=K114CL2FVB9II8&Signature=q1gHt300EIize-jgrjaRUqTcyd853GRCp9ABPk8jlRi86TbQoW5Bx3JuEasFxCw0JITEc~gLdjcAEb6vkxd-JMcrr7TZ88kELn4aPx7h2RDcdNg0lOQDPdX-Nd3FjyUV4SFRpu45KuMjqkXvS349BCdBdHrqIrRrbS--8kkOQ16-3gF2qAXdmDIbpvtLXDvyHiuHvjegKg639rLaueZwbPQWDkOUWZgyl1r5DueJmejk38dq5vOedIKVgS8vWkVD65~-8Gwb5xURAr0M3fGOvy4UUO2FtlyQFode2vfTZHYr~MvLfqZ08bgpqB4dVTT5~LEWJUf~FBNJCU78V6JOWw__\",\n                \"action_url\": \"https://google.com\",\n                \"extra_data\": \"\"\n            }\n        ],\n        \"meta\": {\n            \"records\": 2,\n            \"page\": 1,\n            \"pages\": 1,\n            \"page_size\": 10\n        }\n    }\n}"
+										}
+									]
+								},
+								{
+									"name": "Get Promotions - No Auth token",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "d32a9346-f92f-4418-b00e-a83d4d95182c",
+												"exec": [
+													"const jsonData = pm.response.json();\r",
+													"\r",
+													"pm.test(\"Validate response status\", function () {\r",
+													"    pm.response.to.have.status(401);\r",
+													"});\r",
+													"\r",
+													"pm.test(\"Validate response body\", function () {\r",
+													"    pm.expect(jsonData.status).to.eql(\"error\");\r",
+													"    pm.expect(jsonData.message).to.exist;\r",
+													"    pm.expect(jsonData.data).to.eql({});\r",
+													"});"
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
+									"id": "6dc2cb89-1774-448e-8324-df13de3dfe5b",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "noauth"
+										},
+										"method": "GET",
+										"header": [],
+										"body": {
+											"mode": "raw",
+											"raw": ""
+										},
+										"url": {
+											"raw": "{{base_url}}/admin/promotions",
+											"host": [
+												"{{base_url}}"
+											],
+											"path": [
+												"admin",
+												"promotions"
+											],
+											"query": [
+												{
+													"key": "limit",
+													"value": "10",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "page",
+													"value": "1",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "search",
+													"value": "mtn",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "search_fields",
+													"value": "title",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "start_date",
+													"value": "2025-05-25",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "end_date",
+													"value": "2025-05-26",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "product_id",
+													"value": "1",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "active",
+													"value": "1",
+													"type": "text",
+													"disabled": true
+												},
+												{
+													"key": "type",
+													"value": "offer",
+													"description": "offer or advertisement",
+													"type": "text",
+													"disabled": true
+												}
+											]
+										}
+									},
+									"response": [
+										{
+											"id": "d631036c-f931-4d1e-9ace-11c90fa4b0b7",
 											"name": "Get Promotions - Success",
 											"originalRequest": {
 												"method": "GET",
