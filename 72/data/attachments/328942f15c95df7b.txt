@@ -1,5 +1,0 @@
-{
-    "name": "Generic Cotton Gloves",
-    "description": "Libero reiciendis in delectus quis. Eos et voluptas velit et exercitationem natus commodi velit. Dolor quia est. Quae nesciunt quam provident ab ducimus deserunt et voluptatum. Unde corrupti autem sint.",
-    "icon_url": "http://placeimg.com/640/480"
-}

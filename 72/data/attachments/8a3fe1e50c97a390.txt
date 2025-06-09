@@ -1,6 +1,0 @@
-{
-    "name": "Incredible Cotton Chair",
-    "description": "Est esse quibusdam rerum aut quibusdam maiores eos quia. Eligendi impedit velit et. Corrupti velit tenetur quo omnis optio. Sunt eos sit in temporibus aliquid. Perferendis nihil asperiores iure impedit assumenda est vitae laboriosam explicabo. Voluptatem a numquam omnis autem veritatis reiciendis nesciunt ea recusandae.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
