@@ -1,6 +1,0 @@
-{
-    "name": "Incredible Rubber Fish",
-    "description": "Iusto et provident officiis magnam ipsam velit. Nesciunt esse hic. Et non fugiat earum quis voluptas ut ipsum reprehenderit ipsum. Dolor ut velit praesentium quidem ab. Ea corporis autem atque.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

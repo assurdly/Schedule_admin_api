@@ -1,5 +1,0 @@
-{
-    "name": "Practical Fresh Chips",
-    "description": "Et nisi cum eaque exercitationem quod. Consequuntur rerum excepturi nisi libero modi molestias totam. Ut animi fugiat dolor est iure tenetur harum. Ut non omnis quam. Eveniet aut odit velit a sed dignissimos quaerat. Dolore unde cum iste ut quisquam facere ipsam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

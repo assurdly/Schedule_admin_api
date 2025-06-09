@@ -1,0 +1,6 @@
+{
+    "name": "Fantastic Soft Soap",
+    "description": "Maiores voluptas consequatur. Repellendus ipsam rerum a rem. Libero facere ducimus. Velit hic non tempora ad dolores illum. Vel dolorem deserunt perferendis nam quia suscipit sunt. Dolorum optio sunt et culpa deleniti atque voluptates.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Plastic Pants",
-    "description": "Ea aut beatae dolores accusamus quis. Optio est minus et culpa est vel. Sit consequatur cupiditate est pariatur quibusdam esse. Autem dignissimos eos mollitia laboriosam qui.",
-    "icon_url": "http://placeimg.com/640/480"
-}
