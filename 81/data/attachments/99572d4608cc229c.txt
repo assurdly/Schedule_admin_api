@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Steel Soap",
+    "description": "In velit eligendi ipsa non rerum expedita et. Ut modi facere inventore ipsa vel distinctio. Magni nostrum aliquam aspernatur ullam. Officiis quisquam consequatur libero odit. Dolor unde nihil. Culpa dolorem ipsum est nulla maiores sequi sed.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Unbranded Steel Chicken",
+    "description": "Voluptas dolores qui voluptates velit debitis aut blanditiis. Expedita ut hic ad non recusandae eaque cum atque. Fugit consequuntur corrupti doloremque veritatis commodi aut. Cupiditate ut animi et voluptas enim rerum.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

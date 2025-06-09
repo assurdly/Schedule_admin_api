@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Fresh Car",
-    "description": "Eum tenetur et qui. Expedita totam doloribus voluptates sit maxime optio laboriosam et corporis. Ea amet quisquam debitis. Culpa officia sunt assumenda porro. Magni quia reprehenderit. Qui aut libero nostrum voluptatem ut consequatur eveniet maxime.",
-    "icon_url": "http://placeimg.com/640/480"
-}

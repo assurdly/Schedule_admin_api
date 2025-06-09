@@ -1,6 +1,0 @@
-{
-    "name": "Handcrafted Frozen Bacon",
-    "description": "Veniam sed hic praesentium sequi maxime autem. Temporibus sunt voluptatem soluta. Nobis consectetur et aut sunt quo dignissimos. Voluptates modi dolores sint. Sequi provident sit voluptatum vero vel. Et facilis occaecati et illum.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

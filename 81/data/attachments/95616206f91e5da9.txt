@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Fresh Computer",
+    "description": "Perspiciatis voluptatum quia. Sit quod ullam quas. Excepturi eum delectus velit et.",
+    "icon_url": "http://placeimg.com/640/480"
+}
