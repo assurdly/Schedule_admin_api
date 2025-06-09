@@ -19592,6 +19592,27 @@
 								},
 								{
 									"name": "Get Promotion By ID - Invalid Token",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "3d51b045-7ac4-4711-9f5a-6110cc390e3b",
+												"exec": [
+													"const jsonData = pm.response.json();\r",
+													"\r",
+													"pm.test(\"Status code is 401\", function () {\r",
+													"    pm.response.to.have.status(401);\r",
+													"});\r",
+													"\r",
+													"pm.test(\"Response body contains error message\", function () {\r",
+													"    pm.expect(jsonData.message).to.exist;\r",
+													"});"
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
 									"id": "68feb8f1-a95a-4f0c-b1d2-e227779ce996",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
@@ -19600,7 +19621,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{admin_access_token}}"
+												"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidHlwZSI6ImF1dGgiLCJpYXQiOjE3NDk0NjE4NjIsImV4cCI6MTc0OTQ2NTQ2Mn0.gjC77Sp6868ED-YyC_hRW28JqP7iptZdFzIaXlNUuHI"
 											}
 										},
 										"method": "GET",
@@ -19617,7 +19638,6 @@
 											],
 											"variable": [
 												{
-													"id": "0b251c46-a929-4bb9-8a8e-130051b73b80",
 													"key": "id",
 													"value": "1"
 												}
@@ -19742,16 +19762,34 @@
 								},
 								{
 									"name": "Get Promotion By ID - No Auth Token",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "cadf4ca6-e599-4865-a0e5-6a4dd1ca173c",
+												"exec": [
+													"const jsonData = pm.response.json();\r",
+													"\r",
+													"pm.test(\"Status code is 401\", function () {\r",
+													"    pm.response.to.have.status(401);\r",
+													"});\r",
+													"\r",
+													"pm.test(\"Response body contains error message\", function () {\r",
+													"    pm.expect(jsonData.message).to.exist;\r",
+													"});"
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
 									"id": "1f4d410f-8762-4594-933f-743b4b9e2217",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
 									"request": {
 										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
+											"type": "noauth"
 										},
 										"method": "GET",
 										"header": [],
@@ -19767,7 +19805,6 @@
 											],
 											"variable": [
 												{
-													"id": "0b251c46-a929-4bb9-8a8e-130051b73b80",
 													"key": "id",
 													"value": "1"
 												}
