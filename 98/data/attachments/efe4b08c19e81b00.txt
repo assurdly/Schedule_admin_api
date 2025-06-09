@@ -1,0 +1,5 @@
+{
+    "name": "Gorgeous Metal Bike",
+    "description": "Natus praesentium quo cupiditate velit unde ipsam. Et ut accusamus voluptas. Consequatur velit et accusantium. Sint blanditiis non at voluptates odit labore iusto tempore.",
+    "icon_url": "http://placeimg.com/640/480"
+}

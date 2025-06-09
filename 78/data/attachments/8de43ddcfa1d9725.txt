@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Frozen Keyboard",
-    "description": "A officiis doloremque et fuga veniam. Officia eligendi aut quaerat laboriosam. Officia eum iusto.",
-    "icon_url": "http://placeimg.com/640/480"
-}
