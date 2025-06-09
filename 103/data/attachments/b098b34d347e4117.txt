@@ -1,0 +1,5 @@
+{
+    "name": "Generic Fresh Hat",
+    "description": "Nemo alias molestiae. Commodi sequi veniam et nemo vitae aperiam quibusdam maiores iusto. Voluptas distinctio eos esse adipisci corporis et animi. Occaecati et corporis aut nobis dolores odit. Earum eaque consequuntur magnam molestiae est facere sed et error. Voluptatem dicta atque blanditiis quisquam similique sunt molestiae deserunt.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Concrete Gloves",
-    "description": "In iste et molestias minus quam ut. Autem maiores sit maxime eos recusandae impedit. Adipisci assumenda repellendus ut qui corrupti voluptas occaecati explicabo quibusdam. Fugiat fugiat molestiae repellendus maxime unde velit sed aut. In atque corporis accusamus dolor molestiae. Ab omnis in aut commodi temporibus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

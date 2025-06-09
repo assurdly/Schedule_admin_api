@@ -1,6 +1,0 @@
-{
-    "name": "Unbranded Concrete Shoes",
-    "description": "Autem quos est. Accusamus non ratione qui culpa recusandae id qui. Est aperiam repellendus sint eum ut autem dolorem eveniet minima. Doloribus quam ut earum iusto. Consequatur enim necessitatibus ut repellendus.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
