@@ -1,1 +1,0 @@
-{"status":"error","message":"The Image dimensions must be equal to 1920x1080","data":{}}

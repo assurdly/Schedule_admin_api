@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Metal Tuna",
-    "description": "Qui repudiandae autem adipisci exercitationem alias ut. Cumque aut id dolorem. Ut culpa dolor enim voluptate et. Quaerat nisi cupiditate aut quia nesciunt est aliquid harum est. Tempora rerum hic est ab inventore tenetur natus ipsam non. Consequatur quibusdam repellendus aut ducimus delectus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

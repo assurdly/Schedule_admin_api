@@ -1,6 +1,0 @@
-{
-    "name": "Gorgeous Granite Chips",
-    "description": "Vel deleniti ducimus consequuntur perferendis. Hic dolor odit quam ex similique. Temporibus inventore quis cumque sapiente aut harum architecto. Ut voluptatibus labore architecto exercitationem asperiores ut et totam qui. Repellendus perspiciatis voluptatem rerum eligendi.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

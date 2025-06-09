@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://evie.net",
+    "api_key": "x",
+    "secret_key": "l",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "753",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2ecc5c6d-f67a-44fe-b50b-a419f6c7e39c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749482460"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
