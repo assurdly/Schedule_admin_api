@@ -1,0 +1,5 @@
+{
+    "name": "Generic Plastic Chips",
+    "description": "Deleniti esse blanditiis est cupiditate eum sed. Qui dolorum eaque quia eum aut cum est voluptate. Sed itaque corporis ratione sapiente maxime sed aut.",
+    "icon_url": "http://placeimg.com/640/480"
+}

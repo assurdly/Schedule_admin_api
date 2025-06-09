@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Plastic Car",
-    "description": "Aperiam a alias. Fugit expedita et eaque. Dolorem et accusamus est sint doloribus ea sint iusto hic. Dolor est quod commodi ipsa quaerat vel voluptates corrupti unde.",
-    "icon_url": "http://placeimg.com/640/480"
-}
