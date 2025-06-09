@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Steel Car",
-    "description": "Et aspernatur dicta et eius cum delectus. Libero dolorum qui qui. Eum aliquid et omnis aspernatur similique.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://cary.name",
+    "api_key": "v",
+    "secret_key": "7",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "177",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a1da3a20-9386-43c1-b161-19289cdee1ef",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749481848"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

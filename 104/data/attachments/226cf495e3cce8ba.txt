@@ -1,0 +1,8 @@
+{
+    "name": "MTNDatapayment",
+    "short_name": "MTN utilities",
+    "description": "Utah",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

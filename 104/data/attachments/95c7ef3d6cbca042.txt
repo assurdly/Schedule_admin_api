@@ -1,0 +1,5 @@
+{
+    "name": "Refined Metal Gloves",
+    "description": "Eaque at exercitationem necessitatibus iusto. Consectetur et sit sint sunt. Enim qui et exercitationem impedit voluptate sed. Est unde eveniet molestias. Provident debitis doloribus ipsa optio. Omnis tenetur natus optio minima beatae fugiat facilis accusamus.",
+    "icon_url": "http://placeimg.com/640/480"
+}

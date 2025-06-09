@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Wooden Tuna",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

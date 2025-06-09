@@ -1,6 +1,0 @@
-{
-    "name": "Refined Frozen Shoes",
-    "description": "Autem facere quibusdam et tenetur. Culpa nam animi amet et. Porro voluptas perferendis et.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
