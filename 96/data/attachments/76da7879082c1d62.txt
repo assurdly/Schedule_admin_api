@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Frozen Sausages",
-    "description": "Sed adipisci quibusdam exercitationem eligendi blanditiis consequatur repudiandae ad. Aut et aspernatur tempore. Ut autem quia nostrum et ratione. Est enim excepturi est cupiditate.",
-    "icon_url": "http://placeimg.com/640/480"
-}

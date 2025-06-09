@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Concrete Towels",
+    "description": "Ut voluptatem aut magni. Quae nemo dolorum qui et sunt beatae. Vitae aspernatur eos qui tempore deleniti provident nam ut corporis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

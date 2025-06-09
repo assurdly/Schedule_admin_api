@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Frozen Table",
-    "description": "Voluptatem quibusdam debitis quis dolor qui earum tenetur dignissimos. Recusandae mollitia non culpa aut reiciendis nam et. Aut odit alias. Aut quia tenetur consequatur voluptatem rerum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

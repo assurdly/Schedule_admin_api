@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://kelsie.biz",
+    "api_key": "9",
+    "secret_key": "w",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "711",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "9e395262-d0e3-4e7a-b0f5-38e6cb10ff10",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749490477"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
