@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://misael.biz",
+    "api_key": "w",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "689",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "4a95ccd8-4be0-48b0-a422-f13ab048c21a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749496941"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

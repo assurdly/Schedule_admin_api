@@ -1,0 +1,20 @@
+{
+    "name": "Kuhic LLC",
+    "base_url": "https://willis.org",
+    "api_key": "b",
+    "secret_key": "t",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "877",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "9b5c7c25-a844-406b-8b1e-ce5fae1bbacb",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749496940"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

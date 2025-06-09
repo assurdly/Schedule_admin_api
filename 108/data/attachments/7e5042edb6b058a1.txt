@@ -1,6 +1,0 @@
-{
-    "name": "Awesome Concrete Chicken",
-    "description": "Temporibus doloremque occaecati amet adipisci neque. Sed praesentium maiores sunt labore expedita quibusdam molestiae fugiat. Ut repudiandae dolor quo magnam natus tenetur quidem sunt. Corrupti libero ut velit perspiciatis velit. Qui earum aspernatur aut sint aliquam.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

@@ -1,0 +1,6 @@
+{
+    "name": "Unbranded Cotton Sausages",
+    "description": "Et voluptates adipisci sit. Voluptates est nam cum porro perferendis et nisi aliquam. Possimus nostrum tempore magnam. Qui aspernatur minima consequatur animi. Necessitatibus cum perspiciatis accusantium.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

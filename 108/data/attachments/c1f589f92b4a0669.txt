@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Frozen Tuna",
-    "description": "Autem sit a molestiae quidem ratione corporis saepe impedit. Unde saepe qui tempora repellendus dolor at et. Quibusdam tempora quaerat quia est vel praesentium ut est voluptas. Molestiae vel id occaecati ut quasi non.",
-    "icon_url": "http://placeimg.com/640/480"
-}
