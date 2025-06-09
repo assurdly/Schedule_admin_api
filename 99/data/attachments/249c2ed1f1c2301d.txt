@@ -1,0 +1,6 @@
+{
+    "name": "Rustic Cotton Soap",
+    "description": "Et esse est earum non reprehenderit in est. Sed consectetur est explicabo. Aut quidem et necessitatibus soluta. Aut fugit ex ullam sed quos recusandae reprehenderit. Dicta alias eum dicta laboriosam nemo velit.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

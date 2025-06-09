@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Granite Gloves",
+    "description": "Doloremque ea aliquam possimus laboriosam. Architecto et ut nihil sequi consequatur non. Nisi fuga distinctio excepturi qui. Laborum sed modi rerum. Architecto magnam nobis fugit rerum impedit et. Vitae ut deserunt at ratione.",
+    "icon_url": "http://placeimg.com/640/480"
+}

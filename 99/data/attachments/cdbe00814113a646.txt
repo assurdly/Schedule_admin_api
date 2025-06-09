@@ -1,0 +1,20 @@
+{
+    "name": "Zulauf, Stroman and Reilly",
+    "base_url": "http://brain.name",
+    "api_key": "6",
+    "secret_key": "r",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "400",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0d8bbaaa-f728-482d-86fc-d55b5e4e002a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749478214"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
