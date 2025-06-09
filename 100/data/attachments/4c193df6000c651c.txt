@@ -1,0 +1,6 @@
+{
+    "name": "Incredible Fresh Soap",
+    "description": "Odit quod aut et numquam sapiente maxime porro consequuntur. Quo provident sapiente et nesciunt laudantium nobis ipsam dolor dolorum. Corrupti sint culpa eaque error fugit. Fugiat et nisi sit possimus consequatur qui ducimus.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

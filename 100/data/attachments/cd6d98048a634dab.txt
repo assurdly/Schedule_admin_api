@@ -1,0 +1,5 @@
+{
+    "name": "Generic Cotton Chicken",
+    "description": "Voluptatem amet atque facere deleniti dolor doloribus blanditiis nisi laborum. Placeat impedit non saepe tempore corrupti magnam magnam. Saepe dolor dolore accusamus explicabo esse perspiciatis dolores sit. Officiis recusandae ratione harum enim autem placeat.",
+    "icon_url": "http://placeimg.com/640/480"
+}

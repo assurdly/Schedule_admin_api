@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Soft Towels",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}
