@@ -18243,7 +18243,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"batch_id\": \"2\",\n    \"potential_customer_id\": \"1\",\n    \"channel\": \"email\",\n    \"message_subject\": \"Test batch messaging\",\n    \"message_body\": \"Test batch messaging batch...\",\n    \"recipient_status\": \"active\"\n}",
+											"raw": "{\n    \"batch_id\": \"2\",\n    \"potential_customer_id\": \"1\",\n    \"channel\": \"email\",\n    \"subject\": \"Test batch messaging\",\n    \"message_body\": \"Test batch messaging batch...\",\n    \"recipient_status\": \"active\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
