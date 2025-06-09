@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Granite Ball",
-    "description": "Atque ex neque nostrum ex non eligendi. Possimus qui nam nisi qui inventore non maiores quibusdam blanditiis. Adipisci voluptas animi officia quia. Perferendis quis aut esse enim. Quia quod illo deserunt ducimus est enim voluptas. Architecto nihil harum omnis maiores similique eaque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

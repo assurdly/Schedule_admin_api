@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://reynold.org",
+    "api_key": "p",
+    "secret_key": "9",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "8",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "8a1dae4f-57d4-4393-b292-4ba6052de2c3",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749458772"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

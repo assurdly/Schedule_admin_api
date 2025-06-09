@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Frozen Car",
+    "description": "Nam accusantium expedita qui voluptatem illum velit. Ea ipsa doloremque. Facere facilis quam laboriosam accusamus rerum. Molestiae qui quis incidunt dolores et distinctio est aperiam et.",
+    "icon_url": "http://placeimg.com/640/480"
+}

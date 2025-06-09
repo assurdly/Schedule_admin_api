@@ -1,6 +1,0 @@
-{
-    "name": "Ergonomic Fresh Chicken",
-    "description": "Voluptas ipsa autem et quis qui nam ad ducimus molestias. Unde voluptas eveniet et et officiis dolores necessitatibus repudiandae quae. Nemo rerum aut esse.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

@@ -1,0 +1,20 @@
+{
+    "name": "Herzog - Nienow",
+    "base_url": "https://rhiannon.com",
+    "api_key": "v",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "378",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "d395cc89-512d-419a-8308-4d687e34f70d",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749458772"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
