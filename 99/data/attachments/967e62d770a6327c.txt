@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Concrete Cheese",
-    "description": "Totam aut minima veniam mollitia omnis dolorum. Vel et voluptatem. Expedita omnis quis dolore occaecati perferendis veritatis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

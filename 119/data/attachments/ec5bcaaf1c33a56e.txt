@@ -1,0 +1,20 @@
+{
+    "name": "Ergonomic Plastic Sausages",
+    "base_url": "",
+    "api_key": "6",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "682",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "854e9d94-60c1-4452-be85-0356ee62351f",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749491038"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
