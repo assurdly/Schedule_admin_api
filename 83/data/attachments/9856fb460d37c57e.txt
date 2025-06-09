@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Fresh Mouse",
+    "description": "Voluptatem dolores illo accusantium. Magnam aliquid iusto. Aliquid sed id.",
+    "icon_url": "http://placeimg.com/640/480"
+}
