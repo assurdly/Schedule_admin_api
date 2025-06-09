@@ -1,0 +1,6 @@
+{
+    "name": "Gorgeous Fresh Bike",
+    "description": "Voluptates est enim. Voluptatem non deserunt omnis voluptas dolor quis non debitis soluta. Molestiae sint sint sapiente eum ipsa quo nam qui dolore. Voluptatem quaerat modi error illo qui aliquid sapiente et. Hic et nesciunt facere veritatis nesciunt ut facilis ullam.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

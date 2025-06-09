@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Concrete Cheese",
-    "description": "Laboriosam dolorem similique architecto necessitatibus mollitia sit. Maxime dolore nam ex nobis. Aut consequuntur sed et unde consequatur quasi illum. Iusto architecto in. Inventore natus consequatur beatae.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Small Plastic Keyboard",
+    "description": "Molestias est animi ut. Iure laborum dolore laboriosam dolorem velit quia. Veniam ab in illo. Dolore maxime eaque laboriosam assumenda rerum corrupti modi est. Quibusdam et vero.",
+    "icon_url": "http://placeimg.com/640/480"
+}

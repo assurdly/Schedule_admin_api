@@ -1,6 +1,0 @@
-{
-    "name": "Handcrafted Wooden Chicken",
-    "description": "Id et in qui voluptatem eveniet mollitia. Aut dolorum quia qui nesciunt aperiam accusantium eos consequatur laboriosam. Est accusantium molestias rerum modi hic enim officiis iste. Culpa ratione in quibusdam in voluptas aliquam corporis minus. Distinctio suscipit saepe quasi aut vel.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
