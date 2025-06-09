@@ -20093,6 +20093,30 @@
 								},
 								{
 									"name": "Delete Promotion - Invalid ID",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "19752de6-8a69-45ad-9f02-b555cd268aeb",
+												"exec": [
+													"const jsonData = pm.response.json();\r",
+													"\r",
+													"pm.test('response code should be 404', function () {\r",
+													" pm.response.to.have.status(404);\r",
+													"});\r",
+													"\r",
+													"pm.test('Validate response structure', function () {\r",
+													" pm.expect(jsonData).to.be.an('object');\r",
+													" pm.expect(jsonData).to.have.property('status').that.equals('error');\r",
+													" pm.expect(jsonData).to.have.property('message').that.equals('Promotion not found');\r",
+													"});\r",
+													""
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
 									"id": "ef70f85e-47b2-4ab2-92b4-9375b6686123",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
@@ -20122,9 +20146,8 @@
 											],
 											"variable": [
 												{
-													"id": "b9ac2cb4-1fc2-4cea-a66f-3b9b23c65848",
 													"key": "id",
-													"value": "1"
+													"value": "100"
 												}
 											]
 										}
@@ -20251,6 +20274,27 @@
 								},
 								{
 									"name": "Delete Promotion - Invalid Auth Token",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "c9398112-67b2-437b-bb2a-18289cf97ea9",
+												"exec": [
+													"const jsonData = pm.response.json();\r",
+													"\r",
+													"pm.test(\"Status code is 401\", function () {\r",
+													"    pm.response.to.have.status(401);\r",
+													"});\r",
+													"\r",
+													"pm.test(\"Response body contains error message\", function () {\r",
+													"    pm.expect(jsonData.message).to.exist;\r",
+													"});"
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
 									"id": "19726fc2-7c01-424a-9ba0-7ef565f5df97",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
@@ -20259,7 +20303,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{admin_access_token}}"
+												"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidHlwZSI6ImF1dGgiLCJpYXQiOjE3NDk0NjIyMjQsImV4cCI6MTc0OTQ2NTgyNH0.Yi2ADzsW4w3-0cUq4bsBGglriHNlYoVSPsj7vWGpGCU"
 											}
 										},
 										"method": "DELETE",
@@ -20280,7 +20324,6 @@
 											],
 											"variable": [
 												{
-													"id": "b9ac2cb4-1fc2-4cea-a66f-3b9b23c65848",
 													"key": "id",
 													"value": "1"
 												}
@@ -20408,17 +20451,35 @@
 									]
 								},
 								{
-									"name": "Delete Promotion - Invalid Auth Token Copy",
+									"name": "Delete Promotion - No Auth Token",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "7ca4659f-f3ae-46f6-ad79-5bdc64a37c2d",
+												"exec": [
+													"const jsonData = pm.response.json();\r",
+													"\r",
+													"pm.test(\"Status code is 401\", function () {\r",
+													"    pm.response.to.have.status(401);\r",
+													"});\r",
+													"\r",
+													"pm.test(\"Response body contains error message\", function () {\r",
+													"    pm.expect(jsonData.message).to.exist;\r",
+													"});"
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
 									"id": "f5dffa1c-ad03-46b0-8635-5c699eb24857",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
 									"request": {
 										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
+											"type": "noauth"
 										},
 										"method": "DELETE",
 										"header": [],
@@ -20438,7 +20499,6 @@
 											],
 											"variable": [
 												{
-													"id": "b9ac2cb4-1fc2-4cea-a66f-3b9b23c65848",
 													"key": "id",
 													"value": "1"
 												}
@@ -20570,106 +20630,6 @@
 						}
 					],
 					"id": "8889b955-efb5-499b-8b43-7a91a3975934"
-				},
-				{
-					"name": "Subscriptions",
-					"item": [
-						{
-							"name": "Get Subscriptions",
-							"item": [
-								{
-									"name": "Get Subscriptions",
-									"id": "4f019bc2-e909-4806-9528-28b429e62086",
-									"protocolProfileBehavior": {
-										"disableBodyPruning": true
-									},
-									"request": {
-										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{admin_access_token}}"
-											}
-										},
-										"method": "GET",
-										"header": [],
-										"url": {
-											"raw": "{{base_url}}/admin/subscriptions",
-											"host": [
-												"{{base_url}}"
-											],
-											"path": [
-												"admin",
-												"subscriptions"
-											],
-											"query": [
-												{
-													"key": "limit",
-													"value": "3",
-													"disabled": true
-												},
-												{
-													"key": "page",
-													"value": "1",
-													"disabled": true
-												},
-												{
-													"key": "search",
-													"value": "critical",
-													"disabled": true
-												},
-												{
-													"key": "search_fields",
-													"value": "name",
-													"disabled": true
-												},
-												{
-													"key": "start_date",
-													"value": "2025-05-02",
-													"type": "text",
-													"disabled": true
-												},
-												{
-													"key": "end_date",
-													"value": "2025-05-03",
-													"type": "text",
-													"disabled": true
-												}
-											]
-										}
-									},
-									"response": [
-										{
-											"id": "35faed00-85df-4245-b92b-acca8f4f10bd",
-											"name": "Get Subscriptions",
-											"originalRequest": {
-												"method": "GET",
-												"header": [],
-												"url": "{{base_url}}/admin/subscriptions"
-											},
-											"_postman_previewlanguage": "json",
-											"header": [
-												{
-													"key": "Content-Type",
-													"value": "application/json",
-													"description": "",
-													"type": "text"
-												}
-											],
-											"cookie": [
-												{
-													"expires": "Invalid Date"
-												}
-											],
-											"responseTime": null,
-											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": {\n        \"data\": [\n            {\n                \"id\": 5,\n                \"amount\": \"100.00\",\n                \"status\": \"requested\",\n                \"frequency\": \"daily\",\n                \"start_date\": \"2025-06-01\",\n                \"end_date\": \"2026-04-10\",\n                \"bank_code\": \"070\",\n                \"account_number\": \"0000000000\",\n                \"reference\": \"RC1999999/9999/9999999999\",\n                \"currency\": \"NGN\",\n                \"customer_id\": 1,\n                \"product_group_id\": 2,\n                \"product_id\": 2,\n                \"meta\": {\n                    \"data\": {\n                        \"error\": null,\n                        \"errors\": null,\n                        \"provider\": \"PaywithAccount\",\n                        \"client_info\": {\n                            \"id\": null,\n                            \"meta\": null,\n                            \"name\": null,\n                            \"colors\": null,\n                            \"css_url\": null,\n                            \"options\": null,\n                            \"logo_url\": null,\n                            \"merchant\": null,\n                            \"paginate\": false,\n                            \"bank_name\": null,\n                            \"console_url\": null,\n                            \"footer_text\": null,\n                            \"bank_cbn_code\": null,\n                            \"paginate_count\": 0,\n                            \"show_options_icon\": false,\n                            \"js_background_image\": null\n                        },\n                        \"provider_response\": {\n                            \"meta\": {\n                                \"ussd_code\": null,\n                                \"payment_id\": 9999,\n                                \"activation_url\": \"https://paywithaccount.link/876d1\",\n                                \"virtual_account_name\": \"PWT - Demo Business\",\n                                \"virtual_account_number\": \"4567891011\",\n                                \"virtual_account_status\": \"active\",\n                                \"virtual_account_bank_code\": \"070\",\n                                \"virtual_account_bank_name\": \"Fidelity\",\n                                \"virtual_account_expiry_date\": \"2099-12-31 18:04:00\"\n                            },\n                            \"status\": \"REQUESTED\",\n                            \"bank_code\": \"070\",\n                            \"reference\": \"RC1999999/9999/9999999999\",\n                            \"created_on\": \"2025-05-30 00:58:00\",\n                            \"currency_code\": \"NGN\",\n                            \"account_number\": \"0000000000\",\n                            \"customer_email\": \"l.adeosun.la+1@gmail.com\"\n                        },\n                        \"provider_response_code\": \"00\"\n                    },\n                    \"status\": \"Processing\",\n                    \"message\": \"Kindly follow the instructions sent to you via SMS and Email to complete payment\"\n                },\n                \"created_on\": \"2025-05-30 00:58:57\",\n                \"created_by\": null,\n                \"modified_on\": \"2025-05-30 00:58:57\",\n                \"modified_by\": null,\n                \"deleted_flag\": 0,\n                \"deleted_by\": null,\n                \"product_group\": {\n                    \"id\": 2,\n                    \"meta\": {\n                        \"data\": {\n                            \"error\": null,\n                            \"errors\": null,\n                            \"provider\": \"PaywithAccount\",\n                            \"client_info\": {\n                                \"id\": null,\n                                \"meta\": null,\n                                \"name\": null,\n                                \"colors\": null,\n                                \"css_url\": null,\n                                \"options\": null,\n                                \"logo_url\": null,\n                                \"merchant\": null,\n                                \"paginate\": false,\n                                \"bank_name\": null,\n                                \"console_url\": null,\n                                \"footer_text\": null,\n                                \"bank_cbn_code\": null,\n                                \"paginate_count\": 0,\n                                \"show_options_icon\": false,\n                                \"js_background_image\": null\n                            },\n                            \"provider_response\": {\n                                \"meta\": {\n                                    \"biller_code\": \"000003\"\n                                },\n                                \"status\": \"ACTIVE\",\n                                \"bank_code\": \"070\",\n                                \"bank_name\": null,\n                                \"reference\": \"TXN_SCHDL20250507_119118b0\",\n                                \"created_on\": \"2025-05-07 05:23:00\",\n                                \"account_name\": \"MTNDataSoft\",\n                                \"account_type\": null,\n                                \"contract_code\": null,\n                                \"currency_code\": \"NGN\",\n                                \"account_number\": \"9020022570\",\n                                \"customer_email\": \"paywithaccountMTNDataSoft@onepipe.io\",\n                                \"account_reference\": \"TXN_SCHDL20250507_119118b0\"\n                            },\n                            \"provider_response_code\": \"00\"\n                        },\n                        \"status\": \"Successful\",\n                        \"message\": \"Transaction processed successfully\"\n                    },\n                    \"name\": \"MTNDataSoft\",\n                    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n                    \"status\": \"pending\",\n                    \"short_name\": \"MTN utilities\",\n                    \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n                    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n                    \"biller_code\": \"000003\",\n                    \"category_id\": 1,\n                    \"created_on\": \"2025-05-07 05:23:12\",\n                    \"created_by\": null,\n                    \"modified_on\": \"2025-05-07 05:23:12\",\n                    \"modified_by\": null,\n                    \"deleted_flag\": 0,\n                    \"deleted_by\": null,\n                    \"aggregator_id\": null\n                }\n            },\n            {\n                \"id\": 4,\n                \"amount\": \"100.00\",\n                \"status\": \"requested\",\n                \"frequency\": \"daily\",\n                \"start_date\": \"2025-06-01\",\n                \"end_date\": \"2026-12-01\",\n                \"bank_code\": \"070\",\n                \"account_number\": \"0000000000\",\n                \"reference\": \"RC1999999/9999/9999999999\",\n                \"currency\": \"NGN\",\n                \"customer_id\": 1,\n                \"product_group_id\": 2,\n                \"product_id\": 2,\n                \"meta\": {\n                    \"data\": {\n                        \"error\": null,\n                        \"errors\": null,\n                        \"provider\": \"PaywithAccount\",\n                        \"client_info\": {\n                            \"id\": null,\n                            \"meta\": null,\n                            \"name\": null,\n                            \"colors\": null,\n                            \"css_url\": null,\n                            \"options\": null,\n                            \"logo_url\": null,\n                            \"merchant\": null,\n                            \"paginate\": false,\n                            \"bank_name\": null,\n                            \"console_url\": null,\n                            \"footer_text\": null,\n                            \"bank_cbn_code\": null,\n                            \"paginate_count\": 0,\n                            \"show_options_icon\": false,\n                            \"js_background_image\": null\n                        },\n                        \"provider_response\": {\n                            \"meta\": {\n                                \"ussd_code\": null,\n                                \"payment_id\": 9999,\n                                \"activation_url\": \"https://paywithaccount.link/876d1\",\n                                \"virtual_account_name\": \"PWT - Demo Business\",\n                                \"virtual_account_number\": \"4567891011\",\n                                \"virtual_account_status\": \"active\",\n                                \"virtual_account_bank_code\": \"070\",\n                                \"virtual_account_bank_name\": \"Fidelity\",\n                                \"virtual_account_expiry_date\": \"2099-12-31 18:04:00\"\n                            },\n                            \"status\": \"REQUESTED\",\n                            \"bank_code\": \"070\",\n                            \"reference\": \"RC1999999/9999/9999999999\",\n                            \"created_on\": \"2025-05-30 00:53:00\",\n                            \"currency_code\": \"NGN\",\n                            \"account_number\": \"0000000000\",\n                            \"customer_email\": \"l.adeosun.la+1@gmail.com\"\n                        },\n                        \"provider_response_code\": \"00\"\n                    },\n                    \"status\": \"Processing\",\n                    \"message\": \"Kindly follow the instructions sent to you via SMS and Email to complete payment\"\n                },\n                \"created_on\": \"2025-05-30 00:53:59\",\n                \"created_by\": null,\n                \"modified_on\": \"2025-05-30 00:53:59\",\n                \"modified_by\": null,\n                \"deleted_flag\": 0,\n                \"deleted_by\": null,\n                \"product_group\": {\n                    \"id\": 2,\n                    \"meta\": {\n                        \"data\": {\n                            \"error\": null,\n                            \"errors\": null,\n                            \"provider\": \"PaywithAccount\",\n                            \"client_info\": {\n                                \"id\": null,\n                                \"meta\": null,\n                                \"name\": null,\n                                \"colors\": null,\n                                \"css_url\": null,\n                                \"options\": null,\n                                \"logo_url\": null,\n                                \"merchant\": null,\n                                \"paginate\": false,\n                                \"bank_name\": null,\n                                \"console_url\": null,\n                                \"footer_text\": null,\n                                \"bank_cbn_code\": null,\n                                \"paginate_count\": 0,\n                                \"show_options_icon\": false,\n                                \"js_background_image\": null\n                            },\n                            \"provider_response\": {\n                                \"meta\": {\n                                    \"biller_code\": \"000003\"\n                                },\n                                \"status\": \"ACTIVE\",\n                                \"bank_code\": \"070\",\n                                \"bank_name\": null,\n                                \"reference\": \"TXN_SCHDL20250507_119118b0\",\n                                \"created_on\": \"2025-05-07 05:23:00\",\n                                \"account_name\": \"MTNDataSoft\",\n                                \"account_type\": null,\n                                \"contract_code\": null,\n                                \"currency_code\": \"NGN\",\n                                \"account_number\": \"9020022570\",\n                                \"customer_email\": \"paywithaccountMTNDataSoft@onepipe.io\",\n                                \"account_reference\": \"TXN_SCHDL20250507_119118b0\"\n                            },\n                            \"provider_response_code\": \"00\"\n                        },\n                        \"status\": \"Successful\",\n                        \"message\": \"Transaction processed successfully\"\n                    },\n                    \"name\": \"MTNDataSoft\",\n                    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n                    \"status\": \"pending\",\n                    \"short_name\": \"MTN utilities\",\n                    \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n                    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n                    \"biller_code\": \"000003\",\n                    \"category_id\": 1,\n                    \"created_on\": \"2025-05-07 05:23:12\",\n                    \"created_by\": null,\n                    \"modified_on\": \"2025-05-07 05:23:12\",\n                    \"modified_by\": null,\n                    \"deleted_flag\": 0,\n                    \"deleted_by\": null,\n                    \"aggregator_id\": null\n                }\n            },\n            {\n                \"id\": 3,\n                \"amount\": \"100.00\",\n                \"status\": \"requested\",\n                \"frequency\": \"daily\",\n                \"start_date\": \"2025-06-01\",\n                \"end_date\": \"2026-12-01\",\n                \"bank_code\": \"070\",\n                \"account_number\": \"0000000000\",\n                \"reference\": \"RC1999999/9999/9999999999\",\n                \"currency\": \"NGN\",\n                \"customer_id\": 1,\n                \"product_group_id\": 2,\n                \"product_id\": 2,\n                \"meta\": {\n                    \"data\": {\n                        \"error\": null,\n                        \"errors\": null,\n                        \"provider\": \"PaywithAccount\",\n                        \"client_info\": {\n                            \"id\": null,\n                            \"meta\": null,\n                            \"name\": null,\n                            \"colors\": null,\n                            \"css_url\": null,\n                            \"options\": null,\n                            \"logo_url\": null,\n                            \"merchant\": null,\n                            \"paginate\": false,\n                            \"bank_name\": null,\n                            \"console_url\": null,\n                            \"footer_text\": null,\n                            \"bank_cbn_code\": null,\n                            \"paginate_count\": 0,\n                            \"show_options_icon\": false,\n                            \"js_background_image\": null\n                        },\n                        \"provider_response\": {\n                            \"meta\": {\n                                \"ussd_code\": null,\n                                \"payment_id\": 9999,\n                                \"activation_url\": \"https://paywithaccount.link/876d1\",\n                                \"virtual_account_name\": \"PWT - Demo Business\",\n                                \"virtual_account_number\": \"4567891011\",\n                                \"virtual_account_status\": \"active\",\n                                \"virtual_account_bank_code\": \"070\",\n                                \"virtual_account_bank_name\": \"Fidelity\",\n                                \"virtual_account_expiry_date\": \"2099-12-31 18:04:00\"\n                            },\n                            \"status\": \"REQUESTED\",\n                            \"bank_code\": \"070\",\n                            \"reference\": \"RC1999999/9999/9999999999\",\n                            \"created_on\": \"2025-05-30 00:49:00\",\n                            \"currency_code\": \"NGN\",\n                            \"account_number\": \"0000000000\",\n                            \"customer_email\": \"l.adeosun.la+1@gmail.com\"\n                        },\n                        \"provider_response_code\": \"00\"\n                    },\n                    \"status\": \"Processing\",\n                    \"message\": \"Kindly follow the instructions sent to you via SMS and Email to complete payment\"\n                },\n                \"created_on\": \"2025-05-30 00:49:12\",\n                \"created_by\": null,\n                \"modified_on\": \"2025-05-30 00:49:12\",\n                \"modified_by\": null,\n                \"deleted_flag\": 0,\n                \"deleted_by\": null,\n                \"product_group\": {\n                    \"id\": 2,\n                    \"meta\": {\n                        \"data\": {\n                            \"error\": null,\n                            \"errors\": null,\n                            \"provider\": \"PaywithAccount\",\n                            \"client_info\": {\n                                \"id\": null,\n                                \"meta\": null,\n                                \"name\": null,\n                                \"colors\": null,\n                                \"css_url\": null,\n                                \"options\": null,\n                                \"logo_url\": null,\n                                \"merchant\": null,\n                                \"paginate\": false,\n                                \"bank_name\": null,\n                                \"console_url\": null,\n                                \"footer_text\": null,\n                                \"bank_cbn_code\": null,\n                                \"paginate_count\": 0,\n                                \"show_options_icon\": false,\n                                \"js_background_image\": null\n                            },\n                            \"provider_response\": {\n                                \"meta\": {\n                                    \"biller_code\": \"000003\"\n                                },\n                                \"status\": \"ACTIVE\",\n                                \"bank_code\": \"070\",\n                                \"bank_name\": null,\n                                \"reference\": \"TXN_SCHDL20250507_119118b0\",\n                                \"created_on\": \"2025-05-07 05:23:00\",\n                                \"account_name\": \"MTNDataSoft\",\n                                \"account_type\": null,\n                                \"contract_code\": null,\n                                \"currency_code\": \"NGN\",\n                                \"account_number\": \"9020022570\",\n                                \"customer_email\": \"paywithaccountMTNDataSoft@onepipe.io\",\n                                \"account_reference\": \"TXN_SCHDL20250507_119118b0\"\n                            },\n                            \"provider_response_code\": \"00\"\n                        },\n                        \"status\": \"Successful\",\n                        \"message\": \"Transaction processed successfully\"\n                    },\n                    \"name\": \"MTNDataSoft\",\n                    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n                    \"status\": \"pending\",\n                    \"short_name\": \"MTN utilities\",\n                    \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n                    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n                    \"biller_code\": \"000003\",\n                    \"category_id\": 1,\n                    \"created_on\": \"2025-05-07 05:23:12\",\n                    \"created_by\": null,\n                    \"modified_on\": \"2025-05-07 05:23:12\",\n                    \"modified_by\": null,\n                    \"deleted_flag\": 0,\n                    \"deleted_by\": null,\n                    \"aggregator_id\": null\n                }\n            },\n            {\n                \"id\": 2,\n                \"amount\": \"100.00\",\n                \"status\": \"requested\",\n                \"frequency\": \"daily\",\n                \"start_date\": \"2025-06-01\",\n                \"end_date\": \"2026-12-01\",\n                \"bank_code\": \"070\",\n                \"account_number\": \"0000000000\",\n                \"reference\": \"RC1999999/9999/9999999999\",\n                \"currency\": \"NGN\",\n                \"customer_id\": 1,\n                \"product_group_id\": 2,\n                \"product_id\": 2,\n                \"meta\": {\n                    \"data\": {\n                        \"error\": null,\n                        \"errors\": null,\n                        \"provider\": \"PaywithAccount\",\n                        \"client_info\": {\n                            \"id\": null,\n                            \"meta\": null,\n                            \"name\": null,\n                            \"colors\": null,\n                            \"css_url\": null,\n                            \"options\": null,\n                            \"logo_url\": null,\n                            \"merchant\": null,\n                            \"paginate\": false,\n                            \"bank_name\": null,\n                            \"console_url\": null,\n                            \"footer_text\": null,\n                            \"bank_cbn_code\": null,\n                            \"paginate_count\": 0,\n                            \"show_options_icon\": false,\n                            \"js_background_image\": null\n                        },\n                        \"provider_response\": {\n                            \"meta\": {\n                                \"ussd_code\": null,\n                                \"payment_id\": 9999,\n                                \"activation_url\": \"https://paywithaccount.link/876d1\",\n                                \"virtual_account_name\": \"PWT - Demo Business\",\n                                \"virtual_account_number\": \"4567891011\",\n                                \"virtual_account_status\": \"active\",\n                                \"virtual_account_bank_code\": \"070\",\n                                \"virtual_account_bank_name\": \"Fidelity\",\n                                \"virtual_account_expiry_date\": \"2099-12-31 18:04:00\"\n                            },\n                            \"status\": \"REQUESTED\",\n                            \"bank_code\": \"070\",\n                            \"reference\": \"RC1999999/9999/9999999999\",\n                            \"created_on\": \"2025-05-29 05:25:00\",\n                            \"currency_code\": \"NGN\",\n                            \"account_number\": \"0000000000\",\n                            \"customer_email\": \"l.adeosun.la+1@gmail.com\"\n                        },\n                        \"provider_response_code\": \"00\"\n                    },\n                    \"status\": \"Processing\",\n                    \"message\": \"Kindly follow the instructions sent to you via SMS and Email to complete payment\"\n                },\n                \"created_on\": \"2025-05-29 05:25:05\",\n                \"created_by\": null,\n                \"modified_on\": \"2025-05-29 05:25:05\",\n                \"modified_by\": null,\n                \"deleted_flag\": 0,\n                \"deleted_by\": null,\n                \"product_group\": {\n                    \"id\": 2,\n                    \"meta\": {\n                        \"data\": {\n                            \"error\": null,\n                            \"errors\": null,\n                            \"provider\": \"PaywithAccount\",\n                            \"client_info\": {\n                                \"id\": null,\n                                \"meta\": null,\n                                \"name\": null,\n                                \"colors\": null,\n                                \"css_url\": null,\n                                \"options\": null,\n                                \"logo_url\": null,\n                                \"merchant\": null,\n                                \"paginate\": false,\n                                \"bank_name\": null,\n                                \"console_url\": null,\n                                \"footer_text\": null,\n                                \"bank_cbn_code\": null,\n                                \"paginate_count\": 0,\n                                \"show_options_icon\": false,\n                                \"js_background_image\": null\n                            },\n                            \"provider_response\": {\n                                \"meta\": {\n                                    \"biller_code\": \"000003\"\n                                },\n                                \"status\": \"ACTIVE\",\n                                \"bank_code\": \"070\",\n                                \"bank_name\": null,\n                                \"reference\": \"TXN_SCHDL20250507_119118b0\",\n                                \"created_on\": \"2025-05-07 05:23:00\",\n                                \"account_name\": \"MTNDataSoft\",\n                                \"account_type\": null,\n                                \"contract_code\": null,\n                                \"currency_code\": \"NGN\",\n                                \"account_number\": \"9020022570\",\n                                \"customer_email\": \"paywithaccountMTNDataSoft@onepipe.io\",\n                                \"account_reference\": \"TXN_SCHDL20250507_119118b0\"\n                            },\n                            \"provider_response_code\": \"00\"\n                        },\n                        \"status\": \"Successful\",\n                        \"message\": \"Transaction processed successfully\"\n                    },\n                    \"name\": \"MTNDataSoft\",\n                    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n                    \"status\": \"pending\",\n                    \"short_name\": \"MTN utilities\",\n                    \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n                    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n                    \"biller_code\": \"000003\",\n                    \"category_id\": 1,\n                    \"created_on\": \"2025-05-07 05:23:12\",\n                    \"created_by\": null,\n                    \"modified_on\": \"2025-05-07 05:23:12\",\n                    \"modified_by\": null,\n                    \"deleted_flag\": 0,\n                    \"deleted_by\": null,\n                    \"aggregator_id\": null\n                }\n            },\n            {\n                \"id\": 1,\n                \"amount\": \"100.00\",\n                \"status\": \"requested\",\n                \"frequency\": \"daily\",\n                \"start_date\": \"2025-06-01\",\n                \"end_date\": \"2026-12-01\",\n                \"bank_code\": \"070\",\n                \"account_number\": \"0000000000\",\n                \"reference\": \"RC1999999/9999/9999999999\",\n                \"currency\": \"NGN\",\n                \"customer_id\": 1,\n                \"product_group_id\": 2,\n                \"product_id\": 2,\n                \"meta\": {\n                    \"data\": {\n                        \"error\": null,\n                        \"errors\": null,\n                        \"provider\": \"PaywithAccount\",\n                        \"client_info\": {\n                            \"id\": null,\n                            \"meta\": null,\n                            \"name\": null,\n                            \"colors\": null,\n                            \"css_url\": null,\n                            \"options\": null,\n                            \"logo_url\": null,\n                            \"merchant\": null,\n                            \"paginate\": false,\n                            \"bank_name\": null,\n                            \"console_url\": null,\n                            \"footer_text\": null,\n                            \"bank_cbn_code\": null,\n                            \"paginate_count\": 0,\n                            \"show_options_icon\": false,\n                            \"js_background_image\": null\n                        },\n                        \"provider_response\": {\n                            \"meta\": {\n                                \"ussd_code\": null,\n                                \"payment_id\": 9999,\n                                \"activation_url\": \"https://paywithaccount.link/876d1\",\n                                \"virtual_account_name\": \"PWT - Demo Business\",\n                                \"virtual_account_number\": \"4567891011\",\n                                \"virtual_account_status\": \"active\",\n                                \"virtual_account_bank_code\": \"070\",\n                                \"virtual_account_bank_name\": \"Fidelity\",\n                                \"virtual_account_expiry_date\": \"2099-12-31 18:04:00\"\n                            },\n                            \"status\": \"REQUESTED\",\n                            \"bank_code\": \"070\",\n                            \"reference\": \"RC1999999/9999/9999999999\",\n                            \"created_on\": \"2025-05-29 05:22:00\",\n                            \"currency_code\": \"NGN\",\n                            \"account_number\": \"0000000000\",\n                            \"customer_email\": \"l.adeosun.la+1@gmail.com\"\n                        },\n                        \"provider_response_code\": \"00\"\n                    },\n                    \"status\": \"Processing\",\n                    \"message\": \"Kindly follow the instructions sent to you via SMS and Email to complete payment\"\n                },\n                \"created_on\": \"2025-05-29 05:22:37\",\n                \"created_by\": null,\n                \"modified_on\": \"2025-05-29 05:22:37\",\n                \"modified_by\": null,\n                \"deleted_flag\": 0,\n                \"deleted_by\": null,\n                \"product_group\": {\n                    \"id\": 2,\n                    \"meta\": {\n                        \"data\": {\n                            \"error\": null,\n                            \"errors\": null,\n                            \"provider\": \"PaywithAccount\",\n                            \"client_info\": {\n                                \"id\": null,\n                                \"meta\": null,\n                                \"name\": null,\n                                \"colors\": null,\n                                \"css_url\": null,\n                                \"options\": null,\n                                \"logo_url\": null,\n                                \"merchant\": null,\n                                \"paginate\": false,\n                                \"bank_name\": null,\n                                \"console_url\": null,\n                                \"footer_text\": null,\n                                \"bank_cbn_code\": null,\n                                \"paginate_count\": 0,\n                                \"show_options_icon\": false,\n                                \"js_background_image\": null\n                            },\n                            \"provider_response\": {\n                                \"meta\": {\n                                    \"biller_code\": \"000003\"\n                                },\n                                \"status\": \"ACTIVE\",\n                                \"bank_code\": \"070\",\n                                \"bank_name\": null,\n                                \"reference\": \"TXN_SCHDL20250507_119118b0\",\n                                \"created_on\": \"2025-05-07 05:23:00\",\n                                \"account_name\": \"MTNDataSoft\",\n                                \"account_type\": null,\n                                \"contract_code\": null,\n                                \"currency_code\": \"NGN\",\n                                \"account_number\": \"9020022570\",\n                                \"customer_email\": \"paywithaccountMTNDataSoft@onepipe.io\",\n                                \"account_reference\": \"TXN_SCHDL20250507_119118b0\"\n                            },\n                            \"provider_response_code\": \"00\"\n                        },\n                        \"status\": \"Successful\",\n                        \"message\": \"Transaction processed successfully\"\n                    },\n                    \"name\": \"MTNDataSoft\",\n                    \"description\": \"Group for utility-related products like electricity, water, and internet.\",\n                    \"status\": \"pending\",\n                    \"short_name\": \"MTN utilities\",\n                    \"webhook_url\": \"https://api-pwaschedule.bits.dev.onepipe.io/v1/webhook/biller\",\n                    \"icon_url\": \"https://cdn.example.com/icons/utilities.svg\",\n                    \"biller_code\": \"000003\",\n                    \"category_id\": 1,\n                    \"created_on\": \"2025-05-07 05:23:12\",\n                    \"created_by\": null,\n                    \"modified_on\": \"2025-05-07 05:23:12\",\n                    \"modified_by\": null,\n                    \"deleted_flag\": 0,\n                    \"deleted_by\": null,\n                    \"aggregator_id\": null\n                }\n            }\n        ],\n        \"meta\": {\n            \"records\": 5,\n            \"page\": 1,\n            \"pages\": 1,\n            \"page_size\": 10\n        }\n    }\n}"
-										}
-									]
-								}
-							],
-							"id": "fe3fda4a-48a7-4a6f-af52-f8bd42b29e1c"
-						}
-					],
-					"id": "87e3a791-8665-4447-9ebe-454161b8f49c"
 				}
 			],
 			"id": "2561c0e4-e090-42d3-8178-b8a4f9f82b18"
