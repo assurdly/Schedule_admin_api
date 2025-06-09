@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Wooden Chair",
+    "description": "Minus iusto delectus dolor mollitia. Voluptatum maiores ut deleniti. Quia est porro distinctio atque nesciunt.",
+    "icon_url": "http://placeimg.com/640/480"
+}

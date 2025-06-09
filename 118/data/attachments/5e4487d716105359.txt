@@ -1,0 +1,20 @@
+{
+    "name": "Kertzmann - Lindgren",
+    "base_url": "http://lorenz.biz",
+    "api_key": "z",
+    "secret_key": "p",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "370",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "3b93eb5e-1ff5-44c5-935e-dc74e57a8394",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749490871"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

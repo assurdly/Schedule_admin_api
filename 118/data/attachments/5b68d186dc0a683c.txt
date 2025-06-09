@@ -1,0 +1,6 @@
+{
+    "name": "Gorgeous Rubber Gloves",
+    "description": "Nulla eum distinctio omnis accusantium excepturi sit vitae. Sint dicta facere vel. Et culpa in molestiae atque libero illo. Fuga quibusdam voluptates et quod quidem quos.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

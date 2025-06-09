@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://kavon.com",
+    "api_key": "8",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "719",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e6d302a9-fd42-4edc-8013-a56907d352f3",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749490872"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

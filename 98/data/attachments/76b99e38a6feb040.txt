@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Plastic Hat",
-    "description": "Quo at atque. Eius eos fugiat omnis dignissimos. Exercitationem cum atque cupiditate velit qui incidunt est voluptas eum. Doloremque quas est. Veritatis ut et dolores in exercitationem. Quasi eaque doloribus eum possimus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

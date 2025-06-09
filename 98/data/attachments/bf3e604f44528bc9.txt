@@ -1,6 +1,0 @@
-{
-    "name": "Ergonomic Cotton Chips",
-    "description": "Dolorum neque distinctio perspiciatis eveniet dolores laboriosam. Nihil omnis aut praesentium quis. Ex corrupti nihil ut voluptas nobis ab quis. Voluptatem eveniet aut voluptatem.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
