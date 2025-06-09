@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Cotton Sausages",
+    "description": "Quia velit voluptas ad doloremque dolores consequatur debitis est fugit. Et qui hic enim facere. Ipsam laboriosam sint porro quas ut cupiditate. Recusandae maiores soluta quia. Temporibus eos sed.",
+    "icon_url": "http://placeimg.com/640/480"
+}

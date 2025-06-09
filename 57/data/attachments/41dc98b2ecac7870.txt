@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Cotton Computer",
-    "description": "Qui dolorum sit quis possimus recusandae. Hic qui quasi culpa corporis. Dolore explicabo porro ex nam facere nesciunt dolorem. Voluptas et reiciendis ut porro. Saepe sed dolor ex numquam fugiat minima.",
-    "icon_url": "http://placeimg.com/640/480"
-}

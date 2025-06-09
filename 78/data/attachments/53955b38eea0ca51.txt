@@ -1,0 +1,20 @@
+{
+    "name": "Fantastic Fresh Towels",
+    "base_url": "",
+    "api_key": "l",
+    "secret_key": "6",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "214",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "bdd1afb7-1ec6-4ce9-a206-c0ba51294f1c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749458362"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

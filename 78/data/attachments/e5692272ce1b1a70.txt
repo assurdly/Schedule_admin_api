@@ -1,0 +1,6 @@
+{
+    "name": "Generic Soft Chair",
+    "description": "Consequuntur odio et ipsa. Aliquam dolores est excepturi aspernatur rerum minima. Illo soluta cumque.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Steel Pizza",
-    "description": "Dolorem quidem accusantium temporibus. Enim ea tenetur recusandae laudantium nihil possimus harum ex voluptatem. Tempore ut exercitationem ea. Asperiores porro itaque labore. Nihil temporibus quis sed natus.",
-    "icon_url": "http://placeimg.com/640/480"
-}
