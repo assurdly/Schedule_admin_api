@@ -1,0 +1,6 @@
+{
+    "name": "Handmade Plastic Soap",
+    "description": "Error ex ut reprehenderit et soluta enim quasi inventore et. Pariatur vel laboriosam et est suscipit autem cumque sint fugiat. Quia perspiciatis nihil aut occaecati quia enim ea maiores. Doloribus omnis quasi.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

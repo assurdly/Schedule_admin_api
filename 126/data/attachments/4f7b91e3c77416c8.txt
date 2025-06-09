@@ -1,0 +1,8 @@
+{
+    "batch_id": "2",
+    "potential_customer_id": "1",
+    "channel": "whatsapp",
+    "message_subject": "Test batch messaging",
+    "message_body": "Test batch messaging batch...",
+    "recipient_status": "active"
+}
