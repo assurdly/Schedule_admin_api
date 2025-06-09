@@ -1,0 +1,20 @@
+{
+    "name": "Practical Frozen Pizza",
+    "base_url": "",
+    "api_key": "9",
+    "secret_key": "m",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "660",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1b9809ef-56bf-4c2f-a780-dcf61df1e5d0",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749464184"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

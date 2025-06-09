@@ -1,0 +1,1 @@
+{"status":"success","message":"Customer retrieved successfully","data":{"id":7,"first_name":"","last_name":"","email":null,"phone_number":"09055755670","isVerified":false,"status":"inactive","transactions":[],"subscriptions":[]}}

@@ -1,0 +1,5 @@
+{
+    "name": "Practical Wooden Gloves",
+    "description": "Aperiam non porro ab rem et architecto explicabo voluptas placeat. Tempora iusto laboriosam eos cupiditate vitae aliquid. Sapiente quia provident ut nesciunt quia rerum. Id voluptatem doloribus temporibus dolore eius animi et. Rerum saepe nam iure.",
+    "icon_url": "http://placeimg.com/640/480"
+}

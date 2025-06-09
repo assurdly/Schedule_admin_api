@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Concrete Soap",
-    "description": "Blanditiis hic voluptates veniam aut in qui. Odit ipsa impedit ut alias recusandae. Sit aliquam ratione.",
-    "icon_url": "http://placeimg.com/640/480"
-}
