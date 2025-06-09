@@ -17548,6 +17548,133 @@
 								}
 							],
 							"id": "71d087f6-b70f-433f-b041-a90b36574f3c"
+						},
+						{
+							"name": "Get customer stats",
+							"item": [
+								{
+									"name": "Get Customers stats",
+									"id": "ab5d48af-025e-4295-99a9-7e3225859336",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "bearer",
+											"bearer": {
+												"token": "{{admin_access_token}}"
+											}
+										},
+										"method": "GET",
+										"header": [],
+										"url": "{{base_url}}/admin/customers/stats"
+									},
+									"response": [
+										{
+											"id": "99b8f8b8-00a9-42a8-b805-77d2a8e35d78",
+											"name": "Get Product stats",
+											"originalRequest": {
+												"method": "GET",
+												"header": [],
+												"url": "{{base_url}}/admin/customers/stats"
+											},
+											"status": "OK",
+											"code": 200,
+											"_postman_previewlanguage": "json",
+											"header": [
+												{
+													"key": "Access-Control-Allow-Origin",
+													"value": "*"
+												},
+												{
+													"key": "Access-Control-Allow-Credentials",
+													"value": "true"
+												},
+												{
+													"key": "Access-Control-Expose-Headers",
+													"value": "x-encryption-key,x-encryption-iv"
+												},
+												{
+													"key": "Content-Security-Policy",
+													"value": "default-src 'self';img-src 'self' data: blob: *;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests"
+												},
+												{
+													"key": "Cross-Origin-Opener-Policy",
+													"value": "same-origin"
+												},
+												{
+													"key": "Cross-Origin-Resource-Policy",
+													"value": "cross-origin"
+												},
+												{
+													"key": "X-DNS-Prefetch-Control",
+													"value": "off"
+												},
+												{
+													"key": "X-Frame-Options",
+													"value": "SAMEORIGIN"
+												},
+												{
+													"key": "Strict-Transport-Security",
+													"value": "max-age=15552000; includeSubDomains"
+												},
+												{
+													"key": "X-Download-Options",
+													"value": "noopen"
+												},
+												{
+													"key": "X-Content-Type-Options",
+													"value": "nosniff"
+												},
+												{
+													"key": "Origin-Agent-Cluster",
+													"value": "?1"
+												},
+												{
+													"key": "X-Permitted-Cross-Domain-Policies",
+													"value": "none"
+												},
+												{
+													"key": "Referrer-Policy",
+													"value": "no-referrer"
+												},
+												{
+													"key": "X-XSS-Protection",
+													"value": "0"
+												},
+												{
+													"key": "Content-Type",
+													"value": "application/json; charset=utf-8"
+												},
+												{
+													"key": "Content-Length",
+													"value": "112"
+												},
+												{
+													"key": "ETag",
+													"value": "W/\"70-zSDkjE96ccPA5MtMj5IR0fJsyVE\""
+												},
+												{
+													"key": "Date",
+													"value": "Thu, 05 Jun 2025 15:31:59 GMT"
+												},
+												{
+													"key": "Connection",
+													"value": "keep-alive"
+												},
+												{
+													"key": "Keep-Alive",
+													"value": "timeout=5"
+												}
+											],
+											"cookie": [],
+											"responseTime": null,
+											"body": "{\n    \"status\": \"success\",\n    \"message\": \"success\",\n    \"data\": [\n        {\n            \"status\": \"pending\",\n            \"count\": 1\n        },\n        {\n            \"status\": \"inactive\",\n            \"count\": 1\n        }\n    ]\n}"
+										}
+									]
+								}
+							],
+							"id": "ea662f87-ffad-49bb-b555-d1d52c439853"
 						}
 					],
 					"id": "1b2844b9-c683-4994-9413-606534738520"
