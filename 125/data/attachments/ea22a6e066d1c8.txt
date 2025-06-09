@@ -1,0 +1,20 @@
+{
+    "name": "Awesome Frozen Pizza",
+    "base_url": "",
+    "api_key": "h",
+    "secret_key": "o",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "289",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0f1c4682-b193-48e0-a3b1-47534c854895",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749495609"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

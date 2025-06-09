@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Wooden Chips",
-    "description": "Quis aut consequatur aut dolorum dolorum similique quisquam vitae. Fugiat enim asperiores eos non non nam quasi sit officia. Dolorem et aut maiores qui. Consequuntur voluptatibus molestiae quis eum ea at nisi expedita nemo.",
-    "icon_url": "http://placeimg.com/640/480"
-}

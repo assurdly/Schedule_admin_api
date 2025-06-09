@@ -1,0 +1,6 @@
+{
+    "name": "Rustic Cotton Keyboard",
+    "description": "Qui in dolorem minima ullam numquam tenetur dolorem nihil. Cumque quo quia quisquam. Id vel quis nobis consequatur cupiditate voluptatibus sapiente sit.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

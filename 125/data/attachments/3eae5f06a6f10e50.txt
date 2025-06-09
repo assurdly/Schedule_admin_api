@@ -1,0 +1,5 @@
+{
+    "name": "Refined Cotton Chair",
+    "description": "Quibusdam omnis eos sunt ut quisquam eaque. Quos eveniet maxime maxime in. Voluptatibus tempore vero rerum fuga earum necessitatibus. Quis qui magnam vel non corrupti accusantium. Iusto animi quibusdam in.",
+    "icon_url": "http://placeimg.com/640/480"
+}

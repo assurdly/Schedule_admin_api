@@ -1,5 +1,0 @@
-{
-    "name": "Practical Granite Ball",
-    "description": "Aut omnis soluta aut vel quis voluptates omnis. In dolores quibusdam cum iure quia sint non corrupti. Commodi nemo ratione at harum odit quas consequatur cupiditate ut. Rerum et omnis necessitatibus ea iste rerum molestias minus delectus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

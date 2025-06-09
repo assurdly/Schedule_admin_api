@@ -1,6 +1,0 @@
-{
-    "name": "Handmade Fresh Chicken",
-    "description": "Tempora eveniet minus aspernatur at velit ab velit qui perferendis. Temporibus atque quia provident culpa non. Et consectetur nisi in repellendus quidem assumenda sed eius labore.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

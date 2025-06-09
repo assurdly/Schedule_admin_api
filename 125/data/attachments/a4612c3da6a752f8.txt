@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Soft Soap",
+    "description": "Illum eius asperiores consectetur neque soluta inventore necessitatibus et. Dolorum enim qui. Saepe veniam sint laborum quia ut rerum. Praesentium ducimus rem qui commodi beatae voluptatem velit hic nihil. Neque aut nam hic quia aliquid. Est incidunt repudiandae facere aut.",
+    "icon_url": "http://placeimg.com/640/480"
+}
