@@ -1,6 +1,0 @@
-{
-    "name": "Handmade Plastic Chips",
-    "description": "Tempora omnis veniam sed. Qui facilis voluptas deleniti fuga eos dolore. Omnis quibusdam autem aspernatur et vitae minima. Animi fugiat cupiditate dolores iusto perspiciatis eaque inventore in earum. Ut nesciunt ducimus voluptatibus quibusdam.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Wooden Mouse",
-    "description": "Explicabo excepturi ut quia occaecati aut atque vitae est. Natus doloribus quis ea nesciunt fugiat dolores consectetur nostrum magnam. Asperiores officiis enim. Assumenda voluptas enim est. Qui minima aut reprehenderit sit velit velit rerum. Sint et quos officiis qui distinctio qui in et fuga.",
-    "icon_url": "http://placeimg.com/640/480"
-}

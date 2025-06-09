@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://wilburn.com",
+    "api_key": "u",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "650",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "25307ec0-bb1c-4ee3-8f88-7214301a1bdf",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749491427"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

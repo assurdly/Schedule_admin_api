@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://shaylee.name",
+    "api_key": "u",
+    "secret_key": "v",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "981",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "45938bb6-4a62-4fb3-8a2f-08bded079e3b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749491427"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

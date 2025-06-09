@@ -1,8 +1,0 @@
-{
-    "name": "MTNDataRest",
-    "short_name": "MTN utilities",
-    "description": "Maine",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}
