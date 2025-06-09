@@ -1,0 +1,5 @@
+{
+    "name": "Generic Cotton Fish",
+    "description": "Quos corporis molestiae odio iure et ratione mollitia. Maxime saepe et. Ratione vero nesciunt aut et exercitationem amet magnam reiciendis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

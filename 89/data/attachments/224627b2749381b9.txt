@@ -1,0 +1,20 @@
+{
+    "name": "Schmitt, Littel and Koss",
+    "base_url": "https://efrain.com",
+    "api_key": "s",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "106",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e4189abb-f471-4314-8a6c-aeea906a1eea",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749462191"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

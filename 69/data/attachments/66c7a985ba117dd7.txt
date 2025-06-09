@@ -1,6 +1,0 @@
-{
-    "name": "Generic Metal Pants",
-    "description": "Voluptatem minus ut occaecati et vitae. Autem eligendi ab vel. Ratione ea ullam repellendus voluptates qui nobis odio eum impedit. Culpa sed dolorum aut et. Eum officia corporis sint. Eos architecto ratione.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
