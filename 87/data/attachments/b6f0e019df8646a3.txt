@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://gianni.com",
+    "api_key": "l",
+    "secret_key": "n",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "435",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "28dfc87c-fa5d-4851-8402-1e1876b54dca",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749461791"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

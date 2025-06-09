@@ -1,0 +1,6 @@
+{
+    "name": "Ergonomic Cotton Chicken",
+    "description": "Unde esse sequi rem aut. Soluta ea et excepturi voluptates voluptatem optio. Soluta sint id quo rerum. Ullam ea earum.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

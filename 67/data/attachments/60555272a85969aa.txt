@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Soft Cheese",
-    "description": "Eum temporibus neque modi omnis voluptate eius id at velit. In magnam dolorum odio. Ut qui vel numquam iste iusto delectus. Et saepe autem omnis beatae necessitatibus accusamus suscipit aliquam. Similique officia ut tempore consectetur quis eos qui.",
-    "icon_url": "http://placeimg.com/640/480"
-}
