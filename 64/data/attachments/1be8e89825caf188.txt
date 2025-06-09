@@ -1,1 +1,0 @@
-{"status":"error","message":"GET /v1/admin/potential_customer_batches/:potential_customer_batch_id Not Found"}

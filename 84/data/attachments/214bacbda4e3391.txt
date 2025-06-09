@@ -1,0 +1,5 @@
+{
+    "name": "Rustic Cotton Tuna",
+    "description": "Neque inventore aut odit sit nesciunt quasi. Rem vel modi dicta dolorem odio. Deserunt eius omnis earum praesentium iusto quaerat. Consequatur magnam deserunt ut fugit cumque libero. Deserunt nisi assumenda dolores laborum dicta voluptas atque non eius. Nesciunt eveniet minus saepe voluptatem dolores non incidunt fugiat ducimus.",
+    "icon_url": "http://placeimg.com/640/480"
+}

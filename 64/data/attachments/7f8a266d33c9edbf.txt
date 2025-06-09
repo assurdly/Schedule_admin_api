@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Steel Computer",
-    "description": "Aperiam et aut ipsum at cumque repellendus quas consequatur facilis. Facilis facere voluptas vel ipsa aspernatur aut aut eum. Qui rerum possimus sit fugit consequatur laudantium quia qui blanditiis. Pariatur in consequatur quo eaque ratione. Deleniti neque quia iure.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Metal Tuna",
-    "description": "Odio id ab rerum similique nihil porro. Hic veritatis vitae autem id esse eveniet. Fugit ipsum doloribus cumque velit quam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

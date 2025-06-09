@@ -1,6 +1,0 @@
-{
-    "name": "Generic Plastic Mouse",
-    "description": "Veritatis optio ipsum. Sit ipsa molestiae nulla culpa et qui ipsam sunt. Distinctio quis non aperiam qui consequuntur. Ad unde repellat eos consequatur omnis.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
