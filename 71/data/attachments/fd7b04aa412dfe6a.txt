@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Rubber Shirt",
-    "description": "Voluptas omnis illo voluptatem. Nemo voluptate temporibus maxime id nihil qui. Officiis eos optio labore quo quisquam enim suscipit et consequatur. Quos eos laboriosam nesciunt quae in commodi sunt. Aut possimus dolor optio molestias sunt neque ipsam. Adipisci dolores illum praesentium quisquam qui a ut laudantium et.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Sleek Frozen Pants",
-    "description": "Fugiat quis voluptatem molestiae architecto quo sit perspiciatis id sed. Consequatur consequatur nisi. Sint maiores sunt est eos atque.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

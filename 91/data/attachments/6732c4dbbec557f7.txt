@@ -1,0 +1,6 @@
+{
+    "name": "Unbranded Soft Bacon",
+    "description": "Maxime iste praesentium eveniet eveniet architecto. Dolorum voluptas molestiae vel sunt expedita. Sed sed et voluptates velit rerum explicabo earum dolorem tenetur. Neque sit voluptas voluptatem aliquid magnam saepe enim sit. Reprehenderit culpa eius nobis voluptate repellendus autem totam. Dolorem numquam culpa qui vel voluptate veniam suscipit magni sed.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
