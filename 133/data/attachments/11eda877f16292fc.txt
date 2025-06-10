@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Wooden Pizza",
+    "description": "Ut eaque ipsum aperiam qui eligendi ducimus voluptas. Itaque labore qui aut accusamus sint eveniet doloremque. Nemo iure est quod aut.",
+    "icon_url": "http://placeimg.com/640/480"
+}

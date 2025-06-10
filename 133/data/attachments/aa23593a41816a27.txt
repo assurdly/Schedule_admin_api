@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Rubber Computer",
+    "description": "Quae molestiae aspernatur dolores et quis est id itaque. Minus quisquam magni sit incidunt facilis veritatis. Modi illo accusamus. Molestiae illo nemo quidem qui. Quaerat et non suscipit dignissimos et quod qui deleniti nostrum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Sleek Frozen Hat",
+    "base_url": "",
+    "api_key": "v",
+    "secret_key": "t",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "73",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "203f25a2-b0b6-4524-a1e8-cae9e17ace33",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749550434"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

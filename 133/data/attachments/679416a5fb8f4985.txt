@@ -1,0 +1,6 @@
+{
+    "name": "Handcrafted Granite Bacon",
+    "description": "Tempora rem ut consequatur aut enim. Corrupti amet distinctio voluptates et. Blanditiis sunt et adipisci minus consectetur tenetur numquam at voluptatem. Occaecati ut et cumque et facilis quod eveniet. Enim et molestiae consequatur aut dolor illo voluptatem delectus. Explicabo sit dignissimos veniam voluptates.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}
