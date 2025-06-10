@@ -1,6 +1,0 @@
-{
-    "name": "Ergonomic Frozen Hat",
-    "description": "Tempora est qui praesentium. Et et non eligendi ea qui aut nesciunt. Sed rem natus voluptatem asperiores et veritatis similique nam. Porro magni sed rerum placeat sed earum cupiditate. Id possimus et eligendi numquam et harum accusamus voluptas iusto.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

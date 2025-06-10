@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://joan.net",
+    "api_key": "z",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "489",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "40cd7703-35c5-46e5-999a-ef5d26990a9c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749551679"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

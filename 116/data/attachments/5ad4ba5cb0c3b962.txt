@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Steel Gloves",
-    "description": "Cum rerum molestias libero sunt. Itaque vero numquam quis. Ipsum nam voluptas ut voluptas fuga necessitatibus consequatur in.",
-    "icon_url": "http://placeimg.com/640/480"
-}

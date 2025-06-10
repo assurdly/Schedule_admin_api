@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://hannah.info",
+    "api_key": "z",
+    "secret_key": "b",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "500",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a29e98d5-9503-4fec-ad60-c6afa0e6bbf7",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749551678"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

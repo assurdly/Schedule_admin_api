@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://palma.net",
+    "api_key": "g",
+    "secret_key": "j",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "860",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1c407ac1-a8c5-4e36-be04-3bf86b54dee1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749551678"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
