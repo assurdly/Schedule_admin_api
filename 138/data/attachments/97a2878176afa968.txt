@@ -1,0 +1,6 @@
+{
+    "name": "Category Jeff",
+    "description": "Fugiat hic vitae sed sed maiores autem et mollitia. Aliquid rem quia soluta itaque sed autem in ea neque. Et accusamus vel exercitationem asperiores quia veritatis perspiciatis harum non. Ut similique consequuntur facilis quas ipsum aliquid impedit dolore minus.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

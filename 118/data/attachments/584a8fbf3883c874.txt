@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Wooden Ball",
-    "description": "Tempora laborum amet rerum est reprehenderit maxime id autem. Soluta est iusto suscipit nesciunt est est. Sint aut et aut vero occaecati ullam. Sunt eum unde autem facere ipsum sapiente et a. Iusto est quibusdam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

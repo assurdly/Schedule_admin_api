@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://karlie.net",
+    "api_key": "r",
+    "secret_key": "7",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "245",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "eac887e0-b8f8-4423-8a00-e776e095eaf6",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749570409"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
