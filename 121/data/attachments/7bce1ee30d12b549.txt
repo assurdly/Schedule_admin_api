@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Frozen Keyboard",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

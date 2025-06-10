@@ -1,5 +1,0 @@
-{
-    "name": "Generic Rubber Salad",
-    "description": "Nobis dolores similique modi enim veritatis magnam rerum dolorem odit. Eos repellendus voluptatem rerum labore accusantium magnam et consequuntur. In et temporibus dicta ad omnis. Dolorem aspernatur et est consequatur et ut explicabo vel quo. Natus tempora non.",
-    "icon_url": "http://placeimg.com/640/480"
-}

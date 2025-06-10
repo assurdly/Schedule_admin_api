@@ -1,6 +1,0 @@
-{
-    "name": "Small Frozen Towels",
-    "description": "Dolor aut quaerat et. Ullam qui non nesciunt suscipit possimus reprehenderit impedit iusto iusto. Quod necessitatibus rerum qui porro modi. Tempora nesciunt eius. Ad facilis provident qui commodi voluptatibus.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

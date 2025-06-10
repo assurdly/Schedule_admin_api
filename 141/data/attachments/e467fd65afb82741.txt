@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Metal Chair",
+    "description": "Qui quia nostrum sunt aspernatur. Assumenda saepe omnis libero dolores. Consequatur autem qui aspernatur temporibus quis laudantium. Optio consequatur explicabo et ipsam et maiores. Similique adipisci et. Eveniet veniam in voluptas in voluptates ipsa perferendis eaque.",
+    "icon_url": "http://placeimg.com/640/480"
+}

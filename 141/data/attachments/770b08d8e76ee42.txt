@@ -1,0 +1,20 @@
+{
+    "name": "Licensed Wooden Keyboard",
+    "base_url": "",
+    "api_key": "s",
+    "secret_key": "r",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "549",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "48e7a4cd-c8eb-4171-b328-cec0d4477c0c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749580720"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

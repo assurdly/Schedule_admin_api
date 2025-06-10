@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Impedit ut dolorem rerum magnam quae consequuntur. Ut provident et in rerum ullam in dolore officiis. Facere est hic autem at earum. Minima vel iusto et deserunt eos sit rerum. Quibusdam quis sed consequatur sit voluptas.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

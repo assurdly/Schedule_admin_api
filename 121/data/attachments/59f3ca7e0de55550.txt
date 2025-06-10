@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Frozen Pizza",
-    "description": "Vitae reiciendis cum. Autem enim accusantium assumenda nihil dicta corporis iste ea rerum. Id et eum dolor. Praesentium dolorum iusto id praesentium. Sed consequuntur ea dignissimos et earum voluptatem repudiandae.",
-    "icon_url": "http://placeimg.com/640/480"
-}
