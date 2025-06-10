@@ -1,0 +1,6 @@
+{
+    "name": "Small Concrete Fish",
+    "description": "Magnam voluptatum hic error placeat delectus ipsam labore. Quidem non qui voluptatem rem est quae dolores. Accusantium quia est.",
+    "icon_url": "http://placeimg.com/640/480",
+    "status": "active"
+}

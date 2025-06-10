@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Fresh Pants",
+    "description": "Recusandae alias voluptas voluptatem quisquam alias maxime vel. Tenetur omnis recusandae earum. Modi nobis facere maiores sed quaerat ex voluptatem optio eum. Placeat est cupiditate ipsa fugiat.",
+    "icon_url": "http://placeimg.com/640/480"
+}

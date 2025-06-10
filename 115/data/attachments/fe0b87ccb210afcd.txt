@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Fresh Chips",
-    "description": "Ut deserunt dignissimos nulla architecto reiciendis quo accusamus eos ipsam. Accusantium vel vitae optio ducimus eaque laudantium hic. Eius nesciunt dolor. Quasi explicabo perspiciatis quibusdam at dolores tempora sit quae. Deleniti eligendi veniam ut. Consequatur consequuntur quis repellendus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

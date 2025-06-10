@@ -1,6 +1,0 @@
-{
-    "name": "Generic Rubber Bacon",
-    "description": "Hic est tenetur id quas ab unde. Nisi iusto distinctio ea vitae molestiae harum. Qui incidunt veniam et voluptatum nihil neque. Autem doloremque provident quae vero aut maiores rerum excepturi.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
