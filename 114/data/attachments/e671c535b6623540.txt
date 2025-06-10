@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Frozen Table",
-    "description": "Consequatur ut est consectetur dolorum enim. Et sint sapiente quis libero nam. Magnam ut quibusdam. Voluptas architecto quo deleniti eos cumque optio id et. Officiis voluptas fugiat quia et quisquam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Small Plastic Chips",
+    "description": "Mollitia aut est mollitia. Facilis quod eum eius et a. Rerum neque et aut quae voluptas qui. Eligendi est ut aut totam ut eveniet et deleniti consequuntur. Quas occaecati quasi qui distinctio.",
+    "icon_url": "http://placeimg.com/640/480"
+}

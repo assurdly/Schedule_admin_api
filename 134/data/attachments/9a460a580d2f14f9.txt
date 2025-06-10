@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Metal Fish",
+    "description": "Aut dolorem provident aut fugiat distinctio. Nemo et quisquam est. Architecto possimus enim ipsam et nobis qui quia in.",
+    "icon_url": "http://placeimg.com/640/480"
+}

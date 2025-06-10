@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Plastic Shirt",
-    "description": "Aperiam molestias aut maxime. Veritatis autem quia voluptatem animi architecto. Perspiciatis velit incidunt id amet natus quia quis provident. A non aperiam incidunt vel impedit.",
-    "icon_url": "http://placeimg.com/640/480"
-}
