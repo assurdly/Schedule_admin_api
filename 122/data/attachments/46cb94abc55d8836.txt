@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Cotton Soap",
-    "description": "Omnis dicta dignissimos vero vel adipisci quae. In reiciendis ut aspernatur molestias. Ipsum facilis quo voluptatem dolorem dolor doloribus ipsa. Velit nobis et laborum fuga at atque eum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

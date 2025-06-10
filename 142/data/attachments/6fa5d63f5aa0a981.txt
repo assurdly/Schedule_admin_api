@@ -1,0 +1,5 @@
+{
+    "name": "Generic Plastic Hat",
+    "description": "Mollitia reiciendis quod consequatur fuga eos perspiciatis. Et in dolores iure accusantium voluptatum fuga. Reiciendis incidunt et aut nam ut quis rem ex non.",
+    "icon_url": "http://placeimg.com/640/480"
+}
