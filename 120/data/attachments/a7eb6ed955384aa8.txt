@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Plastic Cheese",
-    "description": "Saepe beatae adipisci voluptates eos et dolores. Ut quam aut. Est assumenda nobis illum accusamus numquam sunt nulla. Laudantium voluptatum rem hic qui. Quas ex possimus minus blanditiis distinctio consequatur reprehenderit.",
-    "icon_url": "http://placeimg.com/640/480"
-}

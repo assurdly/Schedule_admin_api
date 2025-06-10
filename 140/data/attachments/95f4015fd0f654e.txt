@@ -1,0 +1,5 @@
+{
+    "name": "Practical Metal Sausages",
+    "description": "Quas saepe reiciendis enim necessitatibus dignissimos mollitia inventore. Qui assumenda hic. Facilis et quidem corporis sint molestiae vero et. Voluptatem iste perferendis vitae veritatis itaque molestiae odit sit. Pariatur et atque culpa voluptatem ex nostrum quibusdam ipsam. Eum rerum incidunt nihil qui illo eos magnam autem.",
+    "icon_url": "http://placeimg.com/640/480"
+}

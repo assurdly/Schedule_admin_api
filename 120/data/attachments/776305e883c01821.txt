@@ -1,6 +1,0 @@
-{
-    "name": "Gorgeous Fresh Pizza",
-    "description": "Voluptatem porro sed voluptatem nihil dolor qui doloremque. Veniam omnis incidunt alias in dolores possimus quas. Facilis dolor est ut molestias. Ut molestias ipsa molestias cum. In fugiat qui sed.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
