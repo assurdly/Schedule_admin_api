@@ -1,0 +1,6 @@
+{
+    "name": "Category Sigrid",
+    "description": "Magnam in soluta exercitationem. Enim non aut quia officiis veniam dicta qui dolorem. Vel sit voluptas minima laborum et laborum et rem beatae. Excepturi eligendi asperiores quis eveniet qui et molestiae explicabo ullam. Laborum quis pariatur adipisci. Et totam dolorum.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

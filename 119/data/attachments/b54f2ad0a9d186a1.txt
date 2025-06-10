@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Concrete Tuna",
-    "description": "Et sit perspiciatis. Odio delectus architecto consequatur culpa hic quo. Et quos sunt consequatur sed atque. Et unde voluptas asperiores.",
-    "icon_url": "http://placeimg.com/640/480"
-}
