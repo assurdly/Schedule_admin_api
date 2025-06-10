@@ -1,0 +1,20 @@
+{
+    "name": "Kihn Group",
+    "base_url": "https://nathan.info",
+    "api_key": "y",
+    "secret_key": "7",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "698",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0741c1a8-d634-4b32-b163-05e1fba66ee5",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749551881"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

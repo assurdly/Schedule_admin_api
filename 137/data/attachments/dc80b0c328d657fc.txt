@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Concrete Chair",
+    "description": "Unde nostrum optio necessitatibus et voluptates. Aut neque sint nulla. Nisi tempore ut nisi non reprehenderit aut magnam. Voluptatibus doloremque dicta saepe labore delectus beatae.",
+    "icon_url": "http://placeimg.com/640/480"
+}

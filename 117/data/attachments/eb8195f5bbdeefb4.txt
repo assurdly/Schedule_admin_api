@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Soft Pizza",
-    "description": "Fuga ipsum et odit. Quas porro deleniti cumque ut assumenda. Libero labore repellat sit quo. Debitis consequatur cum vero aspernatur sit aspernatur vero qui quaerat.",
-    "icon_url": "http://placeimg.com/640/480"
-}
