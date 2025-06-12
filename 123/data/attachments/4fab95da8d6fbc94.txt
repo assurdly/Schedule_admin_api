@@ -1,5 +1,0 @@
-{
-    "name": "Small Plastic Pizza",
-    "description": "Nisi nesciunt molestias officiis delectus aut aut ducimus reiciendis. Dolorem quae voluptatem. Voluptatibus quos pariatur autem non.",
-    "icon_url": "http://placeimg.com/640/480"
-}

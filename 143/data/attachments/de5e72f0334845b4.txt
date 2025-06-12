@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://elna.org",
+    "api_key": "1",
+    "secret_key": "5",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "594",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "f0d3a924-342e-4da8-88eb-aefb5d46df94",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749736264"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

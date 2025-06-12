@@ -1,0 +1,1 @@
+{"status":"error","message":"Category does not exists or is inactive","data":{}}

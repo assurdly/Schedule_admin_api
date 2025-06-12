@@ -1,6 +1,0 @@
-{
-    "name": "Incredible Frozen Hat",
-    "description": "Autem voluptas molestias sed quo officiis voluptatem libero aut quo. Necessitatibus voluptatem saepe cum consequatur voluptates cupiditate beatae minima. Quidem facere nisi voluptatem et autem nostrum in molestias.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

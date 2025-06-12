@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Wooden Chair",
+    "description": "Quo placeat aut. Necessitatibus ab optio magnam sunt culpa mollitia dolorem dolorem est. Dolorem iusto consequuntur fuga eaque ea ipsum sed distinctio vitae. Error aut voluptatem aut cum.",
+    "icon_url": "http://placeimg.com/640/480"
+}
