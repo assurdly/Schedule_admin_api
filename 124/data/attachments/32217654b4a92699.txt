@@ -1,6 +1,0 @@
-{
-    "name": "Handmade Fresh Mouse",
-    "description": "Eveniet odio laborum minus voluptatem qui esse rerum corporis error. Aspernatur quis quo voluptas. Quo provident nobis aut eos. Et fugit atque minima.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
