@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Steel Bike",
+    "description": "Earum vitae ut rerum pariatur et molestias temporibus omnis. Asperiores vitae explicabo ipsam reiciendis. Neque est rerum totam voluptatem. Et earum quo a. Eum vel culpa quibusdam rerum. Culpa autem sed.",
+    "icon_url": "http://placeimg.com/640/480"
+}

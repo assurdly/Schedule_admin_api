@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://hope.biz",
+    "api_key": "k",
+    "secret_key": "k",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "209",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "24a6076c-03c5-49f7-9f62-231ef95e70f5",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749833901"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

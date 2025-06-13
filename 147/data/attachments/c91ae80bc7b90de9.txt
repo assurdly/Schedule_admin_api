@@ -1,0 +1,20 @@
+{
+    "name": "Ankunding Group",
+    "base_url": "https://emily.org",
+    "api_key": "e",
+    "secret_key": "k",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "466",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "bb14b804-fea4-4de0-b344-0c0e8e7069c4",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749833900"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Metal Computer",
+    "description": "Officia voluptatum laboriosam ullam sed quibusdam quidem laboriosam. Et voluptatem sit veniam a ea. Quisquam unde veritatis suscipit est.",
+    "icon_url": "http://placeimg.com/640/480"
+}

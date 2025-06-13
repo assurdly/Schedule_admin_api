@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://gaston.biz",
+    "api_key": "s",
+    "secret_key": "p",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "395",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c7976bfc-c5be-4964-b01a-94988174e16e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749833901"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

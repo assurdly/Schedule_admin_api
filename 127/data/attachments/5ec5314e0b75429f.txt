@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Rubber Salad",
-    "description": "Eveniet aliquam voluptatem. Tempora eos nobis veniam. Cumque officiis atque error quas molestiae quas et. Id praesentium molestiae sint. Autem iusto et sit quam quisquam aut.",
-    "icon_url": "http://placeimg.com/640/480"
-}
