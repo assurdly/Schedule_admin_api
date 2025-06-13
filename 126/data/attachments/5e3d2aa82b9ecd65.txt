@@ -1,1 +1,0 @@
-{"status":"error","message":"DELETE /v1/admin/potential-customers/:batch_id/customers/1 Not Found"}

@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Rubber Computer",
-    "description": "Quia ducimus perferendis nisi vel quod ducimus quia occaecati. Ut possimus animi est consequatur quia vero aliquam deserunt tempore. Enim exercitationem quia sint numquam. Quasi consequatur et provident inventore tempora non nam recusandae beatae. Velit accusantium nostrum vitae cum eum quos dolor natus eligendi. Labore porro quae facere maxime ea nulla sint.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Practical Wooden Towels",
-    "description": "Nostrum est deserunt repellendus rerum sequi quas eligendi consequatur. Accusamus sit corrupti officia dolores consequatur. Sit perspiciatis excepturi necessitatibus.",
-    "icon_url": "http://placeimg.com/640/480"
-}
