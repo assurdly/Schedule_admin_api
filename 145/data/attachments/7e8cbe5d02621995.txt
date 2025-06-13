@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Cotton Table",
+    "description": "Harum sunt molestias ipsa consequatur ut distinctio ipsa. Sunt animi recusandae aliquam ex porro quibusdam est. Explicabo aut id aspernatur eum voluptatum eligendi iste saepe. Est eveniet autem itaque.",
+    "icon_url": "http://placeimg.com/640/480"
+}

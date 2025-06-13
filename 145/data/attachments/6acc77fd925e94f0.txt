@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://clementina.org",
+    "api_key": "x",
+    "secret_key": "w",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "728",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "42aedc27-46c2-426f-9fe6-ff4d86a3bfff",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749829352"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

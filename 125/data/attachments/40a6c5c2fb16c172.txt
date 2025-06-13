@@ -1,1 +1,0 @@
-{"status":"error","message":"The Image must be a valid image file","data":{}}

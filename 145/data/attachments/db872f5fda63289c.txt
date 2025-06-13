@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://mazie.name",
+    "api_key": "k",
+    "secret_key": "m",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "521",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "6503df26-33b4-4c23-93b2-8d3587bfab6e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1749829352"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
