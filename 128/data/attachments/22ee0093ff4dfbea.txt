@@ -1,5 +1,0 @@
-{
-    "name": "Small Wooden Chicken",
-    "description": "Delectus incidunt enim quas sint voluptatem dignissimos laudantium. Qui quisquam eaque est accusamus. Ab quisquam quasi aliquam labore culpa qui doloribus. Quo eum aliquam omnis voluptatem deleniti enim odio est. Sed dignissimos rem totam sit dolores pariatur. Qui saepe dolor.",
-    "icon_url": "http://placeimg.com/640/480"
-}
