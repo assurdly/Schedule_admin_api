@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Itaque autem ex. Magnam architecto voluptatibus nihil assumenda debitis. Vel libero a consequuntur libero occaecati repudiandae dolor minima. Sapiente architecto sit quibusdam et ut. Quidem est optio qui sequi. Inventore dolores voluptatibus optio rerum quasi magnam error inventore.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

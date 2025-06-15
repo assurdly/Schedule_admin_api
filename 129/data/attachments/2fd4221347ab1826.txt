@@ -1,6 +1,0 @@
-{
-    "name": "Sleek Steel Chicken",
-    "description": "Ipsum ut aut labore molestiae quaerat. Et nostrum aut error nemo dolores et eum omnis et. Id ex dolores in aut et voluptas est est. Facilis quia corrupti ipsa.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Plastic Fish",
-    "description": "Ipsum veniam necessitatibus. Distinctio dolor quia. Aut aliquam voluptatem natus ut praesentium corrupti quod ab. Incidunt neque repudiandae aliquid voluptates odio. Minus nesciunt rerum soluta et praesentium mollitia possimus est maxime. Nihil deserunt aut officiis dicta perspiciatis laudantium.",
-    "icon_url": "http://placeimg.com/640/480"
-}

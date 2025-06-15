@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Rubber Chicken",
-    "description": "Sint et aspernatur ut. Sint iste quis a cumque omnis voluptas. Odit et est. Ducimus a dolor eius. Dicta est dicta a.",
-    "icon_url": "http://placeimg.com/640/480"
-}

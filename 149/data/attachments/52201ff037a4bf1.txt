@@ -1,0 +1,5 @@
+{
+    "name": "Generic Concrete Sausages",
+    "description": "Qui nihil id eum quia voluptatem vitae ex. Harum consequuntur perferendis qui sunt. Hic dolorem at ipsum eum quia accusantium et nihil nulla. Eaque ut fugiat reiciendis illo est provident libero libero maxime.",
+    "icon_url": "http://placeimg.com/640/480"
+}

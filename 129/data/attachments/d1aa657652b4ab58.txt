@@ -1,8 +1,0 @@
-{
-    "name": "MTNDatacompress",
-    "short_name": "MTN utilities",
-    "description": "B2C",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}
