@@ -1,0 +1,5 @@
+{
+    "name": "Small Cotton Car",
+    "description": "Et dolorem aut non et repellat quia iure nemo. Dolorem nisi dolores temporibus quam maiores provident dolorem. Impedit accusamus excepturi commodi. Eum perferendis qui itaque illo qui repudiandae neque reiciendis. Nihil et et excepturi modi magni non voluptas in.",
+    "icon_url": "http://placeimg.com/640/480"
+}

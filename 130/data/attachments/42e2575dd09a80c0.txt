@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Cotton Chair",
-    "description": "Et explicabo quibusdam. Hic nulla eum. Quibusdam libero consectetur aut tempora. Nulla est voluptas ratione rerum. Ipsa non voluptate dignissimos.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Frozen Sausages",
+    "description": "",
+    "icon_url": "http://placeimg.com/640/480"
+}

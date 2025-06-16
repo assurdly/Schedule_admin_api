@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://shemar.org",
+    "api_key": "h",
+    "secret_key": "s",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "322",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "38cf6703-fd84-46c5-869a-9f2e9fbebef7",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750094889"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

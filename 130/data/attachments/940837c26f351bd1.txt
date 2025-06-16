@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Steel Hat",
-    "description": "Voluptatem voluptatum est corrupti voluptas impedit nulla dolor sequi a. Soluta veniam excepturi. Voluptates doloremque quam maiores ut.",
-    "icon_url": "http://placeimg.com/640/480"
-}

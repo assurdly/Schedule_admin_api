@@ -1,0 +1,6 @@
+{
+    "name": "MTN Test",
+    "amount": null,
+    "product_group_id": "27",
+    "status": "active"
+}
