@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Plastic Table",
+    "description": "Aperiam illo cupiditate. Quis qui reprehenderit eius minima eligendi sit et. Eligendi quam praesentium voluptate quo deleniti ipsa sit ea. Deserunt consequatur reprehenderit amet quas.",
+    "icon_url": "http://placeimg.com/640/480"
+}

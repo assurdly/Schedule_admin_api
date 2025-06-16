@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://trevion.com",
+    "api_key": "j",
+    "secret_key": "1",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "214",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "6d4b73f8-210f-4e6a-9722-acc39f22023a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750095276"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

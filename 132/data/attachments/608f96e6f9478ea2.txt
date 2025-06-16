@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Plastic Gloves",
-    "description": "Et sed magni. Dolorem voluptatem sint impedit aut non illo non sunt. Fuga voluptate ratione tempore dolores asperiores aut sunt nulla.",
-    "icon_url": "http://placeimg.com/640/480"
-}

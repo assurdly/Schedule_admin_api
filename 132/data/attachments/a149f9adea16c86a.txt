@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Concrete Shirt",
-    "description": "Aut placeat delectus labore voluptate maiores deleniti. Atque eum nemo minus ea minima dolores labore sed labore. Alias atque labore ipsam iste. Quia rerum cupiditate nam occaecati dolore quas minima rerum aspernatur. Tempora ullam dolore ipsum alias tenetur odio rerum ut.",
-    "icon_url": "http://placeimg.com/640/480"
-}
