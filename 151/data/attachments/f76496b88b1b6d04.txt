@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://matt.biz",
+    "api_key": "t",
+    "secret_key": "j",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "224",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "6c8eb784-6092-4336-a6ca-1f7da3a362ea",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750095055"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

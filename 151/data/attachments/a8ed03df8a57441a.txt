@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://dorcas.org",
+    "api_key": "3",
+    "secret_key": "j",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "661",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7104364f-af61-44a5-8554-d3db32a13dda",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750095055"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

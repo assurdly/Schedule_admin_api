@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Concrete Chicken",
-    "description": "Temporibus aut quia perferendis eligendi in quae quia eaque dolorem. Eligendi necessitatibus aut quidem et consectetur nihil. Ad illum accusantium ullam ab rem et aut optio. Soluta maxime facere nisi doloribus voluptatem. Qui molestiae temporibus earum omnis fuga velit ea suscipit. Consequatur ab qui amet voluptates tenetur dolorem voluptate eveniet similique.",
-    "icon_url": "http://placeimg.com/640/480"
-}

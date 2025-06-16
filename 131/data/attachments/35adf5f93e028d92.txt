@@ -1,6 +1,0 @@
-{
-    "name": "Small Frozen Chicken",
-    "description": "Officiis optio accusamus non sunt molestias laboriosam. Exercitationem est porro quisquam. Et fuga qui. Quam eaque vero laborum esse deserunt perferendis blanditiis. Nulla laborum eveniet dolor et quis. Doloribus quae sed eveniet consequatur voluptatem perferendis voluptate placeat ut.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

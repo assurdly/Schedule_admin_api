@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://ursula.name",
+    "api_key": "h",
+    "secret_key": "t",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "403",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e365efa1-7db9-4ebe-9fb9-329d496abd36",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750095055"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
