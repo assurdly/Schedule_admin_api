@@ -1,5 +1,0 @@
-{
-    "name": "Generic Concrete Tuna",
-    "description": "Sed quidem ut est. Molestiae soluta debitis quo. Voluptatem laboriosam voluptate architecto dicta. Tempora amet deleniti aut temporibus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

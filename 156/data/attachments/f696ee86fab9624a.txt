@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Metal Chair",
+    "description": "Rerum itaque ipsam officiis vel saepe. Qui magnam eligendi temporibus sint. Perferendis sapiente illo voluptate laudantium magnam nesciunt molestiae voluptatem rerum. Error dolores veniam consequatur voluptas.",
+    "icon_url": "http://placeimg.com/640/480"
+}

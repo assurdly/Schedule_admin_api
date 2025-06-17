@@ -1,0 +1,20 @@
+{
+    "name": "Rau - Reilly",
+    "base_url": "https://marcelino.info",
+    "api_key": "8",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "327",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7b83c259-4f6c-469c-8997-20f1a7124e09",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750160104"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
