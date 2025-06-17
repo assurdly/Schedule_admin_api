@@ -1,0 +1,5 @@
+{
+    "name": "Generic Frozen Pants",
+    "description": "Eos expedita ea assumenda neque adipisci. Accusamus ut dolorum voluptatem quia quia illo. Totam quas enim hic possimus explicabo doloremque omnis iusto. Officiis ea cum. Officiis libero magni similique iusto consequatur inventore a. Velit dolor molestiae repellendus molestiae aliquam sint esse et.",
+    "icon_url": "http://placeimg.com/640/480"
+}

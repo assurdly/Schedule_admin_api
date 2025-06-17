@@ -1,0 +1,20 @@
+{
+    "name": "Stark - Klocko",
+    "base_url": "http://lula.name",
+    "api_key": "b",
+    "secret_key": "k",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "460",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2c6a5ca6-847d-47b1-a7a0-87b127ba7b95",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750168477"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

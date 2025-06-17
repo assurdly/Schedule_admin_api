@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://anya.org",
+    "api_key": "u",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "597",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b17c03e4-f202-419c-b263-d149a1ee2074",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750168477"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Sleek Frozen Salad",
+    "base_url": "",
+    "api_key": "h",
+    "secret_key": "h",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "380",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "20afa8bd-7d77-4be3-a9a8-3f0731d8892e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750168477"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

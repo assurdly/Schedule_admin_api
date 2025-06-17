@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Cotton Chair",
-    "description": "Quis aut at nemo sit. Consectetur delectus in corrupti et velit enim. Est eligendi ut repellat reprehenderit et minus corrupti. Nesciunt tempore amet accusantium temporibus at sequi laborum unde consequuntur.",
-    "icon_url": "http://placeimg.com/640/480"
-}

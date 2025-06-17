@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://ezequiel.com",
+    "api_key": "2",
+    "secret_key": "i",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "610",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "afdad862-4cec-4262-8f62-ca506e1b4b5b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750168477"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
