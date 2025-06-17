@@ -1,5 +1,0 @@
-{
-    "name": "Practical Fresh Tuna",
-    "description": "Odio repudiandae asperiores velit. Est minima autem totam corrupti illo facilis sunt. Dolorem dolore ex beatae alias. Velit non possimus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

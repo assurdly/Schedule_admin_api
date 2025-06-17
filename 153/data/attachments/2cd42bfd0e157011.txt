@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Fresh Car",
-    "description": "Voluptatem perferendis praesentium. Quaerat et perspiciatis ea doloremque velit ea nam doloremque sed. Et nulla quidem rerum officia qui eveniet iste.",
-    "icon_url": "http://placeimg.com/640/480"
-}

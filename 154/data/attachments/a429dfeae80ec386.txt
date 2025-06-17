@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Concrete Tuna",
+    "description": "Ab aliquid odit quo nobis a. Voluptas doloribus omnis est dolores magni quaerat aut. Ut ut nesciunt voluptate id suscipit eveniet nisi. Unde tempore cupiditate accusantium qui enim. Et ut aperiam. Voluptate saepe consectetur qui necessitatibus voluptatem.",
+    "icon_url": "http://placeimg.com/640/480"
+}
