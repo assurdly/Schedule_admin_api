@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://hulda.com",
+    "api_key": "0",
+    "secret_key": "5",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "225",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b4bcb2e3-2689-419d-a148-86c09f4b33a9",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750159572"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

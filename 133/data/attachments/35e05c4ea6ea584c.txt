@@ -1,1 +1,0 @@
-{"status":"success","message":"success","data":[{"status":"pending","count":4},{"status":"verified","count":2},{"status":"active","count":3},{"status":"inactive","count":1}]}
