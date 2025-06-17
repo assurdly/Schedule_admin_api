@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Fresh Chair",
-    "description": "Consequuntur officiis ad voluptas sit voluptatem. Adipisci rerum praesentium. Rerum dignissimos provident iste in corrupti quis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

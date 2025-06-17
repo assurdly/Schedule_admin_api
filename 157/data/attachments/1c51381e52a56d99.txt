@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://merritt.com",
+    "api_key": "9",
+    "secret_key": "y",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "306",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "eafd0e0e-8ba2-44f5-a5ee-a2b4c64c7db1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750161287"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

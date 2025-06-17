@@ -1,1 +1,0 @@
-{"status":"success","message":"Customer retrieved successfully","data":{"id":22,"first_name":"","last_name":"","email":"ayomide+1@assurdly.com","phone_number":"07080507367","isVerified":true,"status":"active","last_login_at":"2025-06-09 11:16:37","transactions":[],"subscriptions":[]}}

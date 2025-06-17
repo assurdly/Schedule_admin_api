@@ -1,0 +1,20 @@
+{
+    "name": "Stokes, Weber and Mayert",
+    "base_url": "https://tamia.name",
+    "api_key": "m",
+    "secret_key": "0",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "694",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "f7f2a8da-50a7-4609-8090-dd3b2479656b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750161287"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

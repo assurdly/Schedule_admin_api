@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://lonnie.name",
+    "api_key": "0",
+    "secret_key": "c",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "909",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "830a46ec-cd1b-4a79-a04e-6a60aecf2d4e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750161288"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

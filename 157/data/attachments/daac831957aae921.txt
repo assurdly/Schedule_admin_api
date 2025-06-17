@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Computer",
+    "base_url": "",
+    "api_key": "l",
+    "secret_key": "b",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "416",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c7ae627f-b3c1-4bcf-9c52-35d79c6bf593",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750161288"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

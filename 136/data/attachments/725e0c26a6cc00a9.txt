@@ -1,6 +1,0 @@
-{
-    "name": "Fantastic Wooden Computer",
-    "description": "Atque ex aut nihil alias. Eaque veniam labore quia ipsam officia voluptatibus sunt eligendi. Quae amet eius dolorem optio suscipit eveniet aliquid esse. Quae perspiciatis quibusdam placeat ipsum sit veniam deleniti. Dolorum veritatis rem quaerat sapiente consequatur voluptatem tempora facilis reiciendis. Et et explicabo nemo.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

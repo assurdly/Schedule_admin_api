@@ -1,5 +1,0 @@
-{
-    "name": "Refined Granite Mouse",
-    "description": "Aliquam necessitatibus quae nam quidem cum omnis consequatur neque et. Consequuntur omnis aut. Ut incidunt suscipit. Consequuntur aut in repellendus vero est dolor.",
-    "icon_url": "http://placeimg.com/640/480"
-}
