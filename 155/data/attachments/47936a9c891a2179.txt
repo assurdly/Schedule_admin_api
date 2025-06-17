@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Soluta et pariatur omnis eveniet quisquam molestias autem itaque quaerat. Deserunt dolores consequuntur est vel qui. Sed quisquam placeat debitis. Et quisquam pariatur placeat est explicabo recusandae non.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

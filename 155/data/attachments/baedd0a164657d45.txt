@@ -1,0 +1,20 @@
+{
+    "name": "Dicki - Hamill",
+    "base_url": "http://alysson.name",
+    "api_key": "e",
+    "secret_key": "e",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "984",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "929ec5d0-e7a5-46d5-b8c4-a88d7fa0c2fc",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750159629"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

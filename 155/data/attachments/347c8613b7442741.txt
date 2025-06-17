@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Cotton Chicken",
+    "description": "Ea voluptas quibusdam dolor repudiandae excepturi. Ut ut asperiores molestiae. Maxime omnis perferendis aliquam a.",
+    "icon_url": "http://placeimg.com/640/480"
+}

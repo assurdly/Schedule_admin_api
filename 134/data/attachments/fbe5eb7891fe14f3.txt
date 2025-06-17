@@ -1,1 +1,0 @@
-{"status":"error","message":"Aggregator name already exists. Please choose a different name.","data":{}}
