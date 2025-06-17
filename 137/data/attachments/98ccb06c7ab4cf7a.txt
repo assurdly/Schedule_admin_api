@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Concrete Sausages",
-    "description": "Facere laborum quis. Culpa aut commodi voluptatum ut. Delectus nostrum suscipit. Necessitatibus voluptates aperiam ab.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Refined Fresh Towels",
-    "description": "Distinctio eius omnis quisquam aspernatur eos optio deserunt ea architecto. Labore perspiciatis quis optio. Tempore quia unde.",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}
