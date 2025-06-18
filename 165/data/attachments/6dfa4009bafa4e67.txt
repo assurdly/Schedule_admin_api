@@ -1,0 +1,20 @@
+{
+    "name": "Lockman Group",
+    "base_url": "http://ahmad.name",
+    "api_key": "p",
+    "secret_key": "2",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "786",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c2542c76-ea9c-41a1-86a4-912a4466bf49",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750259209"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

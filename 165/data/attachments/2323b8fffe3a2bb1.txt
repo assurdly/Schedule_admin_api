@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Fresh Bike",
+    "description": "",
+    "icon_url": "http://placeimg.com/640/480"
+}
