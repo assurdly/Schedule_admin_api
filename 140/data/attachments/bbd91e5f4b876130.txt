@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Soft Mouse",
-    "description": "Ut et molestiae dolores quia provident autem nisi. Qui at est ipsa ut. Minima consequuntur tempore dolorem magni fugiat qui. Non qui vel molestias molestias. Quia laborum accusantium natus eaque officia consequuntur nostrum soluta libero. Animi odit atque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

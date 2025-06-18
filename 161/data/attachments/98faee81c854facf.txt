@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://payton.org",
+    "api_key": "q",
+    "secret_key": "2",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "848",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2dabb716-b8ad-4216-9fa1-309251aa26d5",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750242140"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

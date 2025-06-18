@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Plastic Table",
+    "description": "Sapiente ut occaecati aut quia sed. Nihil voluptatem odio. Aliquam corporis quisquam.",
+    "icon_url": "http://placeimg.com/640/480"
+}

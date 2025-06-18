@@ -1,6 +1,0 @@
-{
-    "name": "Category Amir",
-    "description": "Accusantium et qui voluptatem. Omnis perspiciatis nesciunt ut doloribus cupiditate. Debitis numquam animi officiis modi vel et omnis impedit eos. Ipsam quis assumenda cupiditate ullam consequatur recusandae voluptate maxime.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}

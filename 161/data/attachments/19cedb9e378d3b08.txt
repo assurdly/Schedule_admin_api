@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://garnett.info",
+    "api_key": "r",
+    "secret_key": "d",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "112",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "17ceb174-8588-4127-919c-649799fa9f41",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750242140"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

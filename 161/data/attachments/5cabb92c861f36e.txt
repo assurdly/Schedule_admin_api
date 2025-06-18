@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Rubber Bacon",
+    "description": "Officia inventore aut temporibus. Explicabo quisquam fugit a odit odio provident aut. Quia autem impedit quia temporibus unde. Placeat quibusdam exercitationem est harum tempore assumenda ut. Ab repellat praesentium deserunt ab necessitatibus quae.",
+    "icon_url": "http://placeimg.com/640/480"
+}

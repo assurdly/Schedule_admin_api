@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://haskell.net",
+    "api_key": "6",
+    "secret_key": "i",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "714",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "39585bc0-7a14-4650-bbb9-1526ee4afdb1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750242139"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
