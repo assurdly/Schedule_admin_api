@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Granite Pizza",
+    "description": "Incidunt facilis tenetur quia assumenda quia. Ea sint non. Neque quasi minima placeat libero. Provident aut quam et vel vel sapiente.",
+    "icon_url": "http://placeimg.com/640/480"
+}

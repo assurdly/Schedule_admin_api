@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Fresh Bike",
+    "description": "Sit dolor veniam neque ullam dicta eum. Delectus est doloribus enim. Sint incidunt numquam amet deserunt in a eum reprehenderit. Magnam esse sint magni.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Practical Fresh Chips",
-    "description": "Dolores quibusdam aut perspiciatis porro quae. Omnis sequi dicta. Vero facere tenetur eum dignissimos recusandae aut earum. Fugit error quia possimus.",
-    "icon_url": "http://placeimg.com/640/480"
-}
