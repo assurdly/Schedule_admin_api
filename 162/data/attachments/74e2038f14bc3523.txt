@@ -1,0 +1,5 @@
+{
+    "name": "Small Wooden Towels",
+    "description": "Voluptatum autem incidunt. Ad odit facilis ab voluptate possimus dolorem dolores ipsa sunt. Reiciendis earum rem suscipit odio ipsum veniam quo. Tenetur quo eaque odit delectus rem qui delectus ipsum laboriosam. Aperiam repudiandae aliquam molestias quia. Quasi libero a totam.",
+    "icon_url": "http://placeimg.com/640/480"
+}

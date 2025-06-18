@@ -1,0 +1,12 @@
+
+  
+  
+
+{
+  "value": {
+    "startText": "Enjoy",
+    "endText": "on your next purchase!",
+    "styledText": ["20%", "discount"]
+  },
+  "extra_data": {}
+}

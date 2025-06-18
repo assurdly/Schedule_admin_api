@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Fresh Pizza",
-    "description": "Accusantium debitis iste sed omnis voluptate ipsa sit. Voluptas libero quia facilis praesentium ut quam ducimus sequi. Id voluptas eveniet illum ab ut commodi.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Laboriosam delectus quia officia quos fugit. Repellat ad minima maxime consequatur. Rerum veniam voluptatem ea qui ut. Iusto aspernatur optio inventore minima at eum dolores et. Et pariatur voluptatibus culpa dolores.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}
