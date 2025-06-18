@@ -1,8 +1,0 @@
-{
-    "name": "MTNDatanext-generation",
-    "short_name": "MTN utilities",
-    "description": "intermediate",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator_id": "3",
-    "category_id": "170"
-}

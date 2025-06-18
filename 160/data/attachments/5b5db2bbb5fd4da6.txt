@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Optio tempore ut ea aliquam. Dicta optio non ipsum facere voluptatem. Voluptatem necessitatibus aut temporibus. Minima veritatis qui beatae perspiciatis placeat velit aut illum.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Metal Gloves",
+    "description": "Veritatis et aperiam aut maiores et sit ipsam autem. Magnam incidunt corrupti totam. Necessitatibus ex laboriosam aut et aut.",
+    "icon_url": "http://placeimg.com/640/480"
+}

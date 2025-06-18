@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataTechnician",
+    "short_name": "MTN utilities",
+    "description": "Sausages",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

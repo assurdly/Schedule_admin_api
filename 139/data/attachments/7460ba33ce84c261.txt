@@ -1,5 +1,0 @@
-{
-    "name": "Generic Soft Bacon",
-    "description": "Non fuga quasi neque assumenda. Aperiam labore laudantium et praesentium tempora voluptas reprehenderit adipisci. Iure aperiam eligendi a ab dolorem odit. Cum quia enim hic et et illum dolorum. In nulla similique velit doloribus consectetur iste tenetur est.",
-    "icon_url": "http://placeimg.com/640/480"
-}

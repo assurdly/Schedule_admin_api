@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Soft Mouse",
-    "description": "Nostrum quia pariatur eum ut qui est. Optio labore adipisci amet sint. Dolor voluptatem voluptates sunt enim labore voluptatem aut soluta. Qui doloremque ex doloremque ex magnam et. Asperiores earum non cumque necessitatibus eum quia enim.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,20 @@
+{
+    "name": "Handcrafted Plastic Salad",
+    "base_url": "",
+    "api_key": "b",
+    "secret_key": "8",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "345",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2788e81e-627f-4cc2-9e22-971e6fd5ab5a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750241332"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Marks Group",
+    "base_url": "https://rickey.com",
+    "api_key": "d",
+    "secret_key": "x",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "867",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c4662e31-6cb7-4335-9544-25b2a86c8d5a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750241331"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
