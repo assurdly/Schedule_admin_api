@@ -1,5 +1,0 @@
-{
-    "name": "Generic Soft Soap",
-    "description": "Natus praesentium quia culpa et officia possimus. Architecto dolor dolores sed. Officia autem libero. Rem aliquam in consequatur ea molestias. Dicta maiores nesciunt doloremque blanditiis harum aliquid deleniti rerum sunt.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Magnam ipsam iste provident aut ex ut ut distinctio. Provident eveniet consequatur labore voluptatem tenetur tempore repellendus. Laboriosam voluptas dolor vero illo. Atque et sunt at ut aspernatur. Aut nostrum quam soluta et odit possimus expedita ut.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}
