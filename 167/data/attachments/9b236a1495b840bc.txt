@@ -1,0 +1,20 @@
+{
+    "name": "Lehner - Kuphal",
+    "base_url": "https://annabelle.info",
+    "api_key": "x",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "365",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "f1259935-367f-48a2-b248-3c691ff321af",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750443233"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

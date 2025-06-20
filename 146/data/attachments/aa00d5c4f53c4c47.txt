@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Fresh Shoes",
-    "description": "Non aut ea. Est vel eos. Sint deleniti dolorem itaque consequatur sunt sapiente deleniti. Autem perferendis quia. Distinctio reprehenderit sit vitae. Et temporibus est quidem voluptatem illum incidunt magnam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,8 @@
+{
+    "base_url": "https://kyra.biz",
+    "api_key": "3",
+    "secret_key": "ZGV2K2licm9saW5rc0BvbmVwaXBlLmlvOjA4MDMyMDAyMNya",
+    "auth_type": "apikey",
+    "environment": "production",
+    "status": "active"
+}

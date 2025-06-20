@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Plastic Soap",
+    "description": "Quia sint dolor quod. Quam rem delectus nulla possimus ut incidunt dolor. Non ipsa autem ut qui consequuntur labore aut facere placeat. Cum nihil ullam et accusantium nobis id. A ut voluptas amet non impedit.",
+    "icon_url": "http://placeimg.com/640/480"
+}

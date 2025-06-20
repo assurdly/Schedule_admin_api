@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Rubber Chips",
+    "description": "Cum animi beatae quasi at. Laudantium perferendis voluptatem sit eaque dolorum rem ipsa tenetur. Sit beatae adipisci blanditiis quia omnis fugiat ab magni. Optio minima voluptatem magnam soluta saepe voluptatem. Corporis aut expedita ut et voluptas accusantium cumque. Tenetur id odio consequatur excepturi non veritatis qui.",
+    "icon_url": "http://placeimg.com/640/480"
+}
