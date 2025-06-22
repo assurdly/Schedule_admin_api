@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Frozen Bike",
+    "description": "Qui velit dolor beatae voluptate consequatur. Tempora tempore est necessitatibus. Itaque quam quo omnis sed corporis aut quis sequi ut. Explicabo unde rerum in consequatur ipsum repellat amet nihil qui. Architecto necessitatibus iure ab ut. Eligendi doloribus fugiat alias temporibus voluptatem et.",
+    "icon_url": "http://placeimg.com/640/480"
+}

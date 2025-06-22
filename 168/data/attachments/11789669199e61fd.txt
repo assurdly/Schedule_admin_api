@@ -1,0 +1,20 @@
+{
+    "name": "Gerhold - O'Hara",
+    "base_url": "https://parker.biz",
+    "api_key": "z",
+    "secret_key": "u",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "507",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0db462b6-6323-4b41-9ebc-43c0df8ccffa",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750608590"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

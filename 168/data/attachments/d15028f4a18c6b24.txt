@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Soft Mouse",
+    "description": "Iste dolorem adipisci numquam omnis eligendi ut illum. Neque dolor veniam quo. Natus ea laborum ea error sint qui aut similique. Fuga voluptates sint assumenda sapiente rem. Voluptate deleniti unde id praesentium quisquam quo.",
+    "icon_url": "http://placeimg.com/640/480"
+}
