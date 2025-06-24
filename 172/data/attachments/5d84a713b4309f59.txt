@@ -1,0 +1,5 @@
+{
+    "name": "Refined Steel Chicken",
+    "description": "Aperiam nam architecto. Modi non autem quod pariatur id eligendi. Et sequi quia qui voluptates aut expedita. Tempora aut recusandae ut est. Modi quis voluptatem deleniti et architecto et. Explicabo neque sunt.",
+    "icon_url": "http://placeimg.com/640/480"
+}

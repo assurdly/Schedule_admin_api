@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Steel Chair",
-    "description": "Doloribus voluptate nulla ipsum. Tenetur porro inventore est mollitia. Nesciunt consequatur sint saepe. Nesciunt perspiciatis ea deleniti quis. Voluptas blanditiis qui et fugiat in rerum. Tempore cumque voluptatem.",
-    "icon_url": "http://placeimg.com/640/480"
-}

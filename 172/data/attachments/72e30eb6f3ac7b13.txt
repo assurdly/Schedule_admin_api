@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Cotton Table",
+    "description": "Omnis doloremque libero consequatur eveniet et eos in. Quis at reprehenderit. Molestiae est voluptas non voluptatem dolorum minus dolores et. Quod et velit. Tempora non voluptatem omnis. Unde eaque eveniet nemo harum.",
+    "icon_url": "http://placeimg.com/640/480"
+}
