@@ -1,0 +1,5 @@
+{
+    "name": "Small Steel Shoes",
+    "description": "Dolor sapiente rerum unde. Dolore doloremque sapiente tenetur labore qui eaque molestiae ab quasi. Velit numquam velit atque et adipisci voluptate.",
+    "icon_url": "http://placeimg.com/640/480"
+}
