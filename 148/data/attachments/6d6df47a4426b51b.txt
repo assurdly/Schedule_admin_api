@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Cotton Shoes",
-    "description": "Sed sapiente quam autem in et fugit dolor temporibus ut. Recusandae unde autem nihil non dolores quae aspernatur repellat doloremque. Atque accusamus culpa quisquam inventore vitae nobis optio explicabo.",
-    "icon_url": "http://placeimg.com/640/480"
-}

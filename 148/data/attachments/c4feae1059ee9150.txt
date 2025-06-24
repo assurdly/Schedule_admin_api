@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Steel Pants",
-    "description": "Molestiae incidunt quis qui. Ut omnis quia praesentium tempora delectus. Harum aspernatur illum voluptatem ex cum maxime. Deleniti molestiae quaerat saepe. Vel blanditiis quia vel error aut sunt temporibus.",
-    "icon_url": "http://placeimg.com/640/480"
-}
