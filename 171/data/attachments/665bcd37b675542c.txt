@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://arlene.biz",
+    "api_key": "e",
+    "secret_key": "s",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "329",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a7ee9791-8a77-4c37-8cad-96bc60d9d9e2",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750797947"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

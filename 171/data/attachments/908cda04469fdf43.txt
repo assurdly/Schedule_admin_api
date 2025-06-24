@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://weston.org",
+    "api_key": "i",
+    "secret_key": "y",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "769",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "faf4b33f-b483-48c0-a289-d598ed8d7b32",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750797946"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

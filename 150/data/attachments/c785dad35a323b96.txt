@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Soft Car",
-    "description": "Nulla quod tenetur consequatur quis quis ad. Quo suscipit et numquam quibusdam fugit dolorum aut. Autem aut possimus. Sapiente dolore vel consequatur.",
-    "icon_url": "http://placeimg.com/640/480"
-}

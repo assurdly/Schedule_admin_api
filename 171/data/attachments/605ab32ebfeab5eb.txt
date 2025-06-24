@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Plastic Tuna",
+    "description": "Id maxime dolorem eum nulla odit unde. Molestiae cumque quasi neque et quo ea aut fuga. Aut ea mollitia quidem aut ab voluptates.",
+    "icon_url": "http://placeimg.com/640/480"
+}
