@@ -1,0 +1,20 @@
+{
+    "name": "Kuphal - Hoppe",
+    "base_url": "https://maeve.net",
+    "api_key": "e",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "222",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b3e14de6-f461-47a1-b990-a3d4e771656e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750856923"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Frozen Hat",
+    "description": "Ratione sed consectetur. Beatae et et est architecto illum corporis ea quos. Quia alias quasi dicta nihil. Est esse et iste. Et ut provident corporis sed ea quo quos aperiam nisi. Praesentium itaque vel eveniet enim suscipit sunt tempore fuga magnam.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Concrete Table",
-    "description": "Dicta maiores exercitationem debitis qui iusto dolores delectus qui. Voluptatum quos delectus dolorem alias quibusdam fugiat dolore aliquid commodi. Molestiae qui voluptate aliquam. Debitis voluptatibus a.",
-    "icon_url": "http://placeimg.com/640/480"
-}

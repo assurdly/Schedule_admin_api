@@ -1,0 +1,20 @@
+{
+    "name": "Fantastic Fresh Gloves",
+    "base_url": "",
+    "api_key": "f",
+    "secret_key": "u",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "848",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a96067ab-3217-43ab-b289-7c570d50fde9",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750856923"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

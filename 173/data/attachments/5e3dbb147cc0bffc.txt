@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Fresh Soap",
+    "description": "Dolores voluptas facilis qui similique. Iste et placeat. Voluptas aut expedita nostrum. Velit est illum.",
+    "icon_url": "http://placeimg.com/640/480"
+}
