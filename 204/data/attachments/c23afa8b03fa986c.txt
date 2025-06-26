@@ -1,0 +1,20 @@
+{
+    "name": "Ergonomic Plastic Car",
+    "base_url": "",
+    "api_key": "8",
+    "secret_key": "n",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "813",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "776de73c-5da6-4be1-80bc-24167f9ca2e2",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750956075"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,12 @@
+const jsonData = pm.response.json(); // Changed from pm.response.json() to pm.response.text()
+
+
+pm.test("Response status code is 401", function () {
+    pm.response.to.have.status(401);
+});
+
+pm.test("error response data is returned", function() {
+    pm.expect(jsonData.status).to.eql("error");
+    pm.expect(jsonData.message).to.exist;
+    pm.expect(jsonData.data).to.eql({});
+})
