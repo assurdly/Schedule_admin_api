@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Plastic Tuna",
-    "description": "Nisi exercitationem et ut autem possimus. Optio iusto et incidunt rem architecto aperiam unde. Suscipit et sed quod recusandae sit cupiditate rerum officiis illum. Eius dolores autem deleniti officiis nihil dicta voluptas rerum. Autem facilis vel officia quam maxime sunt blanditiis. Nulla et assumenda pariatur ut in vel.",
-    "icon_url": "http://placeimg.com/640/480"
-}

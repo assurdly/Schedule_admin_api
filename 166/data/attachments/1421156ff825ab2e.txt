@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Fresh Pizza",
-    "description": "Possimus cum consequatur animi inventore. Blanditiis et fuga odio cum amet. Cumque aspernatur est at quisquam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

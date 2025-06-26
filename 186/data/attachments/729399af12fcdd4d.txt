@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Frozen Car",
+    "description": "Consequatur eum ullam non nisi autem aliquam nobis. Similique est omnis doloremque id sint et itaque. Excepturi unde enim ut aut quia inventore. Quod similique officiis nam odit accusantium asperiores. Voluptatem voluptatem aut quia sunt.",
+    "icon_url": "http://placeimg.com/640/480"
+}
