@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Concrete Gloves",
-    "description": "Fugit quaerat ullam nesciunt voluptatum veniam quis aperiam. Quis illum enim. Doloremque dicta doloremque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

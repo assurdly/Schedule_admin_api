@@ -1,0 +1,5 @@
+{
+    "name": "Rustic Soft Computer",
+    "description": "Est corporis nihil minima sint neque. Sed aperiam maiores reprehenderit eligendi odio ut. Iusto ipsa sed omnis quod autem voluptatibus pariatur nulla debitis. Vel voluptate aut nihil enim eos et alias commodi.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Concrete Table",
+    "description": "Voluptate odit placeat nisi aut. Sunt sit nihil voluptatem ipsam ab autem. Quia quis reiciendis. Quo voluptas quis et et dolore quod.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://ada.net",
+    "api_key": "i",
+    "secret_key": "m",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "620",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "85e38a8d-cc5b-4f83-839e-95e1e0ac392e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750954646"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

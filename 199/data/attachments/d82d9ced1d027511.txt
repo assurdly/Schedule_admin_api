@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Sunt officia soluta placeat quod ratione et recusandae sit. Aspernatur beatae ea corrupti et quod dolor et veniam. Maiores commodi impedit saepe error voluptate sed. Sit qui fugit expedita et ad.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}
