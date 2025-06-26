@@ -1,0 +1,20 @@
+{
+    "name": "Sporer LLC",
+    "base_url": "https://beatrice.net",
+    "api_key": "n",
+    "secret_key": "o",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "308",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b4f9fcf1-1a0a-4a7b-b41e-f260fa1dad38",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750957246"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
