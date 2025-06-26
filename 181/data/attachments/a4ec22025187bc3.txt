@@ -1,0 +1,20 @@
+{
+    "name": "Wilkinson, Baumbach and Terry",
+    "base_url": "https://robyn.com",
+    "api_key": "h",
+    "secret_key": "9",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "92",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "59cb01fb-fcc6-4562-8436-6d6395f05c43",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750938088"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://henriette.com",
+    "api_key": "0",
+    "secret_key": "i",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "480",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e9ccc722-76ad-40da-864a-b51301523c6d",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750938089"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

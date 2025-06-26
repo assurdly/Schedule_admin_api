@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://sean.info",
+    "api_key": "w",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "236",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1ad7f049-5091-49fa-8fa1-b92351650fb1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750938090"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
