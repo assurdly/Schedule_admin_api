@@ -1,0 +1,20 @@
+{
+    "name": "Gorgeous Fresh Salad",
+    "base_url": "",
+    "api_key": "z",
+    "secret_key": "x",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "561",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "fc7e893d-6242-40f2-bb55-b2be85932056",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750935867"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

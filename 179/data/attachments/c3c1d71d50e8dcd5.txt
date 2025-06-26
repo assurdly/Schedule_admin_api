@@ -1,0 +1,20 @@
+{
+    "name": "Farrell, Kirlin and Torphy",
+    "base_url": "https://josefa.biz",
+    "api_key": "p",
+    "secret_key": "k",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "241",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "87f0d2d6-7c3b-44d6-8395-4689c03c8ca7",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750935866"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

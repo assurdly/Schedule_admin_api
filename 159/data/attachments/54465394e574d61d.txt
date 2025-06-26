@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Frozen Sausages",
-    "description": "Sapiente vitae illum ut voluptate. Omnis quia accusamus nisi facilis voluptatem aut ut error mollitia. Non et saepe soluta ut nam accusamus eaque quas. Quibusdam voluptatem harum molestiae provident. Et aperiam rerum in nobis qui.",
-    "icon_url": "http://placeimg.com/640/480"
-}

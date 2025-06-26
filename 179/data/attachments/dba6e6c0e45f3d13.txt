@@ -1,0 +1,5 @@
+{
+    "name": "Small Plastic Cheese",
+    "description": "Culpa et sint doloribus autem rerum est vel molestiae voluptatem. Harum ad amet aut quia consequuntur. Porro maiores ut repudiandae quibusdam. Veritatis atque eaque nemo facilis iusto esse eum voluptatum voluptatem. Consequuntur porro quam quod earum aut nam eum. Perferendis maiores quo cumque corporis voluptas.",
+    "icon_url": "http://placeimg.com/640/480"
+}
