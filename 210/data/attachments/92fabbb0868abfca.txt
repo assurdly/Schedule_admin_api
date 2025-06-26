@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Soft Keyboard",
+    "description": "Delectus officia recusandae. Corrupti qui harum tempore ullam excepturi reiciendis quis. Vero id velit sed exercitationem qui. Sit laboriosam quia quia suscipit non dolores laudantium et iure. Qui quo magnam vel esse.",
+    "icon_url": "http://placeimg.com/640/480"
+}

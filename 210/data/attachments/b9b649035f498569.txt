@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Soft Chair",
+    "description": "Tempore fuga doloremque amet. Quasi tempora fuga amet. Dolores accusamus minus et deleniti quo at molestiae nemo rerum. Esse deserunt repudiandae quia sint ipsam mollitia voluptatibus ut.",
+    "icon_url": "http://placeimg.com/640/480"
+}

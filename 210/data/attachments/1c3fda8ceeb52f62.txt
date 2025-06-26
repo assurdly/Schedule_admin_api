@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://shannon.net",
+    "api_key": "n",
+    "secret_key": "o",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "919",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1914765c-2e9c-4aa0-898a-c5fe7d3e5941",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750957854"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

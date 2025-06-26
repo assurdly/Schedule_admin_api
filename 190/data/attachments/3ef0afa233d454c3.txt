@@ -1,5 +1,0 @@
-{
-    "name": "Small Fresh Chair",
-    "description": "Ex ipsam iure consequatur. Id assumenda dolorem dolor consequatur numquam laboriosam. Aliquam voluptas doloremque vel ipsa necessitatibus debitis eos dolor perspiciatis. Optio quos magni sequi. Debitis est qui nisi minus.",
-    "icon_url": "http://placeimg.com/640/480"
-}
