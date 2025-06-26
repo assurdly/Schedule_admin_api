@@ -1,5 +1,0 @@
-{
-    "name": "Refined Granite Bacon",
-    "description": "Ullam aut quia. At ex qui. Sunt suscipit perferendis est quis rerum alias eum excepturi quo. Est sed ut est qui unde dignissimos totam eveniet rerum. At ipsam maiores ab sequi possimus nisi in voluptatum error. Sed commodi consequatur eius.",
-    "icon_url": "http://placeimg.com/640/480"
-}

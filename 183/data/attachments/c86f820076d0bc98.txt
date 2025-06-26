@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Wooden Sausages",
+    "description": "Quam veniam molestiae consequatur et. Laborum ex id nobis numquam nemo autem aliquam. Deserunt ipsa quia autem aut molestiae quisquam suscipit.",
+    "icon_url": "http://placeimg.com/640/480"
+}

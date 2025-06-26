@@ -1,0 +1,20 @@
+{
+    "name": "Rustic Metal Bacon",
+    "base_url": "",
+    "api_key": "h",
+    "secret_key": "h",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "318",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "31e20a4f-ed93-483f-8ef4-10f5e597bbae",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750941890"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

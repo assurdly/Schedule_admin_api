@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Metal Pizza",
-    "description": "Quod dolores voluptas. Quia et commodi unde quos ut laudantium ea aut sit. Eos aut laboriosam neque ducimus qui. Libero sed et officia.",
-    "icon_url": "http://placeimg.com/640/480"
-}
