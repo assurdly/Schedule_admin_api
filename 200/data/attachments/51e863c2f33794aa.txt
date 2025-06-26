@@ -1,0 +1,15 @@
+const jsonData = pm.response.json();
+
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test('Validate data is not empty', function () {
+    pm.expect(jsonData.data.data).to.not.be.empty;
+    pm.expect(jsonData.data.data).to.be.an('array')
+});
+
+pm.test('Validate meta data is not empty', function () {
+    pm.expect(jsonData.data.meta).to.not.be.empty;
+    pm.expect(jsonData.data.meta).to.be.an('object')
+});

@@ -1,0 +1,20 @@
+{
+    "name": "Reichel - Ferry",
+    "base_url": "https://thomas.com",
+    "api_key": "8",
+    "secret_key": "j",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "205",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "65d47ae7-5c53-4cac-b40f-0011a798361a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750954856"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

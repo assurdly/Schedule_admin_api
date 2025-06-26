@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Wooden Car",
-    "description": "Laboriosam et quo tenetur inventore laudantium ad doloribus corporis amet. Vitae quas eos fugiat tenetur ipsam. Incidunt enim hic porro eveniet nostrum quasi ipsum. Dolores consequatur molestiae odio occaecati consectetur necessitatibus odit. Quod dolores voluptatem et quae porro et voluptate exercitationem. Culpa qui eaque est quis enim quia tempora unde.",
-    "icon_url": "http://placeimg.com/640/480"
-}

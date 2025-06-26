@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Metal Chicken",
+    "description": "Sunt unde vero repellat ut vitae occaecati pariatur ab. Fuga nisi consequuntur esse. Similique culpa omnis dolorum ullam. Voluptatem in enim vel vel tenetur neque nam autem unde.",
+    "icon_url": "http://placeimg.com/640/480"
+}

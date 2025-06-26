@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Qui deserunt unde sed sequi dolore asperiores quidem. Ducimus ut et quos tenetur. Eaque nulla eum sapiente vel sit et quaerat sapiente.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Frozen Salad",
+    "description": "Similique tempora et ipsa aut ratione illo est nobis provident. Maxime illum ea commodi consequatur natus. Quo nisi aut qui sed et aut et.",
+    "icon_url": "http://placeimg.com/640/480"
+}
