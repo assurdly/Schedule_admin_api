@@ -1,0 +1,20 @@
+{
+    "name": "West, Wyman and Mann",
+    "base_url": "https://dina.com",
+    "api_key": "f",
+    "secret_key": "0",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "635",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "51da4b03-9468-41eb-92eb-b1770c9ecb78",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750956276"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

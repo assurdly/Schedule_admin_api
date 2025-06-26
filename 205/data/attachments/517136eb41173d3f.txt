@@ -1,0 +1,7 @@
+{
+    "name": "MTNDataIndian",
+    "description": "Group for utility-related products like electricity, water, and internet.",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "amount": null,
+    "product_group_id": "100"
+}

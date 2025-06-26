@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://dawn.com",
+    "api_key": "6",
+    "secret_key": "w",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "219",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "433e6a93-7e86-4bd2-bb7b-1dca7dfab9e7",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750956277"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

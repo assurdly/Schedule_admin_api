@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Steel Sausages",
+    "description": "Ipsa non alias saepe harum labore impedit provident praesentium consequuntur. Et molestiae veritatis qui ratione quia ducimus id qui omnis. Iure repudiandae doloribus sed eligendi dolore illo unde laborum. Ad placeat ipsa. Dignissimos odit ipsum consequatur quasi eos. Quae architecto aspernatur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

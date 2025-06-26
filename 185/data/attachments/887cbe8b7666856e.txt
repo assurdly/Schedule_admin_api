@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Wooden Soap",
-    "description": "Excepturi et reprehenderit ex maiores voluptate nihil. Nobis ducimus quam laboriosam dolore. Rem libero repellat perspiciatis reprehenderit minus eius asperiores. Soluta error nisi. Est est iste doloribus et autem maxime rerum natus. Velit sit vel.",
-    "icon_url": "http://placeimg.com/640/480"
-}

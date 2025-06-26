@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Steel Table",
+    "description": "Quisquam perspiciatis et deleniti nam labore atque ea recusandae. Eum officia est est quo totam quod qui delectus. Non adipisci aliquam qui aut. Doloremque commodi vero dignissimos esse similique facilis. Et velit cum accusamus minima in. Et quis ut iure omnis distinctio ea hic.",
+    "icon_url": "http://placeimg.com/640/480"
+}
