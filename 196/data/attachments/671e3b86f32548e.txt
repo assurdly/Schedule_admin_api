@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Vel libero qui quae doloremque cum assumenda exercitationem voluptas. Asperiores sed dolore at corrupti enim sequi optio velit. Exercitationem asperiores enim delectus nemo.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

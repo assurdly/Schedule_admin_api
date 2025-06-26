@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://jeffrey.com",
+    "api_key": "6",
+    "secret_key": "p",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "278",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e4ecbea0-fc0b-49bf-a7e3-55c600944f01",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750953484"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

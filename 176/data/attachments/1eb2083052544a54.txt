@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Fresh Keyboard",
-    "description": "Quaerat et aliquid sed. Nostrum dolor aut incidunt illo voluptas perspiciatis. Voluptatem corporis laboriosam. Commodi maxime ut. Qui et repellendus distinctio pariatur nobis tempora et vero aut. Et quia dolorem autem ipsum aut error doloribus sed sit.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Refined Frozen Car",
+    "description": "Eos earum dolores omnis repellat deserunt quia. Odit mollitia similique. Illum unde adipisci. Quasi mollitia modi. Incidunt et et amet amet at. Earum laboriosam facilis rerum rerum.",
+    "icon_url": "http://placeimg.com/640/480"
+}
