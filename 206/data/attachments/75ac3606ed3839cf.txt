@@ -1,0 +1,20 @@
+{
+    "name": "Fantastic Steel Shoes",
+    "base_url": "",
+    "api_key": "h",
+    "secret_key": "y",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "765",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "d91b05ff-c2c5-4e4d-a792-ccc23e5432dc",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750956865"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

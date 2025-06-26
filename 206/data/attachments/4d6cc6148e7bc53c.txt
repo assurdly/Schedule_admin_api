@@ -1,0 +1,20 @@
+{
+    "name": "Will - Lebsack",
+    "base_url": "https://alf.biz",
+    "api_key": "e",
+    "secret_key": "a",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "723",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c674f80f-7599-458f-bd83-ca09b0fd8ce3",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750956864"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

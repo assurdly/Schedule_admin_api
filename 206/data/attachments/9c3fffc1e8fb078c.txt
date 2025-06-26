@@ -1,0 +1,8 @@
+{
+    "name": "MTNDatacultivate",
+    "short_name": "MTN utilities",
+    "description": "matrices",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator_id": "3",
+    "category_id": "170"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Wooden Bike",
+    "description": "Qui aut quis ab sed voluptatem sunt est corrupti pariatur. Eveniet corrupti ratione corporis aut qui nostrum ducimus sit. Autem voluptas laudantium veritatis fugit accusantium laudantium. Nihil iusto illo aut perspiciatis eveniet nisi. Dolorem et aut facere qui.",
+    "icon_url": "http://placeimg.com/640/480"
+}
