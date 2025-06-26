@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Inventore est qui ut et alias pariatur maiores consequatur quis. Sint est error in suscipit ipsam qui ut praesentium totam. Nihil est a doloremque enim voluptas veritatis quod incidunt.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}

@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Cotton Computer",
+    "description": "Dignissimos iure et ea omnis. Sit exercitationem ipsa voluptatem tempore quia quae quia exercitationem recusandae. Aspernatur ut assumenda cumque. Voluptate expedita quos.",
+    "icon_url": "http://placeimg.com/640/480"
+}

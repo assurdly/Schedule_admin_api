@@ -1,0 +1,20 @@
+{
+    "name": "Incredible Frozen Shoes",
+    "base_url": "",
+    "api_key": "b",
+    "secret_key": "n",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "899",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "6e6675fc-28f6-47fb-8f77-02d6a81ee41b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750942302"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
