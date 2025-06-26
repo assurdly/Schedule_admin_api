@@ -1,7 +1,0 @@
-{
-    "name": "MTNDataMount",
-    "description": "Group for utility-related products like electricity, water, and internet.",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "amount": -100,
-    "product_group_id": "2"
-}

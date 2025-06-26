@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Plastic Gloves",
-    "description": "Ut optio et minima dolores vero in commodi nesciunt. Consequuntur ut molestiae beatae soluta odio illo magni iusto. Aliquid incidunt tempore sunt officiis in temporibus dolores. Maiores neque fuga quisquam voluptas voluptatem aperiam ratione delectus impedit. Velit possimus temporibus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

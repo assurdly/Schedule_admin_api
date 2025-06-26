@@ -1,5 +1,0 @@
-{
-    "name": "Practical Steel Bacon",
-    "description": "Facere sapiente eum qui quam et nemo. Fugit consequatur id deserunt exercitationem repellendus delectus autem. Nobis itaque delectus ullam eligendi sed ratione sit.",
-    "icon_url": "http://placeimg.com/640/480"
-}

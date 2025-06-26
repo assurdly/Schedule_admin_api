@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataproactive",
+    "short_name": "MTN utilities",
+    "description": "withdrawal",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator_id": "3",
+    "category_id": "170"
+}

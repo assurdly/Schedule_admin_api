@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://jordon.biz",
+    "api_key": "9",
+    "secret_key": "h",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "678",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "8bcc6daa-8694-40a9-80ce-fe96c9357f3e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750942689"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Kuphal - Kassulke",
+    "base_url": "http://rosemary.biz",
+    "api_key": "0",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "730",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "279ba976-a1ef-46f0-b260-7ac0e75dd8e3",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750942689"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
