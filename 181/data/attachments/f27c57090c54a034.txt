@@ -1,8 +1,0 @@
-{
-    "name": "MTNDataOpen-architected",
-    "short_name": "MTN utilities",
-    "description": "Music",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Concrete Fish",
-    "description": "Nihil explicabo natus. Ut sit in. Qui quam est aut harum provident modi explicabo.",
-    "icon_url": "http://placeimg.com/640/480"
-}

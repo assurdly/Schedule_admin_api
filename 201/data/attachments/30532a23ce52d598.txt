@@ -1,0 +1,5 @@
+{
+    "name": "Small Cotton Chair",
+    "description": "Velit culpa vel. Sit placeat non qui cupiditate numquam impedit similique cupiditate enim. Id distinctio accusamus est. Voluptas atque quas ea aperiam dignissimos voluptas aut. Et qui quas exercitationem omnis porro excepturi distinctio omnis. Delectus aut aspernatur eos odit enim.",
+    "icon_url": "http://placeimg.com/640/480"
+}
