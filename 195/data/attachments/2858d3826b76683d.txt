@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://maybell.net",
+    "api_key": "7",
+    "secret_key": "1",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "770",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a824381d-bfdd-4102-81fa-6e97e8639416",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750953261"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

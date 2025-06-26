@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Concrete Ball",
-    "description": "Adipisci eaque nisi cumque vel quam soluta ea reprehenderit. Fuga molestiae minus consequatur non aspernatur a natus in libero. Voluptate qui sequi qui at consequatur eius quisquam nulla. Voluptas sit qui est ullam rem ducimus placeat.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://delores.net",
+    "api_key": "j",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "402",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a8a1ec52-d506-42bd-9d18-09a35ff6c268",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750953261"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

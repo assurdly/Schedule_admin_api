@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Soft Shoes",
-    "description": "Molestiae tempora omnis. Id voluptas autem in occaecati magnam voluptates repellat corrupti. Delectus magni dolores sequi. Magni ut neque dignissimos nam quia cupiditate. Iste culpa id quidem adipisci fugiat animi. Amet voluptatem qui illum laborum quia harum in.",
-    "icon_url": "http://placeimg.com/640/480"
-}
