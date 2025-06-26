@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Tenetur architecto harum. Atque itaque provident a est est nam voluptas officia. Consequatur rerum iusto voluptas est voluptates. Et accusantium repudiandae modi culpa minima nihil consequatur qui. Voluptatem tempora asperiores minima odio.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Soft Bacon",
+    "description": "Numquam ipsam delectus dicta dolores. Dolor ullam impedit atque quia accusantium. Ut pariatur et consequatur exercitationem ea. Corporis blanditiis dolor quis culpa et tenetur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

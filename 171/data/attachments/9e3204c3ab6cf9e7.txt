@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Sapiente non inventore nam sed ullam. Laborum voluptatem facere cum et. Illo ut dolor quia omnis sed dolorem quam fuga provident. Et non ipsum. Culpa sint dolorem voluptatem. Mollitia ut rem odio.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}

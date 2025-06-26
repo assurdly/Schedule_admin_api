@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Metal Chips",
-    "description": "Hic ut aut cumque. Nisi nostrum animi doloremque aut quod. Itaque odio ex. Amet voluptas velit. Quia dolore molestiae est molestias dolor aperiam nobis ea.",
-    "icon_url": "http://placeimg.com/640/480"
-}
