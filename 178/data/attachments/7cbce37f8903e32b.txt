@@ -1,0 +1,5 @@
+{
+    "name": "Small Metal Cheese",
+    "description": "Repellendus voluptas dignissimos facilis eos architecto deserunt vel. Ducimus commodi deleniti voluptatibus magni voluptas quas. Dicta voluptatibus beatae et consequatur ea nostrum dicta qui. Minus quia enim suscipit voluptatem optio perferendis minus et reprehenderit. Nemo omnis et molestias quidem quia aspernatur ipsa. Quisquam minima laudantium qui rem recusandae ipsum soluta culpa.",
+    "icon_url": "http://placeimg.com/640/480"
+}

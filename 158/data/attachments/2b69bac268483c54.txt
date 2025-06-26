@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Soft Keyboard",
-    "description": "Blanditiis minima reprehenderit qui aut laborum alias eaque pariatur. Officiis reprehenderit eos exercitationem quis aliquid accusantium nulla a. Aut nihil autem. Dolorem veritatis qui accusantium.",
-    "icon_url": "http://placeimg.com/640/480"
-}

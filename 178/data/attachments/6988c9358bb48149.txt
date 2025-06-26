@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Fugiat sequi sit repellendus distinctio dicta odit officia. Veniam a soluta quis sunt sapiente et iusto esse blanditiis. Sapiente laborum fuga repellat eveniet ipsa soluta nemo optio iusto. Est sapiente excepturi dicta provident dignissimos veritatis est sequi.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

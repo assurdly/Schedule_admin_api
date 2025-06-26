@@ -1,5 +1,0 @@
-{
-    "name": "Small Fresh Towels",
-    "description": "Quod quis debitis unde adipisci. Ipsam dolores officia laudantium dolores sint. Quasi sit nesciunt. Ea atque aut excepturi. Ratione iure autem ex velit aperiam molestiae et quam laudantium. Magnam ratione non illum quasi enim neque quia impedit fuga.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,20 @@
+{
+    "name": "Koepp - Ryan",
+    "base_url": "http://declan.biz",
+    "api_key": "c",
+    "secret_key": "b",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "972",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "5c5f0071-9680-441a-b85c-d21fe5ee18bd",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750935690"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
