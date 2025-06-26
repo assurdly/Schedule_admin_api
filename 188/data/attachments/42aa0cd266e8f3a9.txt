@@ -1,0 +1,5 @@
+{
+    "name": "Sleek Cotton Towels",
+    "description": "Enim eveniet quo eos molestias aut delectus velit minima. Aut libero quia iste maxime ut aut. Laboriosam illum aliquid totam vel hic. Quas reprehenderit soluta dolore dolores. Magnam at doloremque tenetur.",
+    "icon_url": "http://placeimg.com/640/480"
+}
