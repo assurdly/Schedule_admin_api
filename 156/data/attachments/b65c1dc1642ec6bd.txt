@@ -1,5 +1,0 @@
-{
-    "name": "Small Fresh Mouse",
-    "description": "Reprehenderit fugiat qui doloremque nostrum dolorum aut. Facere similique ea. Ut amet maxime maxime.",
-    "icon_url": "http://placeimg.com/640/480"
-}
