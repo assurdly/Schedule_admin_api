@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Metal Hat",
+    "description": "Magnam eum inventore magnam. Atque adipisci deleniti natus voluptas inventore illo ipsum. Voluptatem distinctio ut dolorum voluptatem illo.",
+    "icon_url": "http://placeimg.com/640/480"
+}

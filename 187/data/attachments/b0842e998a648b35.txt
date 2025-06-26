@@ -1,0 +1,20 @@
+{
+    "name": "Bode and Sons",
+    "base_url": "http://tamia.net",
+    "api_key": "e",
+    "secret_key": "y",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "363",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "f5b1987b-0cf8-4c0b-8794-806b76b288cb",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750949719"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

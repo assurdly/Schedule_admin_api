@@ -1,0 +1,5 @@
+{
+    "name": "Rustic Frozen Table",
+    "description": "Nisi dolor esse quod accusamus. Sapiente suscipit consectetur architecto et minus necessitatibus repellendus autem est. Deserunt eos qui minima voluptas quaerat quia cum voluptatum. Aspernatur ut id illo accusantium eius quo sunt.",
+    "icon_url": "http://placeimg.com/640/480"
+}
