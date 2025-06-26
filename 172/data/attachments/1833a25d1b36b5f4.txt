@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Granite Shirt",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}
