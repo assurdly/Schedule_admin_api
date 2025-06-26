@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataSouth",
+    "short_name": "MTN utilities",
+    "description": "Savings",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

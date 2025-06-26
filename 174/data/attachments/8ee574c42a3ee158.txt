@@ -1,0 +1,20 @@
+{
+    "name": "Schaefer and Sons",
+    "base_url": "http://trisha.name",
+    "api_key": "6",
+    "secret_key": "h",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "156",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "92cbd26c-6669-49b3-8669-52413c4b55d0",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750934676"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
