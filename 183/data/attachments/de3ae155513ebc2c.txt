@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Soft Bike",
-    "description": "Qui eum quia voluptatem. Beatae qui praesentium et reiciendis. Deserunt tenetur quis maiores. Sequi totam explicabo labore est ratione laudantium.",
-    "icon_url": "http://placeimg.com/640/480"
-}

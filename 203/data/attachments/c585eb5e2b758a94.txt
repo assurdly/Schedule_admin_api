@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://sydnee.biz",
+    "api_key": "3",
+    "secret_key": "d",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "217",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1265bed1-f28f-497f-86fd-074d1dd4a460",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750955880"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

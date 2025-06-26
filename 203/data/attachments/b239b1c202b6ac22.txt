@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataprimary",
+    "short_name": "MTN utilities",
+    "description": "e-markets",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Nienow Inc",
+    "base_url": "https://fredrick.info",
+    "api_key": "u",
+    "secret_key": "l",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "909",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "db805742-9b0b-4fb2-808b-4ee46a231342",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750955879"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
