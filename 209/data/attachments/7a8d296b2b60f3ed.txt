@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://june.org",
+    "api_key": "e",
+    "secret_key": "h",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "87",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "df06f511-4813-4328-8f1b-6a66dada7629",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750957629"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

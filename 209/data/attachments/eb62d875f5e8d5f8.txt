@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Steel Pizza",
+    "description": "Maiores quam sunt. Pariatur omnis eligendi. Ullam libero eos voluptatem. Tempora occaecati aut aut quia ducimus tempora. Ut quis doloremque in ut tenetur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

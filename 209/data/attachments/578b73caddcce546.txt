@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Steel Keyboard",
+    "description": "Sunt fugiat et aut vel et eaque modi omnis officia. Rerum fugiat labore quam. Totam possimus ut sunt distinctio et voluptatem magnam. Occaecati aliquam quibusdam fuga optio quo quis est. Dolor quis molestiae nam.",
+    "icon_url": "http://placeimg.com/640/480"
+}

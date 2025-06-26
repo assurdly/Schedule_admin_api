@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Dignissimos asperiores labore qui sunt odit dicta sit et. Hic vero excepturi et placeat iste. Maxime possimus deserunt impedit pariatur qui labore quibusdam.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}
