@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Rubber Cheese",
+    "description": "Praesentium autem qui sunt accusamus et non. Eaque labore quia molestiae voluptatibus et omnis voluptatibus. Quibusdam quia id iure vel saepe quam cum dolor. Non sed accusantium blanditiis. Praesentium et et impedit. Odio et dignissimos.",
+    "icon_url": "http://placeimg.com/640/480"
+}

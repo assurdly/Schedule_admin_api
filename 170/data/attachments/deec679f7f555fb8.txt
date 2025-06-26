@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Eligendi exercitationem rerum nisi eaque. Consectetur atque tenetur aut ipsa odio culpa neque earum. Reprehenderit et voluptas sed dolorum corporis inventore veniam velit natus. Magnam magnam reprehenderit.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}

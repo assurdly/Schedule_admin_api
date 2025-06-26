@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://delta.biz",
+    "api_key": "f",
+    "secret_key": "v",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "195",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "8058bb95-ca25-4335-abef-b37f298ea1bc",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750951705"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

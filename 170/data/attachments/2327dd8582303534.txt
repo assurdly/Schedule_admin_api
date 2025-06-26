@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Frozen Towels",
-    "description": "Aut tempora nostrum laborum laborum. Non quis in quos ut ullam debitis pariatur sed dolorem. Facilis corrupti est et tenetur voluptatem sed repellat quam. Minima voluptas nostrum non ut eius velit quo. Et doloremque non placeat ea a qui quidem sequi.",
-    "icon_url": "http://placeimg.com/640/480"
-}

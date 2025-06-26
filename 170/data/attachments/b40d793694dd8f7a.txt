@@ -1,8 +1,0 @@
-{
-    "name": "MTNDataarray",
-    "short_name": "MTN utilities",
-    "description": "grid-enabled",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator_id": "3",
-    "category_id": "170"
-}
