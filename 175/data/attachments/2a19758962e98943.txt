@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://diego.biz",
+    "api_key": "m",
+    "secret_key": "j",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "974",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e652ee7f-82a8-4286-a7ad-6c2a6ac99a3d",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750934880"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

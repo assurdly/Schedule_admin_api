@@ -1,0 +1,20 @@
+{
+    "name": "Lubowitz and Sons",
+    "base_url": "https://aniya.org",
+    "api_key": "0",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "129",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e60b9d40-63f3-4859-9e09-7d7feff18564",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750934880"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
