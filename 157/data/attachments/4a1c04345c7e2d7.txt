@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Concrete Pizza",
-    "description": "Non et corrupti sunt nulla perferendis quis repellat veniam. Tempore pariatur similique cumque quis ea quod non perferendis qui. Debitis maiores aliquid distinctio quos repudiandae fugiat natus est iste. Aut at eos molestias in aut error rerum sapiente. Dolor provident aut.",
-    "icon_url": "http://placeimg.com/640/480"
-}

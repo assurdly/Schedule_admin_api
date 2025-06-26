@@ -1,0 +1,5 @@
+{
+    "name": "Gorgeous Soft Keyboard",
+    "description": "Aspernatur nihil tempore cupiditate optio qui ut rerum repellat eius. Itaque excepturi perspiciatis sit possimus. Et error vero.",
+    "icon_url": "http://placeimg.com/640/480"
+}

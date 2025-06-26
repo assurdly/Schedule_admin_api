@@ -1,0 +1,20 @@
+{
+    "name": "Corwin - Mertz",
+    "base_url": "https://lee.biz",
+    "api_key": "x",
+    "secret_key": "v",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "473",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "9a213ee5-45af-40f2-aac5-25bc7745062a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750935271"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Steel Tuna",
+    "description": "Aut commodi accusantium ut. Mollitia vero mollitia quam optio nobis aut ea error. Optio et illum aut aut.",
+    "icon_url": "http://placeimg.com/640/480"
+}

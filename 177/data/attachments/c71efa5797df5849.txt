@@ -1,0 +1,20 @@
+{
+    "name": "Practical Plastic Fish",
+    "base_url": "",
+    "api_key": "9",
+    "secret_key": "a",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "971",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a9467efb-d6c2-4d5a-9046-24f8dc6ebcab",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750935271"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
