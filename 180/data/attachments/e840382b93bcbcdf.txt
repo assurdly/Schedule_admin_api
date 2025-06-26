@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Cotton Bike",
+    "description": "Cumque aut praesentium dicta blanditiis. Et voluptate qui optio beatae porro. Qui voluptate ut. Ab est officia unde excepturi consectetur doloremque tenetur dicta.",
+    "icon_url": "http://placeimg.com/640/480"
+}

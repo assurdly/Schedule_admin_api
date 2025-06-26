@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Voluptatibus quasi voluptates. Aspernatur autem eius mollitia qui qui assumenda qui nulla qui. Ad totam ratione natus.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

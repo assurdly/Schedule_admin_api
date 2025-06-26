@@ -1,0 +1,11 @@
+{
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "b9b08e7d-3986-49f6-9ba7-de29966be470",
+    "Host": "api-pwaschedule.bits.dev.onepipe.io",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "65"
+}

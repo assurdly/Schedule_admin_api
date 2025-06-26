@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidHlwZSI6ImF1dGgiLCJpYXQiOjE3NTA5Mzc4NzAsImV4cCI6MTc1MDk0MTQ3MH0.DxQcWenuyMFjXR4iVVTIaSPqaKT4PxfpeeQ3W6QKMZY",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "af8ee2b4-1235-4e57-8748-13a8cdd4ec0e",
+    "Host": "api-pwaschedule.bits.dev.onepipe.io",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "215"
+}

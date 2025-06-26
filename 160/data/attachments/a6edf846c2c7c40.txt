@@ -1,5 +1,0 @@
-{
-    "name": "Practical Plastic Soap",
-    "description": "Non perspiciatis non. Dolor voluptas cumque. A excepturi autem ipsa enim quasi in qui.",
-    "icon_url": "http://placeimg.com/640/480"
-}

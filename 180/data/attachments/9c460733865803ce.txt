@@ -1,0 +1,8 @@
+{
+    "name": "MTNDatacircuit",
+    "short_name": "MTN utilities",
+    "description": "methodologies",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}
