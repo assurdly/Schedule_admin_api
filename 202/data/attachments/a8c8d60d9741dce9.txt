@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://hertha.biz",
+    "api_key": "t",
+    "secret_key": "5",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "755",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b24ce8a2-8cff-4d69-8361-a8f19fa4ae82",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750955662"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Cotton Car",
-    "description": "Libero sint quo enim. Dolores quaerat repellat qui aut consectetur aut modi temporibus. In dolor accusantium corporis temporibus quos qui officiis. Nemo minus sunt eveniet. Et nostrum quibusdam. Earum aut consequatur et.",
-    "icon_url": "http://placeimg.com/640/480"
-}

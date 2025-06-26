@@ -1,0 +1,5 @@
+{
+    "name": "Generic Granite Salad",
+    "description": "Doloribus laborum dolorem sit. Similique modi quod vel iusto tenetur aut recusandae minima laudantium. Quas autem ea fugit consequuntur consequatur vel velit iure.",
+    "icon_url": "http://placeimg.com/640/480"
+}

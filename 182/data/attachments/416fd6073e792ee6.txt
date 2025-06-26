@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Granite Keyboard",
-    "description": "Itaque ut animi repudiandae rem quo. Et dolorem harum itaque est eos. Quia animi ut voluptatem.",
-    "icon_url": "http://placeimg.com/640/480"
-}

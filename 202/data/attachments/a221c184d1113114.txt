@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataKina",
+    "short_name": "MTN utilities",
+    "description": "magnetic",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

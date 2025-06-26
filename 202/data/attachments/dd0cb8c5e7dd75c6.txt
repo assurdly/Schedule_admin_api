@@ -1,0 +1,20 @@
+{
+    "name": "Schamberger LLC",
+    "base_url": "http://dane.info",
+    "api_key": "0",
+    "secret_key": "3",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "241",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c012c0f1-896e-4c7a-ae48-a3a18285fc91",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750955661"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
