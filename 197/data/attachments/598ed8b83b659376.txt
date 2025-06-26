@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://jerrod.net",
+    "api_key": "e",
+    "secret_key": "d",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "749",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0292d960-ca47-4cff-a921-4107850c5ab6",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750954264"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

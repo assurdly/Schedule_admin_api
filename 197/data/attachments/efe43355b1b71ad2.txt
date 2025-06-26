@@ -1,0 +1,20 @@
+{
+    "name": "Awesome Concrete Hat",
+    "base_url": "",
+    "api_key": "9",
+    "secret_key": "8",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "512",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2b1394c0-cb13-4510-a758-9008ce6e1bc8",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750954264"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
