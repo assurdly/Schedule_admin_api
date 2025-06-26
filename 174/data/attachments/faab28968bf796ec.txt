@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Rubber Chips",
-    "description": "Culpa reprehenderit labore voluptates voluptas qui aliquam quod qui. A et perferendis iste ut sapiente totam minima eveniet. Ut consequatur rerum sed ipsa. Aspernatur consequatur illo non.",
-    "icon_url": "http://placeimg.com/640/480"
-}

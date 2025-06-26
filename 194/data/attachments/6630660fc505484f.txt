@@ -1,0 +1,5 @@
+{
+    "name": "Unbranded Soft Bacon",
+    "description": "Vel non eos adipisci omnis quasi sed. Quidem non et et. Sequi molestiae sit autem impedit mollitia. Ipsa sit libero consequuntur facilis. Praesentium aut cum voluptas vero ut. Quia enim sint similique.",
+    "icon_url": "http://placeimg.com/640/480"
+}

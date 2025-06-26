@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Fresh Chair",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

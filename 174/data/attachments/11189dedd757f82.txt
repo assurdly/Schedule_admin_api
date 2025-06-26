@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Cotton Shirt",
-    "description": "Quia ut modi possimus numquam. Sed iste neque vitae voluptatem aut modi consequatur eveniet aut. Qui et dolorem aliquid nostrum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

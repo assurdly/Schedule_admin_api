@@ -1,0 +1,14 @@
+const jsonData = pm.response.json();
+
+pm.test('Validate that status code is correct', function () {
+    pm.response.to.have.status(201);
+});
+
+pm.test('Validate that response body contains correct data', function () {
+    pm.expect(jsonData.message).to.eql('Batch created successfully');
+    pm.expect(jsonData.data).to.have.property('id');
+    pm.expect(jsonData.data).to.have.property('name');
+    pm.expect(jsonData.data).to.have.property('description');
+    pm.expect(jsonData.data).to.have.property('product_group_id');
+    pm.expect(jsonData.data).to.have.property('product_id');
+});

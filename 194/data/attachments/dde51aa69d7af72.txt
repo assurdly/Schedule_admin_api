@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataAnalyst",
+    "short_name": "MTN utilities",
+    "description": "Orchestrator",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

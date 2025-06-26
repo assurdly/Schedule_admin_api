@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataFrozen",
+    "short_name": "MTN utilities",
+    "description": "Plastic",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator_id": "3",
+    "category_id": "170"
+}

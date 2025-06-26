@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://maverick.name",
+    "api_key": "8",
+    "secret_key": "j",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "296",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "dd648890-aa86-4a3a-82f1-53fffbeb01d6",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750953071"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
