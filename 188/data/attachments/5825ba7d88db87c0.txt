@@ -1,5 +1,0 @@
-{
-    "name": "Unbranded Rubber Soap",
-    "description": "Ut nesciunt ut rerum voluptatum animi ut. Cupiditate sequi provident explicabo cumque vero voluptas velit occaecati eligendi. Sit harum quidem. Et architecto cupiditate ex deleniti. Repellendus nesciunt nihil quis officiis repellat repellat. Eos nesciunt explicabo et nam ratione cum.",
-    "icon_url": "http://placeimg.com/640/480"
-}
