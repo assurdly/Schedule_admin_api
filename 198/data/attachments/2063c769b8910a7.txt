@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://imelda.com",
+    "api_key": "2",
+    "secret_key": "o",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "259",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "56bef704-1f15-4aff-a731-e21f7f81c8dd",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750954453"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

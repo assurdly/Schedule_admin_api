@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Plastic Soap",
+    "description": "Eum delectus veniam est occaecati natus vel perspiciatis sed tenetur. Sequi at veniam ipsum id nostrum accusamus. Dolorum aut aliquam animi exercitationem ut sed ipsa. Nihil quia commodi nobis doloremque placeat atque voluptas. Hic qui dicta quisquam aut blanditiis est.",
+    "icon_url": "http://placeimg.com/640/480"
+}

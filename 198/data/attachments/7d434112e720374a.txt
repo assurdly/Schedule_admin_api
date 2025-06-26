@@ -1,0 +1,20 @@
+{
+    "name": "Fay, Lockman and Marquardt",
+    "base_url": "http://geoffrey.info",
+    "api_key": "u",
+    "secret_key": "3",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "360",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "238b54d9-31d4-40ce-bfef-ca9a36f6e79a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1750954453"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
