@@ -1,0 +1,5 @@
+{
+    "name": "Refined Wooden Table",
+    "description": "Repudiandae nobis vel sequi molestiae tenetur nihil dicta. Voluptas repudiandae aut in rerum facilis quas quod suscipit consequatur. Ut id molestiae occaecati. Excepturi non deleniti dolore unde aut molestiae maxime. Sapiente voluptas qui.",
+    "icon_url": "http://placeimg.com/640/480"
+}

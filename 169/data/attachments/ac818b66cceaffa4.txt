@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Soft Chips",
-    "description": "Voluptatem voluptatem et accusantium vel. Eius odit doloremque temporibus neque officiis. Nobis deserunt placeat doloribus. Sunt cumque assumenda qui quibusdam sed deserunt numquam. Rerum aut qui fuga velit nihil. Voluptas rerum qui laudantium non blanditiis.",
-    "icon_url": "http://placeimg.com/640/480"
-}
