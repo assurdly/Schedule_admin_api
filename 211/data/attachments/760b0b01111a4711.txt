@@ -1,0 +1,6 @@
+"first_name","last_name","email","phone_number","status"
+"test","test","maryam+2@assurdly.com","08163809677","inactive"
+"Ayomide","Liasu","ayomide+1@assurdly.com","07080507367","inactive"
+"Oladeji ","Raji","Testthelengthofemailaddress_01@mailinator.com","09086635565","inactive"
+"Adetutu ","Isinks","adetutu@assurdly.com","08138096550","inactive"
+"Ibrahim ","Azeez","azeez@assurdly.com","09055755671","inactive"

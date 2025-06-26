@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Fresh Pants",
-    "description": "Nostrum impedit sed sed quis exercitationem. Ipsa omnis quo neque deserunt necessitatibus commodi. Ut beatae explicabo. Dolorem beatae natus eos eos ratione pariatur consequatur. Voluptatem officiis possimus ipsa repudiandae sit. Dolorem eos deserunt quam autem esse consequatur non.",
-    "icon_url": "http://placeimg.com/640/480"
-}
