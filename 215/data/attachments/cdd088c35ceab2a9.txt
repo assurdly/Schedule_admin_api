@@ -1,0 +1,5 @@
+{
+    "name": "Small Steel Gloves",
+    "description": "Debitis doloremque aut quia sed corrupti harum. Ut amet odio labore harum necessitatibus ut dolorem atque. Veritatis rerum aut voluptas unde. Ut beatae similique vel et ex dicta. Magni eaque sunt nihil in.",
+    "icon_url": "http://placeimg.com/640/480"
+}

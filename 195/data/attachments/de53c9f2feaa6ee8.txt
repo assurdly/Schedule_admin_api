@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Granite Mouse",
-    "description": "Aut doloribus unde ad quam voluptatem cum voluptatibus odit eum. Aut qui cum rem. Id eos enim eos voluptate illum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

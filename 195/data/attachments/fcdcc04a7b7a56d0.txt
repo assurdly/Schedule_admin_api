@@ -1,5 +1,0 @@
-{
-    "name": "Refined Frozen Salad",
-    "description": "Est aut totam iusto quia ut magnam numquam facere quos. Qui incidunt reiciendis est incidunt esse officiis ut. Possimus voluptate soluta.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://alva.com",
+    "api_key": "u",
+    "secret_key": "0",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "533",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e28fcd10-3468-4bf2-9a2e-1f6e285d22e2",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751017151"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
