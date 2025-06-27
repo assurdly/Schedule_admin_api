@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Metal Sausages",
+    "description": "Ea error et voluptatem consequatur itaque suscipit quaerat ut non. Commodi sequi eveniet in nam et. Sed voluptatum est voluptatibus. Et error omnis et vel minima qui qui perspiciatis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

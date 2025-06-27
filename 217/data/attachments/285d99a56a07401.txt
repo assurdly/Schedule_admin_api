@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Granite Shirt",
+    "description": "Perspiciatis sed maiores sequi ut consequatur sed. Sunt omnis laudantium autem aut maiores temporibus et vel. Est ad nihil quaerat inventore aliquid consequatur sit soluta. Sequi provident facere corporis recusandae voluptatem. Laborum autem dolorem quisquam voluptatem placeat est reprehenderit. Ratione quaerat velit debitis et deleniti illum amet vel.",
+    "icon_url": "http://placeimg.com/640/480"
+}
