@@ -1,0 +1,5 @@
+{
+    "name": "Small Rubber Cheese",
+    "description": "Et repudiandae ipsum quis et non aut optio nihil. Aliquid doloremque vitae officia est quia. Omnis inventore nemo sint repellat qui magni iusto.",
+    "icon_url": "http://placeimg.com/640/480"
+}

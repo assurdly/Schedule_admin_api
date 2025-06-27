@@ -1,8 +1,0 @@
-{
-    "name": "MTNDataProduct",
-    "short_name": "MTN utilities",
-    "description": "Practical",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "aggregator": "SwitchTech",
-    "category_id": "2"
-}

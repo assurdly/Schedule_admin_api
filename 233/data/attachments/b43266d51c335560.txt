@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Fresh Hat",
+    "description": "Autem eum beatae minima. Aliquam sint qui quo cumque iure dolorum excepturi autem voluptatem. Quia aperiam repudiandae quo itaque dolor. Magni necessitatibus quia repudiandae alias et.",
+    "icon_url": "http://placeimg.com/640/480"
+}

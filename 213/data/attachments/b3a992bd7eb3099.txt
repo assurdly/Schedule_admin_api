@@ -1,5 +1,0 @@
-{
-    "name": "Generic Metal Pizza",
-    "description": "Rem aut vel fuga tempora expedita possimus vel nam suscipit. Sed tempora provident voluptas dignissimos eos. Excepturi nemo aperiam voluptas alias veniam quia quidem est. Exercitationem maiores aut voluptatum qui aut voluptatibus dolore ut. Repellendus dolorum magnam vitae ipsam.",
-    "icon_url": "http://placeimg.com/640/480"
-}
