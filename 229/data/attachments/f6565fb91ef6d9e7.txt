@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://nova.name",
+    "api_key": "1",
+    "secret_key": "s",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "262",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "3c7ef18e-b845-40d6-8411-c501e8e901ff",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751036298"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

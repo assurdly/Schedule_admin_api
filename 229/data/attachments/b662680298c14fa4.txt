@@ -1,0 +1,5 @@
+{
+    "name": "Refined Soft Shoes",
+    "description": "Molestiae illum et eligendi impedit reprehenderit architecto ipsum soluta aperiam. Qui praesentium dicta iure amet quos. Ipsam aut sapiente quia in culpa cumque dolor. Consequatur porro sit saepe delectus. Quia illo porro alias deserunt ut magnam ut consequatur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

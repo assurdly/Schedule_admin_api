@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Expedita consequatur eveniet aperiam recusandae quo et nobis cumque sit. Numquam cumque quae qui voluptas dolore temporibus at quo. Est aperiam similique perspiciatis distinctio molestias dignissimos.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}

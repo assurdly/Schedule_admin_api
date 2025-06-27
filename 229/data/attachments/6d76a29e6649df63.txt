@@ -1,0 +1,20 @@
+{
+    "name": "Handcrafted Frozen Keyboard",
+    "base_url": "",
+    "api_key": "e",
+    "secret_key": "p",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "247",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e157755e-eee9-4c34-a03a-95c49c3f9e96",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751036298"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
