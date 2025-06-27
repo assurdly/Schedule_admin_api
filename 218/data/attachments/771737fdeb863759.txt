@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Metal Computer",
+    "description": "Eius quis minima dignissimos voluptatem et tenetur. Possimus qui repellendus repellat iusto numquam aspernatur excepturi maiores sit. Nemo vitae fugit aut nemo ducimus aut. Possimus reiciendis est cum. Accusantium illo aliquid in quasi aut earum quia.",
+    "icon_url": "http://placeimg.com/640/480"
+}

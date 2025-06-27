@@ -1,5 +1,0 @@
-{
-    "name": "Ergonomic Granite Shirt",
-    "description": "Expedita eum fuga quia voluptatem doloribus. Perspiciatis voluptas iusto. Aut perferendis quae culpa ipsam. Non consectetur natus dolorem eum voluptatem laborum. Dignissimos vitae tempora provident non qui occaecati itaque.",
-    "icon_url": "http://placeimg.com/640/480"
-}
