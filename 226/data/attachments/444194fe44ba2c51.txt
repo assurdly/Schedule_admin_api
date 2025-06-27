@@ -1,0 +1,20 @@
+{
+    "name": "Handmade Frozen Pizza",
+    "base_url": "",
+    "api_key": "b",
+    "secret_key": "b",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "858",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "be1ea3b9-4eed-415e-9d4b-0092a541b181",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751035673"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

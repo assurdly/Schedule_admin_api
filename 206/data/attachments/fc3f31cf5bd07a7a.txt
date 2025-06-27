@@ -1,5 +1,0 @@
-{
-    "name": "Practical Steel Fish",
-    "description": "Saepe qui aspernatur recusandae a. Quisquam nihil quisquam consequuntur vitae. Explicabo at consequatur sapiente beatae et sed modi fugiat voluptas.",
-    "icon_url": "http://placeimg.com/640/480"
-}

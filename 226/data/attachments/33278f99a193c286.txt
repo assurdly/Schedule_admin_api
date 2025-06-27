@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Wooden Gloves",
+    "description": "Eos corporis tempore consequatur est. Est ut distinctio voluptates voluptatum in dolores minima et voluptatibus. Fuga commodi et aliquid molestiae quibusdam earum voluptas quaerat.",
+    "icon_url": "http://placeimg.com/640/480"
+}

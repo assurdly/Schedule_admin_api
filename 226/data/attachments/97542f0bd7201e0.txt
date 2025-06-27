@@ -1,0 +1,20 @@
+{
+    "name": "Runolfsdottir, Huel and Jerde",
+    "base_url": "http://kaya.org",
+    "api_key": "c",
+    "secret_key": "6",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "128",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "1e697e64-775b-48c2-8259-c94dd348da0c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751035673"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

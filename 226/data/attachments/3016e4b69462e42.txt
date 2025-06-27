@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://elton.name",
+    "api_key": "j",
+    "secret_key": "0",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "597",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b758f83a-e37b-4e1b-89a5-936c024ba9f1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751035674"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

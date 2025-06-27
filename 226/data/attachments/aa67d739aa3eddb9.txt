@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://madalyn.biz",
+    "api_key": "8",
+    "secret_key": "l",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "918",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "8a6cc6e2-718e-4a58-a84e-2263f6330453",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751035674"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
