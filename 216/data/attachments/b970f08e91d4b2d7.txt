@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Delectus unde in ex sunt aut enim voluptatem. Ipsa vel culpa aut voluptas illum quisquam. Quas consequatur velit consequuntur. Eaque laborum unde et voluptatum voluptates rerum qui. Commodi porro rerum temporibus sint perferendis reiciendis maiores.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}

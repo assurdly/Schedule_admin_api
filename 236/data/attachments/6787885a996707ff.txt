@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://loyal.com",
+    "api_key": "3",
+    "secret_key": "t",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "37",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "feea8e83-d682-4104-8495-67a3f96b0e4e",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751048048"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
