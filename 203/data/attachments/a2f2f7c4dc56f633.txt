@@ -1,5 +1,0 @@
-{
-    "name": "Licensed Cotton Pants",
-    "description": "Consequatur provident error. Omnis sunt est. Aut nam vero ad voluptas illo.",
-    "icon_url": "http://placeimg.com/640/480"
-}

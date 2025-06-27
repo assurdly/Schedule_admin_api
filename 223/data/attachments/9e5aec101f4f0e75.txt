@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Fresh Towels",
+    "description": "Dolor sit asperiores eligendi eveniet aut. Esse fugit ut ut at numquam recusandae consequatur. Non ipsum fuga. Iusto vel quae pariatur. Sit voluptates sint qui ipsa omnis ad inventore.",
+    "icon_url": "http://placeimg.com/640/480"
+}

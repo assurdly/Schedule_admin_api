@@ -1,5 +1,0 @@
-{
-    "name": "Generic Plastic Fish",
-    "description": "Eos optio sequi excepturi rerum. Praesentium quibusdam repellat suscipit quas et cupiditate consequatur quam quia. Magni ut autem ea dolores. Commodi praesentium facere necessitatibus inventore.",
-    "icon_url": "http://placeimg.com/640/480"
-}
