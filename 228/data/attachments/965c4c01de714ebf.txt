@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Wooden Shirt",
+    "description": "Vero unde labore eum recusandae doloremque dolore cupiditate deleniti. Veritatis eveniet distinctio molestiae rerum nesciunt voluptatem. Aut ratione quasi aut velit qui.",
+    "icon_url": "http://placeimg.com/640/480"
+}

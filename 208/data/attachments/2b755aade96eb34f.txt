@@ -1,1 +1,0 @@
-{"status":"error","message":"Potential customer not found or already removed.","data":{}}

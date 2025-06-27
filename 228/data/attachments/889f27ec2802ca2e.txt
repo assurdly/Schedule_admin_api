@@ -1,0 +1,8 @@
+{
+    "name": "MTNDataCar",
+    "short_name": "MTN utilities",
+    "description": "auxiliary",
+    "icon_url": "https://cdn.example.com/icons/utilities.svg",
+    "aggregator": "SwitchTech",
+    "category_id": "2"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Est quasi corporis occaecati quaerat reprehenderit nesciunt temporibus. Quaerat molestiae eos aut. Corporis et voluptatem et sit quasi. Corporis ut autem dolorem officia vitae consequatur.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

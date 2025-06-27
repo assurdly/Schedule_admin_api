@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Fresh Table",
-    "description": "Veritatis et ut debitis facere. Facere autem odio. Tenetur et porro beatae aut perspiciatis quisquam doloremque.",
-    "icon_url": "http://placeimg.com/640/480"
-}

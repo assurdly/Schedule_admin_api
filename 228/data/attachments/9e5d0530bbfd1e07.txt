@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://herminia.biz",
+    "api_key": "6",
+    "secret_key": "y",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "429",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7934784d-07b2-446f-ae3a-d138644d7f2b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751036091"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

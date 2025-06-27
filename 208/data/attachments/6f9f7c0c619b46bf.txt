@@ -1,5 +1,0 @@
-{
-    "name": "Refined Steel Pizza",
-    "description": "Quisquam consectetur velit in. Eum dolorem est officiis nobis sint quisquam expedita ea. Exercitationem consequatur sint consequatur. Repellendus aut autem eum. Ratione quasi impedit consequatur est nihil et quia.",
-    "icon_url": "http://placeimg.com/640/480"
-}

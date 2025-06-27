@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://aiyana.name",
+    "api_key": "h",
+    "secret_key": "8",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "271",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "97c0e28e-05c4-4e2b-9047-936c20f46d92",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751036092"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
