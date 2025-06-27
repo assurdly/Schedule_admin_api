@@ -1,0 +1,5 @@
+{
+    "name": "Practical Frozen Salad",
+    "description": "Quasi necessitatibus numquam id sequi velit. Tempore modi tempora sit. Quasi consequatur voluptatem molestias sed laborum sunt sapiente enim. Nobis asperiores temporibus molestiae ut. Asperiores numquam ipsa aspernatur non accusamus molestiae. Dolorum architecto sit ea.",
+    "icon_url": "http://placeimg.com/640/480"
+}

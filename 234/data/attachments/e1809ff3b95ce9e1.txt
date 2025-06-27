@@ -1,0 +1,20 @@
+{
+    "name": "Smith Inc",
+    "base_url": "http://weldon.biz",
+    "api_key": "x",
+    "secret_key": "5",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "128",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "84b8d5a2-c483-4904-b9b1-43d24e9ba134",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751038941"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

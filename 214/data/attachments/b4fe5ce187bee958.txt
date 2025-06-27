@@ -1,5 +1,0 @@
-{
-    "name": "Tasty Cotton Fish",
-    "description": "Dolor qui nobis magni vero assumenda quam et aliquid. Et et voluptatibus veritatis velit culpa magnam. Voluptas distinctio ea architecto ea magni quis. Culpa optio explicabo ipsa recusandae qui molestiae a. Illum repudiandae commodi sit laboriosam nam accusamus nisi. Illum hic voluptatum placeat est voluptatem dolor.",
-    "icon_url": "http://placeimg.com/640/480"
-}
