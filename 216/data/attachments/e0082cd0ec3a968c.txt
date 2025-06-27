@@ -1,0 +1,20 @@
+{
+    "name": "Unbranded Frozen Chips",
+    "base_url": "",
+    "api_key": "l",
+    "secret_key": "v",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "108",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "c0890d0a-45cb-4b76-b951-b6b17eae7dcd",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751017343"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

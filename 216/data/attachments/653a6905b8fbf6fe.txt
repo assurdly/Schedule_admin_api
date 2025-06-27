@@ -1,0 +1,5 @@
+{
+    "name": "Small Cotton Hat",
+    "description": "Et laborum minima aperiam optio qui sed suscipit et. Maxime voluptatibus assumenda soluta. Perferendis et error id. Dolor sit necessitatibus.",
+    "icon_url": "http://placeimg.com/640/480"
+}

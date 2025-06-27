@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Granite Mouse",
+    "description": "Magnam rerum delectus et veritatis eveniet ducimus. Possimus quia illum veniam soluta aliquid similique nulla architecto et. Officia sit enim temporibus maxime.",
+    "icon_url": "http://placeimg.com/640/480"
+}
