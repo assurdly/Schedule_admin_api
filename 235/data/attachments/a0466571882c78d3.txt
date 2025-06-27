@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Plastic Car",
+    "description": "Ut neque eos sunt unde voluptatem provident. Voluptates voluptatem quis minus nobis maxime animi veniam optio consequatur. Esse tempore nemo ratione autem. Voluptatem et fugit dolores doloremque. Aut quod atque placeat aspernatur. Illo aut ut animi omnis.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://marcelina.com",
+    "api_key": "g",
+    "secret_key": "4",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "237",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a1090544-c645-4156-af7f-e03e68a21846",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751039116"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

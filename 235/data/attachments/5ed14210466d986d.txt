@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Frozen Chicken",
+    "description": "Rem et placeat natus placeat mollitia amet perspiciatis ut. Perspiciatis vel libero voluptas eum doloremque. Dignissimos omnis ut laboriosam modi incidunt.",
+    "icon_url": "http://placeimg.com/640/480"
+}

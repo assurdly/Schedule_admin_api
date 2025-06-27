@@ -1,0 +1,20 @@
+{
+    "name": "Gleichner LLC",
+    "base_url": "https://dimitri.net",
+    "api_key": "b",
+    "secret_key": "z",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "730",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7f267cff-df20-4d28-a6f8-4f8ae9cfb82c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751039115"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

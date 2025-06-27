@@ -1,0 +1,20 @@
+{
+    "name": "Gorgeous Fresh Sausages",
+    "base_url": "",
+    "api_key": "7",
+    "secret_key": "0",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "174",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "170d5a04-7554-4711-8fcb-53247361b19f",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751039116"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

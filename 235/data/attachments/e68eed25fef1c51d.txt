@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Eveniet asperiores voluptas et iusto. Voluptatem quaerat eveniet. Quidem aut expedita omnis incidunt eveniet officia quo. Ut sed numquam velit magni.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}
