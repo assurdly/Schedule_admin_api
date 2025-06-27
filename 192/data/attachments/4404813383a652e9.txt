@@ -1,6 +1,0 @@
-{
-    "name": "Licensed Granite Hat",
-    "description": "Testing now",
-    "icon_url": "http://placeimg.com/640/480",
-    "status": "active"
-}

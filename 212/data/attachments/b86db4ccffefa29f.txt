@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://virgil.net",
+    "api_key": "k",
+    "secret_key": "c",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "304",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7efdf8d3-eb39-4b30-ba87-7390a3f8fa0b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751016577"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Refined Rubber Chair",
-    "description": "Recusandae dignissimos et repellat accusamus. Repudiandae suscipit sapiente placeat aperiam vero. Labore quo facilis dolores rerum neque esse ut reprehenderit. Harum labore qui ratione. Voluptatem aperiam vel asperiores aut quis laboriosam. Consequuntur excepturi qui ipsa asperiores earum dolorem.",
-    "icon_url": "http://placeimg.com/640/480"
-}

@@ -1,5 +1,0 @@
-{
-    "name": "Small Concrete Fish",
-    "description": "Blanditiis quis laborum. Eos amet nihil necessitatibus libero ex consequuntur quos cum nesciunt. Ut praesentium ea similique. Enim assumenda quis inventore sit voluptatem aut repudiandae ut est. Facere sint non dolore. Rerum architecto ad eius nobis.",
-    "icon_url": "http://placeimg.com/640/480"
-}
