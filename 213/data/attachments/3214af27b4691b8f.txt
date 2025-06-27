@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Steel Pants",
+    "description": "Reiciendis enim quam quo illum qui commodi debitis et voluptatibus. Distinctio accusamus nesciunt vero. Tenetur unde qui impedit eum est et est nulla. Animi odio voluptatum expedita reiciendis officia totam inventore blanditiis iusto. Qui deleniti fugit in sit neque.",
+    "icon_url": "http://placeimg.com/640/480"
+}

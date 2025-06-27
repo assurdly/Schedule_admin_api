@@ -1,0 +1,20 @@
+{
+    "name": "Lind and Sons",
+    "base_url": "https://johnny.net",
+    "api_key": "h",
+    "secret_key": "k",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "814",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "39c64685-8fcb-4323-8708-2d9bb02e5d1f",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751016767"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
