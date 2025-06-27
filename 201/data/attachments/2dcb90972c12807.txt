@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Fresh Pizza",
-    "description": "Ipsum sed voluptatem amet aspernatur unde. Sapiente rerum blanditiis aut aliquid dolor. Minima vero ut facere porro aut laboriosam aliquam facere. Aut dolore consequatur est dolorum. Dignissimos molestiae commodi accusantium eius reiciendis.",
-    "icon_url": "http://placeimg.com/640/480"
-}

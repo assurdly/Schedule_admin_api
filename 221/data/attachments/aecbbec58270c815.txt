@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://josefa.net",
+    "api_key": "h",
+    "secret_key": "k",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "558",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "6925d274-ac64-4ac8-ae12-eacebe122d31",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751028376"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

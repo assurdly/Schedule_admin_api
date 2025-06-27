@@ -1,0 +1,20 @@
+{
+    "name": "Refined Frozen Bacon",
+    "base_url": "",
+    "api_key": "4",
+    "secret_key": "b",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "154",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "4553bb12-8e55-45ae-871d-32a7cfb94adb",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751028375"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Rubber Sausages",
+    "description": "Consequatur dignissimos voluptatem. A occaecati asperiores voluptatem commodi eos rerum. Eaque aut ipsum corrupti praesentium harum quo temporibus alias est. Consequatur ut qui rem.",
+    "icon_url": "http://placeimg.com/640/480"
+}

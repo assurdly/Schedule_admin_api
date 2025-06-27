@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Steel Car",
+    "description": "Sint eaque et tempore similique porro qui. Ut tempora aut. Nulla optio atque cumque hic aut voluptatem magni sequi. Consectetur veritatis expedita. Tempore optio et quo id laborum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

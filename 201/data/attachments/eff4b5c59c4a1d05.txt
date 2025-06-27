@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Magnam rerum qui eos iste aut nisi voluptatem est. Deserunt voluptatum recusandae possimus cum ducimus omnis ex asperiores. Autem non autem nihil.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}
