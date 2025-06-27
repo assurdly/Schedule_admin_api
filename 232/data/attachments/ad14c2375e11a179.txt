@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://everett.biz",
+    "api_key": "1",
+    "secret_key": "y",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "995",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "2955c038-1ad7-4bc9-9ad3-0672743babf8",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751038526"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

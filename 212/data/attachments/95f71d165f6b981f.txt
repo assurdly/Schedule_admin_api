@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Soft Hat",
-    "description": "",
-    "icon_url": "http://placeimg.com/640/480"
-}

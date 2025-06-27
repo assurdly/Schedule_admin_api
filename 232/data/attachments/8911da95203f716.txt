@@ -1,0 +1,5 @@
+{
+    "name": "Licensed Cotton Computer",
+    "description": "Hic animi eveniet laboriosam soluta. Aut perspiciatis voluptas. Quidem voluptatum repellendus ab vel excepturi odit qui nemo. Totam eius nihil eum explicabo mollitia. Pariatur aut asperiores necessitatibus.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://fabiola.name",
+    "api_key": "a",
+    "secret_key": "8",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "275",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "f694ffa8-0553-48a7-b814-cefbebaed2ea",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751038527"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

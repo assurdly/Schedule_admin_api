@@ -1,5 +1,0 @@
-{
-    "name": "Intelligent Cotton Tuna",
-    "description": "Dolores voluptatem mollitia eum omnis distinctio. Rem omnis odio suscipit vel molestias placeat. Hic nisi vitae vitae aut similique accusamus tempora ut. Ut cupiditate ratione. Qui quia hic consequuntur quo accusamus.",
-    "icon_url": "http://placeimg.com/640/480"
-}

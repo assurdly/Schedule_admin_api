@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Wooden Ball",
-    "description": "Sed ipsum rerum est dolorum qui error illo. Sunt natus qui maiores minus quibusdam sequi dignissimos laudantium repudiandae. Id debitis ullam ducimus autem distinctio et quas quos ut. Voluptatem eligendi tenetur tempora natus consectetur rerum alias. Eos ut rerum libero voluptas fugiat qui voluptatem.",
-    "icon_url": "http://placeimg.com/640/480"
-}
