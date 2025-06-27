@@ -1,0 +1,20 @@
+{
+    "name": "Kuhic Group",
+    "base_url": "http://dayna.biz",
+    "api_key": "s",
+    "secret_key": "6",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "152",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "e3907b3d-e6e6-44ce-a736-d6ab85305082",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751035878"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

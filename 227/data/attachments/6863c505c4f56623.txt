@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Rubber Mouse",
+    "description": "Aspernatur sunt autem eos fugiat aut nihil. Adipisci rerum provident. Et dolorem fugiat natus explicabo qui non. Dolor sit consequatur delectus. Dolore alias sequi voluptas alias.",
+    "icon_url": "http://placeimg.com/640/480"
+}
