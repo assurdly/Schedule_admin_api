@@ -1,5 +1,0 @@
-{
-    "name": "Practical Cotton Chair",
-    "description": "Et fugiat ut sequi doloribus provident asperiores laboriosam. Soluta commodi est a. Et aspernatur voluptas dignissimos magni laborum aspernatur.",
-    "icon_url": "http://placeimg.com/640/480"
-}

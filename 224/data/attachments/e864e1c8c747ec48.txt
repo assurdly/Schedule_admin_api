@@ -1,0 +1,10 @@
+const jsonData = pm.response.json
+
+pm.test("Check for response status code", function () {
+    pm.response.to.have.status(401);
+});
+pm.test("Check for error response returned", function () {
+    const jsonData = pm.response.json();
+    pm.expect(jsonData.message).to.exist;
+    pm.expect(jsonData.data).to.eql({});
+});

@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Wooden Mouse",
-    "description": "Illum laborum dolor. Aut aut error. Non sunt voluptatibus nulla ullam odio cumque quia molestias sint. Quam nihil tempore enim voluptatum aliquid quisquam repellat.",
-    "icon_url": "http://placeimg.com/640/480"
-}
