@@ -1,0 +1,20 @@
+{
+    "name": "Crist - Brakus",
+    "base_url": "https://douglas.biz",
+    "api_key": "1",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "969",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a9fa41ea-68cd-4675-898c-6119790fefd9",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751038325"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

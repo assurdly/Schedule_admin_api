@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Cotton Shoes",
-    "description": "Aliquid neque error molestiae minus qui quia rerum. Perferendis tempore tempore. Fuga et dolores.",
-    "icon_url": "http://placeimg.com/640/480"
-}

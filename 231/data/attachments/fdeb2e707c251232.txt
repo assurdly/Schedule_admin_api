@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Cotton Pizza",
+    "description": "Voluptatem perspiciatis ducimus deleniti est sed consequatur. Blanditiis quo a alias. Libero repudiandae quia quaerat. Dignissimos repellat consequatur at reprehenderit aliquam voluptatem nesciunt qui. Aut pariatur eos vel ab dolore.",
+    "icon_url": "http://placeimg.com/640/480"
+}

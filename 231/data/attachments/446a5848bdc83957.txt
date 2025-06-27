@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://rafaela.biz",
+    "api_key": "r",
+    "secret_key": "a",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "305",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "adb59312-4a88-4b6c-bbfb-6f2d427bbf81",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751038326"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

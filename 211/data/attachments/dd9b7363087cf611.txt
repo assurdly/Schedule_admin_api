@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Soft Computer",
-    "description": "Nemo sint voluptas quidem totam. Officia qui a in. Mollitia fuga et et enim. Natus esse sunt. Rem vero aspernatur.",
-    "icon_url": "http://placeimg.com/640/480"
-}

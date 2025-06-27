@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://rahsaan.name",
+    "api_key": "n",
+    "secret_key": "n",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "687",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "4734b12b-6afa-4ab3-8098-ee1b16a90112",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751038325"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

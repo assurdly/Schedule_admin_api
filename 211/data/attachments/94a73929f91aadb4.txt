@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Et commodi possimus qui tempore qui aliquid consequuntur facilis. Autem vel temporibus facilis provident illo commodi. Id voluptate est sequi quia sed velit consequatur doloremque.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}
