@@ -1,0 +1,20 @@
+{
+    "name": "Brakus Inc",
+    "base_url": "http://charley.com",
+    "api_key": "h",
+    "secret_key": "x",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "597",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "12b1b80a-411c-4b2c-ba35-b121e147862c",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751037736"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://kyleigh.biz",
+    "api_key": "s",
+    "secret_key": "e",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "658",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "95560e8e-5794-4248-887a-752d33f6e39a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751037738"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
