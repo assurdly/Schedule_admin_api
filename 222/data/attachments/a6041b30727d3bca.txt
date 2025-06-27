@@ -1,0 +1,5 @@
+{
+    "name": "Gorgeous Soft Towels",
+    "description": "Sed dolor quaerat ipsum temporibus enim nam saepe odit. Doloribus aut aut suscipit blanditiis. Eos dignissimos et cum laborum accusamus veritatis ea necessitatibus. Vel qui aliquid unde non ut eum nihil excepturi dolore. Et harum aut facilis. At atque eaque numquam sit.",
+    "icon_url": "http://placeimg.com/640/480"
+}
