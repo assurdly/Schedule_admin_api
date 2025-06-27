@@ -1,0 +1,1 @@
+{"status":"success","message":"success","data":{"amount_stats":[{"frequency":"daily","total_amount":"2600.00"}],"status_stats":[{"status":"requested","count":73},{"status":"paused","count":4},{"status":"active","count":22},{"status":"cancelled","count":27}]}}

@@ -1,0 +1,20 @@
+{
+    "name": "Gusikowski, Hand and Lindgren",
+    "base_url": "http://alden.com",
+    "api_key": "3",
+    "secret_key": "o",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "648",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "52e7dbff-868d-4b3f-884c-1d11b5c76a31",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751016975"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

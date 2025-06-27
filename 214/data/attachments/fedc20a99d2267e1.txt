@@ -1,0 +1,1 @@
+{"status":"success","message":"Batch created successfully","data":{"id":168,"name":"monitor","description":"Potential customer batch","product_group_id":"40","product_id":"68"}}

@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Plastic Tuna",
+    "description": "Laborum sunt eveniet fugiat alias velit distinctio. Occaecati voluptas quas tenetur fuga distinctio ullam deleniti ut quasi. Exercitationem possimus et. Cupiditate illo est assumenda maxime qui fuga labore. Dignissimos et quo porro dolorem omnis voluptatum alias.",
+    "icon_url": "http://placeimg.com/640/480"
+}

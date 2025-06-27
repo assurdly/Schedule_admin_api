@@ -1,0 +1,8 @@
+const jsonData = pm.response.text(); // Changed from pm.response.json() to pm.response.text()
+
+pm.collectionVariables.set("exported_data", jsonData); // Updated to store the text response directly
+console.log("Exported data saved to collection variable 'exported_data'");
+
+pm.test("Response status code is 200", function () {
+    pm.response.to.have.status(200);
+});
