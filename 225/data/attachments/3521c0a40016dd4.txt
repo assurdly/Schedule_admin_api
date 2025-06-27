@@ -1,0 +1,11 @@
+{
+    "title": " Promotion Sleek Wooden Ball",
+    "description": "This is a test",
+    "type": "offer", 
+    "product_id": "64",
+    "number_of_subscribers": 50,
+    "image": "https://c8.alamy.com/comp/2Y5BCJ4/germany-19th-aug-2024-in-this-photo-illustration-a-person-holds-a-smartphone-with-a-display-of-the-nigerian-telecommunications-company-globacom-limited-glo-website-and-its-logo-in-the-background-credit-sopa-images-limitedalamy-live-news-2Y5BCJ4.jpg",
+    "mobile_image": "https://c8.alamy.com/comp/2Y5BCJ4/germany-19th-aug-2024-in-this-photo-illustration-a-person-holds-a-smartphone-with-a-display-of-the-nigerian-telecommunications-company-globacom-limited-glo-website-and-its-logo-in-the-background-credit-sopa-images-limitedalamy-live-news-2Y5BCJ4.jpg",
+    "action_url": "https://google.com",
+    "action_text": "Claim"
+}

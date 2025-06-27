@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Soft Computer",
+    "description": "Eum et ut modi quod a culpa quae aut ut. Voluptate ea omnis voluptate amet rerum sit. Qui ullam earum at.",
+    "icon_url": "http://placeimg.com/640/480"
+}

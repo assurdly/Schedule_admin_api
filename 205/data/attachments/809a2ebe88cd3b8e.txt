@@ -1,6 +1,0 @@
-{
-    "name": "Category Airtime",
-    "description": "Velit facilis vero odio minima incidunt ut vel enim ut. Id rerum explicabo cupiditate et aspernatur dolorem. Qui sequi cumque qui quia ut quia excepturi sit.",
-    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
-    "status": "active"
-}
