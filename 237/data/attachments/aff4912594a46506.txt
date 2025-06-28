@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Quis reprehenderit veniam porro consequatur eius ut assumenda rem est. Dolores aut quibusdam et quia. Velit accusamus dolor voluptatem excepturi eos et. Cumque consectetur quidem unde pariatur. Ullam sunt sit quas aut tempore.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

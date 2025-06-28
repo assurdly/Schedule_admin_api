@@ -1,0 +1,20 @@
+{
+    "name": "Refined Cotton Bike",
+    "base_url": "",
+    "api_key": "6",
+    "secret_key": "m",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "330",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "7ad30906-efe9-416c-87b2-3da7703314d0",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751111233"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

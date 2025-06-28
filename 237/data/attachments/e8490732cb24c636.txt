@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://darlene.info",
+    "api_key": "e",
+    "secret_key": "f",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "699",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "4a671e6d-89a4-4aea-941f-65a73723c841",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751111233"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

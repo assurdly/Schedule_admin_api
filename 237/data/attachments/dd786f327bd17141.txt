@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Cotton Keyboard",
+    "description": "Illo qui quia expedita est distinctio consequuntur sit qui. Dolores ipsum ut vero voluptatem consequatur. Ipsa et voluptatum reiciendis dolores dolore laboriosam nihil voluptates. A est ducimus quod. Ipsam voluptas modi omnis autem cumque atque sed aliquam in. Incidunt quam cupiditate aut excepturi est officia officiis quo officia.",
+    "icon_url": "http://placeimg.com/640/480"
+}

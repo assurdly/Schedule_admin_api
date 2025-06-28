@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "http://devante.com",
+    "api_key": "h",
+    "secret_key": "1",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "534",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "9e0d458c-e277-4c58-8744-122a2070c969",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751111232"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

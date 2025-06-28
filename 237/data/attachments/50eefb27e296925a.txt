@@ -1,0 +1,5 @@
+{
+    "name": "Handcrafted Rubber Pants",
+    "description": "Animi molestiae voluptas qui. Tempora dolore totam omnis est. Vitae placeat consequatur illum non. Voluptates numquam exercitationem vel sapiente eius officiis. Consequuntur non voluptatem magni. Ut consequatur sit adipisci ut doloribus nihil error rem est.",
+    "icon_url": "http://placeimg.com/640/480"
+}
