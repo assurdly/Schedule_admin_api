@@ -1,0 +1,5 @@
+{
+    "name": "Practical Soft Sausages",
+    "description": "Inventore consequatur veritatis aut aperiam. Esse autem asperiores minima et magnam facilis repudiandae saepe. Omnis est odio commodi ut quas repudiandae ut. Est commodi esse eveniet qui qui illum cupiditate doloribus quod. Ut velit magnam quas aperiam fuga asperiores consectetur. Quos nihil quis eius animi cumque maiores quos nulla.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Frozen Hat",
-    "description": "Atque labore qui qui enim. Aut molestias repudiandae non a modi. Corporis facilis dolores provident dolor deserunt voluptatem ut impedit. Dolor at quae ut impedit id.",
-    "icon_url": "http://placeimg.com/640/480"
-}

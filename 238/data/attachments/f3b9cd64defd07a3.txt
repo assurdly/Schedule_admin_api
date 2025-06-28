@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Quaerat velit sit fuga. Maiores odio alias maiores. Reiciendis possimus dicta doloribus accusamus vero delectus soluta consequatur. Asperiores voluptatem voluptate porro consequatur eveniet quo. Modi eum ex ipsa voluptatum adipisci iste. Quos eius in.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}

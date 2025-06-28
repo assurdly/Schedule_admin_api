@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://celestine.name",
+    "api_key": "0",
+    "secret_key": "6",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "827",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "b936b2f3-4ffe-4caf-bc47-23c169c8a0b1",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751111413"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
