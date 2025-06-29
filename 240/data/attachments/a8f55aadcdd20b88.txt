@@ -1,0 +1,1 @@
+{"status":"success","message":"Transaction statistics retrieved successfully","data":{"status":"success","message":"Transaction statistics retrieved successfully","data":[{"status":"pending","count":22,"total_amount":16100},{"status":"reversed","count":2,"total_amount":1600},{"status":"disputed","count":1,"total_amount":1500}]}}

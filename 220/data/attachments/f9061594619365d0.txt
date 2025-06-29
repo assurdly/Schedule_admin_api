@@ -1,5 +1,0 @@
-{
-    "name": "Gorgeous Fresh Table",
-    "description": "Quibusdam officiis cupiditate. Suscipit ut quia cumque itaque omnis. Repellendus sint quo.",
-    "icon_url": "http://placeimg.com/640/480"
-}

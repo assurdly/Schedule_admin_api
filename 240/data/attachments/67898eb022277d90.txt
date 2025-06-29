@@ -1,0 +1,5 @@
+{
+    "name": "Small Soft Cheese",
+    "description": "Nisi vel similique. Sequi quas perferendis inventore fugit. Debitis nostrum consectetur vero aliquam tempora. Laborum molestiae dolorem sit esse quos.",
+    "icon_url": "http://placeimg.com/640/480"
+}

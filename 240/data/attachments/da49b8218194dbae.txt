@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://woodrow.org",
+    "api_key": "n",
+    "secret_key": "a",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "931",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "5e81bbd8-33ca-4915-b01b-ffd0845df5d0",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751213399"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

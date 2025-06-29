@@ -1,5 +1,0 @@
-{
-    "name": "Fantastic Steel Computer",
-    "description": "Molestiae illo maxime saepe. Nihil dolores inventore. Assumenda commodi dolore alias omnis quod repellat veniam. Unde quos rerum consequatur corrupti aliquam et deleniti excepturi.",
-    "icon_url": "http://placeimg.com/640/480"
-}

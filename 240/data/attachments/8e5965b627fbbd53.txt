@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://dennis.net",
+    "api_key": "i",
+    "secret_key": "6",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "551",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "f5a08ae2-ba4c-4da6-8813-6eeb2d3c6ca2",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751213398"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

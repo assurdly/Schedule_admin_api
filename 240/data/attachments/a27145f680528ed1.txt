@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Frozen Shirt",
+    "description": "Dolor nihil ea hic sed quisquam ut. Qui assumenda repellat et quia sequi omnis voluptas. Cupiditate ut error totam id. Adipisci quia ut et laborum eum et quasi.",
+    "icon_url": "http://placeimg.com/640/480"
+}

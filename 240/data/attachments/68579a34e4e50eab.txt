@@ -1,0 +1,20 @@
+{
+    "name": "Kihn Group",
+    "base_url": "https://silas.info",
+    "api_key": "g",
+    "secret_key": "h",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "358",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "efa75fd4-9350-4063-923c-87e2d336732d",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751213398"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
