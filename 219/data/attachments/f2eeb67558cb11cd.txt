@@ -1,1 +1,0 @@
-{"status":"success","message":"Batch created successfully","data":{"id":182,"name":"Testing","description":"","product_group_id":"40","product_id":"68"}}

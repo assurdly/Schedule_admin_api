@@ -1,0 +1,5 @@
+{
+    "name": "Handmade Plastic Shirt",
+    "description": "Et ut qui sed. Voluptatem modi qui et. Sit quis ullam exercitationem impedit sint.",
+    "icon_url": "http://placeimg.com/640/480"
+}

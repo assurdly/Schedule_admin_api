@@ -1,0 +1,6 @@
+{
+    "name": "Testing",
+    "description": "Test",
+    "product_group_id": "400",
+    "product_id": "68"
+}

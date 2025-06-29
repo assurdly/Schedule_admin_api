@@ -1,0 +1,20 @@
+{
+    "name": "Intelligent Granite Soap",
+    "base_url": "",
+    "api_key": "1",
+    "secret_key": "x",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "374",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a1f2cc88-20f4-4b7a-a37a-ccb307bbc9e5",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751198282"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

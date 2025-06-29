@@ -1,5 +1,0 @@
-{
-    "name": "Small Granite Car",
-    "description": "Aut error voluptatibus quia maiores placeat et nemo perspiciatis. Et ut quia ut et cum. Minus reiciendis reiciendis expedita sed. Dolor accusamus ex.",
-    "icon_url": "http://placeimg.com/640/480"
-}

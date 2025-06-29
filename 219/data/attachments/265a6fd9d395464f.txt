@@ -1,5 +1,0 @@
-{
-    "name": "Sleek Cotton Towels",
-    "description": "Assumenda id et. Blanditiis culpa quibusdam est architecto voluptatem accusamus et unde. Blanditiis et cupiditate doloribus veniam. Qui aut voluptas expedita.",
-    "icon_url": "http://placeimg.com/640/480"
-}

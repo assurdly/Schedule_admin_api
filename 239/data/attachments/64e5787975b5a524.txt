@@ -1,0 +1,20 @@
+{
+    "name": "Parker Inc",
+    "base_url": "https://allison.net",
+    "api_key": "f",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "359",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "adbf495f-c0b0-40c8-a00d-feead24b30a3",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751198282"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
