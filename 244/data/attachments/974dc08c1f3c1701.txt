@@ -1,0 +1,1 @@
+{"status":"error","message":"Settlement account number must be greater than 10 digits","data":{}}

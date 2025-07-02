@@ -1,8 +1,0 @@
-{
-    "name": "MTNDatahigh-level",
-    "description": "",
-    "icon_url": "https://cdn.example.com/icons/utilities.svg",
-    "amount": 100.00,
-    "product_group_id": "2",
-    "status": "active"
-}

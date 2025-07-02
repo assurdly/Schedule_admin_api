@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://tyreek.org",
+    "api_key": "s",
+    "secret_key": "3",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "144",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "73623d72-5747-4c2e-bcd9-c1ec01315583",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751473814"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

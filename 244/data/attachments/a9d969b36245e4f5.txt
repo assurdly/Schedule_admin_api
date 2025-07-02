@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://morris.org",
+    "api_key": "3",
+    "secret_key": "6",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "334",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "5ddcc8d4-dd02-455d-a2d9-552ac0b951b6",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751473813"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://bret.name",
+    "api_key": "c",
+    "secret_key": "r",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "869",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "34a3a51d-b146-4997-bfd3-35dc1caed170",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751473813"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

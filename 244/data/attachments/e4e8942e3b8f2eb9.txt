@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Soft Gloves",
+    "description": "Quos sed est quia praesentium tempora. Id alias dolor dolores neque rerum sed id. Sequi magni nulla voluptas atque vero ab omnis. Doloribus voluptates ab laborum excepturi et commodi accusantium tenetur.",
+    "icon_url": "http://placeimg.com/640/480"
+}

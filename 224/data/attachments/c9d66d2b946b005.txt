@@ -1,5 +1,0 @@
-{
-    "name": "Handcrafted Soft Salad",
-    "description": "Aperiam accusamus perferendis alias ipsa omnis pariatur. Est possimus aut. Aut corrupti amet dolores nisi in fuga quo voluptas. Quaerat quaerat minima sunt omnis quidem rerum dolor. Explicabo excepturi error et omnis ipsa cumque.",
-    "icon_url": "http://placeimg.com/640/480"
-}
