@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Concrete Sausages",
+    "description": "Voluptates facere vero quia magni eos aut. Enim quaerat dicta molestias rerum. Odio sint atque. Voluptatem sed illum veniam perspiciatis aut nesciunt dolorum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

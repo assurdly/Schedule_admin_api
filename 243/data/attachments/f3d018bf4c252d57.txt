@@ -1,0 +1,5 @@
+{
+    "name": "Awesome Steel Hat",
+    "description": "Nemo eligendi id. Dolor mollitia id beatae eos. Consequatur aliquid iusto ut est voluptatibus natus voluptatibus nihil eos. Hic optio odio veniam. Dolores dicta quia et exercitationem.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Soft Mouse",
-    "description": "Voluptas veritatis tenetur hic ut in maiores facilis sed. Omnis aut doloribus veniam id consequuntur qui. Omnis deleniti id necessitatibus nisi cupiditate ut ut sequi.",
-    "icon_url": "http://placeimg.com/640/480"
-}

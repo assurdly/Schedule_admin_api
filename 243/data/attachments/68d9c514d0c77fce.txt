@@ -1,0 +1,20 @@
+{
+    "name": "Gorgeous Steel Soap",
+    "base_url": "",
+    "api_key": "w",
+    "secret_key": "g",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "77",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "974f74ad-eaef-45fa-b87a-c97b9aa83a89",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751469469"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
