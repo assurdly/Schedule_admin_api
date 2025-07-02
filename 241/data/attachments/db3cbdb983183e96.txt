@@ -1,0 +1,5 @@
+{
+    "name": "Incredible Wooden Sausages",
+    "description": "Nulla ut et veritatis vero eos. Laborum adipisci id. Eos est ratione autem. Magnam ratione voluptas quae dolorem vitae cum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

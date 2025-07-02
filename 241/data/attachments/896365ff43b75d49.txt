@@ -1,0 +1,20 @@
+{
+    "name": "Greenfelder Inc",
+    "base_url": "https://annamarie.name",
+    "api_key": "e",
+    "secret_key": "e",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "769",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "cc21711f-9cb8-4407-9d18-f05623286562",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751467620"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

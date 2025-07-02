@@ -1,0 +1,5 @@
+{
+    "name": "Intelligent Plastic Chair",
+    "description": "Non perspiciatis dicta qui repellat et beatae soluta. Omnis id id rerum quia velit. Ut eos minima velit itaque enim eum velit alias. Vitae deserunt voluptas soluta voluptas similique iusto.",
+    "icon_url": "http://placeimg.com/640/480"
+}

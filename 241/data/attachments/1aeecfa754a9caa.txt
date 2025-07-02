@@ -1,0 +1,12 @@
+const jsonData = pm.response.json();
+
+pm.test('Validate that status code is correct', function () {
+    pm.response.to.have.status(404);
+});
+
+pm.test('Error response message exists and data returns empty', function () {
+    pm.expect(jsonData.status).to.eql('error');
+    pm.expect(jsonData.message).to.exist;
+    pm.expect(jsonData.data).to.be.empty;
+});
+
