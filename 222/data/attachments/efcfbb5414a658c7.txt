@@ -1,5 +1,0 @@
-{
-    "name": "Rustic Concrete Bike",
-    "description": "Sapiente officia minus enim et voluptatem deserunt occaecati maiores. Animi deserunt sunt distinctio omnis similique earum voluptas vel rem. Quia vel neque esse quia. Aut minima illum.",
-    "icon_url": "http://placeimg.com/640/480"
-}

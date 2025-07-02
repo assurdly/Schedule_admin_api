@@ -1,0 +1,20 @@
+{
+    "name": "Small Granite Shirt",
+    "base_url": "",
+    "api_key": "w",
+    "secret_key": "z",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "245",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "a945f5fc-fdc2-4706-811a-634ca0a12cfb",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751469023"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

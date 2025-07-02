@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Plastic Bacon",
+    "description": "Sint magnam velit. Aut error molestiae aliquam distinctio repellendus nostrum non provident. Perspiciatis eos tempora.",
+    "icon_url": "http://placeimg.com/640/480"
+}
