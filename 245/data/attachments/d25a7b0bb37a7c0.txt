@@ -1,0 +1,1 @@
+{"status":"success","message":"success","data":{"amount_stats":[{"frequency":"daily","total_amount":"109309.00"},{"frequency":"weekly","total_amount":"51112.18"},{"frequency":"monthly","total_amount":"21550.00"}],"status_stats":[{"status":"requested","count":70},{"status":"paused","count":4},{"status":"active","count":41},{"status":"cancelled","count":27}]}}

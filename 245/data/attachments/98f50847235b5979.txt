@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Soft Cheese",
+    "description": "Aut iure beatae dolores totam velit. Sint vel illum. Et cumque voluptas maiores doloremque consequatur. Aut aut vitae. Asperiores dolores corporis iste.",
+    "icon_url": "http://placeimg.com/640/480"
+}

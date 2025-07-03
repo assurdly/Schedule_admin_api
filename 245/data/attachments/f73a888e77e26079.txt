@@ -1,0 +1,20 @@
+{
+    "name": "Osinski - Ziemann",
+    "base_url": "http://jon.org",
+    "api_key": "q",
+    "secret_key": "8",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "129",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "883e34b3-264a-472e-b339-eb81ce5ecee4",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751547025"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

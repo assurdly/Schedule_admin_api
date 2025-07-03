@@ -1,0 +1,5 @@
+{
+    "name": "Fantastic Metal Towels",
+    "description": "Et minima recusandae ducimus est. Amet et et voluptatibus esse. Repellendus officia commodi rerum molestias accusantium et neque. Incidunt ut ut iure delectus aliquam voluptatem aut vel.",
+    "icon_url": "http://placeimg.com/640/480"
+}

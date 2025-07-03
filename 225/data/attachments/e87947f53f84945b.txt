@@ -1,5 +1,0 @@
-{
-    "name": "Refined Metal Chicken",
-    "description": "Assumenda occaecati rem veniam doloremque. Atque ipsa non cupiditate minima dolor est ducimus. Quasi corrupti tenetur dicta culpa alias ut et in. Rerum minima ad voluptatem omnis in nostrum facilis rem.",
-    "icon_url": "http://placeimg.com/640/480"
-}

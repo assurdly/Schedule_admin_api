@@ -1,6 +1,0 @@
-{
-    "name": "Testing",
-    "description": "",
-    "product_group_id": "40",
-    "product_id": "680"
-}

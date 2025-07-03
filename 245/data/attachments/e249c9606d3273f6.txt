@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "base_url": "https://ethyl.com",
+    "api_key": "h",
+    "secret_key": "w",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "762",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "552a727c-8d44-4729-93f6-8fa08db5203a",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751547026"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

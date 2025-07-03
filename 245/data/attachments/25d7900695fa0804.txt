@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://clarissa.net",
+    "api_key": "f",
+    "secret_key": "x",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "1",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "3454db6c-aa2d-4601-95e3-5b13e3182c51",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751547026"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}
