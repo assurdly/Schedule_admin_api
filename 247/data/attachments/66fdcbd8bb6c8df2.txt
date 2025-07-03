@@ -1,0 +1,5 @@
+{
+    "name": "Ergonomic Soft Shoes",
+    "description": "Hic quis possimus assumenda nisi voluptates eveniet. Doloremque animi hic voluptate maiores nobis inventore. Sint dolores corporis. Iusto molestiae soluta provident et. Non cupiditate sed qui veritatis suscipit quam voluptate voluptas eligendi.",
+    "icon_url": "http://placeimg.com/640/480"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://donny.biz",
+    "api_key": "e",
+    "secret_key": "m",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "127",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "ee6e03e8-f2a1-44ac-abb7-963ae7f6138d",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751566914"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://katelin.info",
+    "api_key": "5",
+    "secret_key": "r",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "622",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "8b07345b-7095-48fd-9ab5-768ba2a79c5b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751566914"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

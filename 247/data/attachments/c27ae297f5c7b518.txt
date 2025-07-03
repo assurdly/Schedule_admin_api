@@ -1,0 +1,20 @@
+{
+    "name": "Generic Steel Salad",
+    "base_url": "",
+    "api_key": "x",
+    "secret_key": "9",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "422",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "23e0ac43-f646-41de-ae17-92344b3d91cb",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751566914"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

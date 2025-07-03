@@ -1,5 +1,0 @@
-{
-    "name": "Incredible Granite Chair",
-    "description": "Quia cum minus. Ipsum necessitatibus ea id repudiandae sapiente voluptates qui. Repudiandae fugiat sequi est et dolor. Voluptates quia omnis. Voluptatem voluptas cumque odio quos magnam.",
-    "icon_url": "http://placeimg.com/640/480"
-}

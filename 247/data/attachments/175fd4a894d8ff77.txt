@@ -1,0 +1,6 @@
+{
+    "name": "Category Airtime",
+    "description": "Quos natus et dolores id sed. Quibusdam aliquam tenetur. Commodi odit eligendi. Libero corporis dolores quisquam voluptas.",
+    "icon_url": "https://cdn-icons-png.flaticon.com/128/2492/2492513.png",
+    "status": "active"
+}
