@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "http://garrick.info",
+    "api_key": "x",
+    "secret_key": "3",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "147",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "5a259a01-4561-4c7c-a8fc-5abdc66efc8b",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751548663"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

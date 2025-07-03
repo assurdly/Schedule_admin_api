@@ -1,0 +1,20 @@
+{
+    "name": "Handmade Steel Ball",
+    "base_url": "",
+    "api_key": "m",
+    "secret_key": "2",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "261",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "0214b5a9-0c4d-4958-86ff-fe22e59b0a83",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751548663"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

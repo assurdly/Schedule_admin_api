@@ -1,5 +1,0 @@
-{
-    "name": "Awesome Concrete Car",
-    "description": "Molestiae in et temporibus ad laudantium non quasi. Ut eaque earum ducimus doloribus omnis quaerat et. Soluta recusandae aut. Molestiae magnam voluptatibus quis adipisci non ab quaerat.",
-    "icon_url": "http://placeimg.com/640/480"
-}
