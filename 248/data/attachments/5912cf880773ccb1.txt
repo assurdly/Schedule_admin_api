@@ -1,0 +1,5 @@
+{
+    "name": "Gorgeous Steel Bacon",
+    "description": "Reiciendis doloremque ullam rerum et vero temporibus quibusdam. Aut qui eum aut asperiores molestias. Nostrum omnis aut. Et quia cumque accusantium dolores sit ipsum. Iusto labore fuga ut qui iste earum.",
+    "icon_url": "http://placeimg.com/640/480"
+}

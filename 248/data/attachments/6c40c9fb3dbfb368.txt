@@ -1,0 +1,20 @@
+{
+    "name": "Fadel, Heller and Howell",
+    "base_url": "https://willis.info",
+    "api_key": "m",
+    "secret_key": "l",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "297",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "4ef94d43-7412-499e-9e4d-340e79aaceb2",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751652822"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

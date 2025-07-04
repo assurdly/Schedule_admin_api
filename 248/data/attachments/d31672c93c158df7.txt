@@ -1,0 +1,20 @@
+{
+    "name": "Practical Steel Pants",
+    "base_url": "https://eleanore.name",
+    "api_key": "l",
+    "secret_key": "n",
+    "auth_type": "apikey",
+    "headers": {
+        "x-request-token": "918",
+        "x-client-id": "{{$uuid}}",
+        "x-api-version": "v1",
+        "x-correlation-id": "13a4fde2-0913-4959-8cda-7572dcbc2af5",
+        "x-platform": "web",
+        "x-user-agent": "PostmanRuntime/7.36.0",
+        "x-timestamp": "1751652823"
+    },
+    "environment": "sandbox",
+    "icon_url": null,
+    "client_id": null,
+    "timeout": 30000
+}

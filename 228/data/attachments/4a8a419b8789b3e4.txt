@@ -1,5 +1,0 @@
-{
-    "name": "Handmade Soft Table",
-    "description": "Pariatur dolor consectetur numquam molestias incidunt perspiciatis. Aspernatur optio ad aliquam iusto non ea nisi aperiam sunt. Magnam natus sit et. Eligendi quod accusantium ipsa in.",
-    "icon_url": "http://placeimg.com/640/480"
-}

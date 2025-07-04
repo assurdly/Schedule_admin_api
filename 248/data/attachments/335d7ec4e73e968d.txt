@@ -1,0 +1,5 @@
+{
+    "name": "Tasty Soft Keyboard",
+    "description": "Ipsum tempore quia officiis ut ab et voluptates quasi corporis. Officiis voluptatem eum doloremque omnis iure eligendi quos quibusdam quae. Ipsa et voluptatem aperiam doloremque. Sunt qui qui nemo alias blanditiis ad. Blanditiis quae sint maiores.",
+    "icon_url": "http://placeimg.com/640/480"
+}
